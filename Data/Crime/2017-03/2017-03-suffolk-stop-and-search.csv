@@ -1,0 +1,70 @@
+Type,Date,Part of a policing operation,Policing operation,Latitude,Longitude,Gender,Age range,Self-defined ethnicity,Officer-defined ethnicity,Legislation,Object of search,Outcome,Outcome linked to object of search,Removal of more than just outer clothing
+Person search,2017-03-01T08:15:52+00:00,False,,52.250363,0.716396,Male,18-24,Mixed - White and Asian (M3),Asian,Police and Criminal Evidence Act 1984 (section 1),,Nothing found - no further action,False,False
+Person search,2017-03-01T17:58:24+00:00,False,,52.060999,1.154102,Male,10-17,Not Stated (NS),White,Police and Criminal Evidence Act 1984 (section 1),,Suspect arrested,False,False
+Person search,2017-03-02T05:40:08+00:00,False,,52.059576,1.151813,Male,over 34,White - Any other White ethnic background (W9),White,Police and Criminal Evidence Act 1984 (section 1),,Suspect arrested,False,False
+Person search,2017-03-02T05:45:23+00:00,False,,52.059576,1.151813,Female,25-34,White - Any other White ethnic background (W9),White,Police and Criminal Evidence Act 1984 (section 1),,Nothing found - no further action,False,False
+Person search,2017-03-03T12:00:21+00:00,True,,52.060508,1.139126,Male,10-17,White - White British (W1),White,Criminal Justice Act 1988 (section 139B),,Nothing found - no further action,False,False
+Person search,2017-03-03T14:10:55+00:00,True,,52.060508,1.139126,Other,10-17,Black or Black British - Any other Black ethnic background (B9),Black,Police and Criminal Evidence Act 1984 (section 1),,Suspect arrested,False,False
+Person search,2017-03-03T20:10:31+00:00,False,,52.060508,1.139126,Male,,Black or Black British - African (B2),Black,Criminal Justice Act 1988 (section 139B),,Nothing found - no further action,False,False
+Person search,2017-03-04T03:10:43+00:00,False,,52.245835,0.709160,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Offender given drugs possession warning,False,False
+Person search,2017-03-04T11:00:05+00:00,False,,52.093665,0.413400,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Suspect summonsed to court,False,False
+Person search,2017-03-04T11:00:22+00:00,False,,52.093665,0.413400,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Offender given drugs possession warning,False,False
+Person search,2017-03-04T11:00:26+00:00,False,,52.093665,0.413400,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-04T11:00:36+00:00,False,,52.092536,0.398681,Female,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-04T11:00:38+00:00,False,,52.092536,0.398681,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-06T11:48:04+00:00,True,,52.473744,1.750268,Male,10-17,Mixed - Any other Mixed ethnic background (M9),Black,Misuse of Drugs Act 1971 (section 23),,Suspect arrested,False,False
+Person search,2017-03-06T11:50:45+00:00,True,,52.473744,1.750268,Male,10-17,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-06T12:07:20+00:00,True,,52.473744,1.750268,Male,18-24,Mixed - Any other Mixed ethnic background (M9),Black,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-06T14:29:05+00:00,True,,52.474890,1.745313,Male,10-17,Not Stated (NS),White,Misuse of Drugs Act 1971 (section 23),,Suspect arrested,False,False
+Person search,2017-03-06T16:45:52+00:00,False,,52.060999,1.154102,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-06T16:45:52+00:00,False,,52.060999,1.154102,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-06T17:50:40+00:00,False,,52.269298,1.494235,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Offender given drugs possession warning,False,False
+Person search,2017-03-07T11:18:03+00:00,True,,52.443273,1.722270,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Suspect arrested,True,False
+Person search,2017-03-07T13:24:34+00:00,False,,52.061461,1.101153,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-07T13:45:46+00:00,False,,52.060797,1.102114,Other,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-07T13:45:53+00:00,False,,52.065212,1.111336,Male,18-24,Mixed - Any other Mixed ethnic background (M9),Asian,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-07T13:45:56+00:00,False,,52.061461,1.101153,Male,over 34,White - Any other White ethnic background (W9),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-07T14:45:44+00:00,False,,52.084488,0.437661,Male,18-24,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),,Nothing found - no further action,False,False
+Person search,2017-03-07T15:05:06+00:00,False,,52.066227,1.274266,Male,18-24,White - Any other White ethnic background (W9),,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,True
+Person search,2017-03-07T15:10:36+00:00,False,,52.066227,1.274266,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-07T15:15:51+00:00,False,,52.066227,1.274266,Other,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-07T20:10:33+00:00,True,,52.060044,1.139327,Male,10-17,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),,Nothing found - no further action,False,False
+Person search,2017-03-08T14:30:16+00:00,True,,52.090946,0.415312,Male,18-24,Black or Black British - African (B2),Black,Misuse of Drugs Act 1971 (section 23),,Suspect arrested,True,True
+Person search,2017-03-08T14:30:29+00:00,False,,52.087897,0.419307,Male,10-17,Black or Black British - African (B2),Black,Misuse of Drugs Act 1971 (section 23),,Suspect arrested,True,True
+Person search,2017-03-08T14:30:30+00:00,True,,52.090946,0.415312,Male,10-17,Black or Black British - African (B2),Black,Misuse of Drugs Act 1971 (section 23),,Suspect arrested,True,True
+Person search,2017-03-08T14:45:13+00:00,True,,52.460526,1.740749,Male,18-24,Mixed - Any other Mixed ethnic background (M9),Black,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-08T15:00:39+00:00,True,,52.464209,1.743477,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-08T16:30:49+00:00,False,,52.082771,0.438501,Other,10-17,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Local resolution,True,False
+Person search,2017-03-08T17:15:16+00:00,False,,52.082771,0.438501,Male,over 34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-09T10:50:32+00:00,True,,52.475865,1.745484,Female,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Suspect arrested,True,True
+Person search,2017-03-09T23:30:40+00:00,False,,52.246312,0.715401,Male,,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),,Nothing found - no further action,False,False
+Person search,2017-03-10T10:05:12+00:00,True,,52.482439,1.756032,Male,over 34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-10T10:25:28+00:00,True,,52.459427,1.694772,Male,over 34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-10T11:45:39+00:00,False,,52.054268,1.158237,Male,over 34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-10T11:45:42+00:00,False,,52.054268,1.158237,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-10T15:07:36+00:00,False,,52.421378,1.718304,Male,10-17,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-10T15:10:35+00:00,False,,52.421378,1.718304,Male,18-24,White - White British (W1),White,,,Offender given drugs possession warning,False,False
+Person search,2017-03-10T15:15:52+00:00,False,,52.053060,1.168043,Male,25-34,Mixed - White and Black Caribbean (M1),Black,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-10T21:50:21+00:00,False,,52.087428,0.442916,Male,10-17,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),,Nothing found - no further action,False,False
+Person search,2017-03-10T23:50:53+00:00,False,,52.244128,0.711078,Male,over 34,Black or Black British - Any other Black ethnic background (B9),Black,Misuse of Drugs Act 1971 (section 23),,Suspect arrested,True,False
+Person search,2017-03-11T22:20:20+00:00,False,,52.061324,1.198702,Male,over 34,Black or Black British - Caribbean (B1),Black,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-11T22:50:07+00:00,False,,52.055687,1.193338,Other,,Not Stated (NS),,Police and Criminal Evidence Act 1984 (section 1),,Nothing found - no further action,False,False
+Person search,2017-03-12T01:00:46+00:00,False,,52.041949,0.733968,Male,18-24,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),,Nothing found - no further action,False,False
+Person search,2017-03-12T12:20:04+00:00,False,,52.038062,1.175266,Female,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-12T22:35:49+00:00,False,,51.967373,1.333450,Male,10-17,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-15T11:10:58+00:00,False,,52.465524,1.738847,Male,10-17,White - White British (W1),White,Criminal Justice Act 1988 (section 139B),,Nothing found - no further action,False,False
+Person search,2017-03-15T11:20:37+00:00,False,,52.465524,1.738847,Male,10-17,White - White British (W1),White,Criminal Justice Act 1988 (section 139B),,Nothing found - no further action,False,False
+Person search,2017-03-15T13:40:07+00:00,False,,52.058901,1.131936,Male,18-24,Chinese or other ethnic group - Any other ethnic group (O9),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-17T22:15:00+00:00,False,,51.961536,1.350866,Male,10-17,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),,Nothing found - no further action,False,False
+Person search,2017-03-21T13:20:13+00:00,False,,52.343363,0.526156,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-21T18:10:47+00:00,False,,52.186124,0.989682,Male,18-24,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),,Nothing found - no further action,False,False
+Person search,2017-03-22T15:30:23+00:00,True,,52.487279,1.753719,Male,over 34,Black or Black British - Caribbean (B1),Black,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-25T17:13:03+00:00,False,,52.051033,1.451327,Female,over 34,Asian or Asian British - Indian (A1),Black,Misuse of Drugs Act 1971 (section 23),,Nothing found - no further action,False,False
+Person search,2017-03-25T20:45:43+00:00,False,,52.021258,0.749352,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Suspect arrested,False,False
+Person search,2017-03-25T21:05:42+00:00,False,,52.021258,0.749352,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),,Offender given drugs possession warning,False,False
+Person search,2017-03-25T21:35:12+00:00,False,,52.021258,0.749352,Male,18-24,Mixed - White and Black Caribbean (M1),White,Misuse of Drugs Act 1971 (section 23),,Suspect arrested,True,True
+Person search,2017-03-28T16:50:18+00:00,False,,52.441012,0.608891,Male,25-34,White - Any other White ethnic background (W9),White,Police and Criminal Evidence Act 1984 (section 1),,Nothing found - no further action,False,False
+Person search,2017-03-28T16:50:18+00:00,False,,52.441012,0.608891,Male,25-34,White - Any other White ethnic background (W9),White,Police and Criminal Evidence Act 1984 (section 1),,Nothing found - no further action,False,False
+Person search,2017-03-31T10:15:45+00:00,False,,52.386455,1.671028,Male,18-24,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),,Nothing found - no further action,False,False
+Person search,2017-03-31T12:59:48+00:00,False,,52.334302,0.810896,Male,25-34,Not Stated (NS),White,Firearms Act 1968 (section 47),,Article found - Detailed outcome unavailable,True,False
+Person search,2017-03-31T13:50:02+00:00,False,,52.474556,1.749600,Female,25-34,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),,Nothing found - no further action,False,False

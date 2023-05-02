@@ -1,0 +1,254 @@
+Type,Date,Part of a policing operation,Policing operation,Latitude,Longitude,Gender,Age range,Self-defined ethnicity,Officer-defined ethnicity,Legislation,Object of search,Outcome,Outcome linked to object of search,Removal of more than just outer clothing
+Person search,2016-04-30T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-04-30T23:00:00+00:00,,,,,Male,over 34,White - White British (W1),White,,Controlled drugs,Suspect arrested,,
+Person search,2016-04-30T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Offensive weapons,Suspect arrested,,
+Person search,2016-04-30T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Stolen goods,,,
+Person search,2016-04-30T23:00:00+00:00,,,,,Male,,White - Any other White ethnic background (W9),White,,Controlled drugs,,,
+Person search,2016-05-01T02:10:00+00:00,,,53.404676,-0.765832,Male,over 34,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,Nothing found - no further action,False,False
+Person search,2016-05-01T13:25:00+00:00,,,53.225577,-0.544673,Male,25-34,Not Stated (NS),,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Nothing found - no further action,False,False
+Person search,2016-05-01T16:20:00+00:00,,,52.791627,-0.167829,Male,10-17,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Nothing found - no further action,True,False
+Person search,2016-05-01T16:24:00+00:00,,,52.791627,-0.167829,Male,10-17,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,Nothing found - no further action,True,False
+Person search,2016-05-01T18:17:00+00:00,,,53.217902,-0.548543,Male,over 34,White - Any other White ethnic background (W9),,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-01T18:30:00+00:00,,,53.219174,-0.545175,Male,25-34,Not Stated (NS),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Offender given drugs possession warning,True,False
+Person search,2016-05-01T22:55:00+00:00,,,53.261119,0.179668,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-01T23:00:00+00:00,,,53.261119,0.179668,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-01T23:00:00+00:00,,,,,Male,over 34,White - Any other White ethnic background (W9),White,,Controlled drugs,Suspect arrested,,
+Person search,2016-05-01T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-01T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-01T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-01T23:00:00+00:00,,,,,Male,25-34,White - Any other White ethnic background (W9),White,,Stolen goods,,,
+Person search,2016-05-02T02:33:00+00:00,,,52.981690,-0.029156,Male,18-24,White - Any other White ethnic background (W9),White,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,Nothing found - no further action,True,False
+Person search,2016-05-02T03:55:00+00:00,,,53.247922,-0.549580,Male,25-34,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Nothing found - no further action,False,False
+Person search,2016-05-02T18:40:00+00:00,,,53.399631,-0.820771,Male,10-17,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Suspect arrested,False,False
+Person search,2016-05-02T18:40:00+00:00,,,53.399631,-0.820771,Male,10-17,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Suspect arrested,False,False
+Person search,2016-05-02T18:40:00+00:00,,,53.399631,-0.820771,Male,10-17,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Suspect arrested,False,False
+Person search,2016-05-02T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-02T23:00:00+00:00,,,,,Male,over 34,White - White British (W1),White,,Offensive weapons,,,
+Vehicle search,2016-05-02T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Controlled drugs,Suspect arrested,,
+Person search,2016-05-02T23:00:00+00:00,,,,,Male,over 34,White - White British (W1),White,,Offensive weapons,,,
+Person search,2016-05-02T23:00:00+00:00,,,,,Male,over 34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-02T23:00:00+00:00,,,,,Male,25-34,Mixed - White and Black Caribbean (M1),White,,Controlled drugs,,,
+Person search,2016-05-02T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-02T23:00:00+00:00,,,,,Male,over 34,White - White British (W1),White,,Offensive weapons,Suspect arrested,,
+Person search,2016-05-02T23:00:00+00:00,,,,,Male,over 34,White - White British (W1),White,,Offensive weapons,,,
+Person search,2016-05-02T23:15:00+00:00,,,53.398022,-0.775304,Male,over 34,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Nothing found - no further action,False,False
+Person search,2016-05-02T23:15:00+00:00,,,53.398022,-0.775304,Male,over 34,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Nothing found - no further action,False,False
+Person search,2016-05-03T15:30:00+00:00,,,52.908494,-0.655934,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-03T19:50:00+00:00,,,52.978631,-0.043193,Male,18-24,White - Any other White ethnic background (W9),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-03T19:50:00+00:00,,,52.978631,-0.043193,Male,18-24,White - Any other White ethnic background (W9),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-03T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-03T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-03T23:00:00+00:00,,,,,Male,over 34,White - White British (W1),White,,Offensive weapons,,,
+Person search,2016-05-03T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Controlled drugs,Suspect arrested,,
+Person search,2016-05-03T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Controlled drugs,Suspect arrested,,
+Person search,2016-05-04T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Stolen goods,,,
+Person search,2016-05-04T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Stolen goods,,,
+Person search,2016-05-04T23:00:00+00:00,,,,,Male,10-17,White - White British (W1),White,,Controlled drugs,Suspect arrested,,
+Person search,2016-05-04T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-04T23:00:00+00:00,,,,,Male,18-24,White - Any other White ethnic background (W9),White,,Stolen goods,Suspect arrested,,
+Person search,2016-05-04T23:30:00+00:00,,,53.161319,0.236584,Male,18-24,Asian or Asian British - Any other Asian ethnic background (A9),Asian,Police and Criminal Evidence Act 1984 (section 1),Articles for use in criminal damage,Nothing found - no further action,False,False
+Person search,2016-05-05T09:03:00+00:00,,,52.984316,-0.037364,Male,25-34,Not Stated (NS),,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Offender given drugs possession warning,True,False
+Person search,2016-05-05T12:55:00+00:00,,,52.972176,-0.058571,Male,18-24,White - Any other White ethnic background (W9),White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Nothing found - no further action,True,False
+Person search,2016-05-05T12:58:00+00:00,,,52.976746,-0.034639,Male,25-34,White - Any other White ethnic background (W9),White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Nothing found - no further action,True,False
+Person search,2016-05-05T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Stolen goods,Suspect arrested,,
+Person search,2016-05-05T23:10:00+00:00,,,53.404873,-0.687394,Male,over 34,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,Nothing found - no further action,True,False
+Person search,2016-05-06T13:40:00+00:00,,,53.228998,-0.542834,Male,over 34,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Nothing found - no further action,True,False
+Person search,2016-05-06T14:15:00+00:00,,,53.204072,-0.577981,Male,25-34,Mixed - Any other Mixed ethnic background (M9),Black,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-06T14:50:00+00:00,,,53.228650,-0.534981,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-06T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Stolen goods,Suspect arrested,,
+Person search,2016-05-07T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,,Suspect arrested,,
+Person search,2016-05-07T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Controlled drugs,Suspect arrested,,
+Person search,2016-05-07T23:00:00+00:00,,,,,Female,over 34,White - White British (W1),White,,Stolen goods,,,
+Person search,2016-05-07T23:00:00+00:00,,,,,Male,10-17,White - White British (W1),White,,Stolen goods,,,
+Person search,2016-05-07T23:00:00+00:00,,,,,Male,10-17,White - White British (W1),White,,Stolen goods,,,
+Person search,2016-05-07T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-07T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-07T23:40:00+00:00,,,52.931668,-0.582983,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-08T01:25:00+00:00,,,52.912734,-0.642225,Female,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-08T20:10:00+00:00,,,53.391355,-0.773781,Male,18-24,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,Nothing found - no further action,False,False
+Person search,2016-05-08T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,,,,
+Person search,2016-05-08T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-08T23:00:00+00:00,,,,,Male,25-34,White - Any other White ethnic background (W9),White,,Stolen goods,Suspect arrested,,
+Person search,2016-05-08T23:00:00+00:00,,,,,Male,over 34,White - White British (W1),White,,Stolen goods,Suspect arrested,,
+Person search,2016-05-09T03:00:00+00:00,,,53.191199,0.337075,Male,25-34,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Nothing found - no further action,True,False
+Person search,2016-05-09T21:20:00+00:00,,,53.407081,-0.779497,Male,10-17,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-09T21:20:00+00:00,,,53.407081,-0.779497,Male,10-17,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-09T23:00:00+00:00,,,,,Male,18-24,White - Any other White ethnic background (W9),White,,Offensive weapons,,,
+Person search,2016-05-09T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-09T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-09T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-10T23:00:00+00:00,,,53.236823,-0.534402,Male,over 34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-10T23:00:00+00:00,,,,,Male,10-17,White - White British (W1),White,,,,,
+Person search,2016-05-10T23:00:00+00:00,,,,,Male,over 34,White - Any other White ethnic background (W9),White,,Controlled drugs,Suspect arrested,,
+Person search,2016-05-10T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-10T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-10T23:00:00+00:00,,,,,Male,over 34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-10T23:00:00+00:00,,,,,Male,over 34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-10T23:00:00+00:00,,,,,Male,over 34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-10T23:00:00+00:00,,,,,Female,25-34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-10T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-10T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-11T12:59:00+00:00,,,52.662325,-0.514331,Male,18-24,Not Stated (NS),,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,Nothing found - no further action,False,False
+Person search,2016-05-11T23:00:00+00:00,,,,,Male,over 34,White - Any other White ethnic background (W9),White,,Controlled drugs,Suspect arrested,,
+Person search,2016-05-11T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-11T23:00:00+00:00,,,,,Male,over 34,White - White British (W1),White,,Controlled drugs,Suspect arrested,,
+Person search,2016-05-11T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Controlled drugs,Suspect arrested,,
+Person search,2016-05-11T23:00:00+00:00,,,,,Male,10-17,White - White British (W1),White,,Stolen goods,,,
+Person search,2016-05-11T23:00:00+00:00,,,,,Female,10-17,White - White British (W1),White,,Stolen goods,,,
+Person search,2016-05-11T23:00:00+00:00,,,,,Female,10-17,White - White British (W1),White,,Stolen goods,,,
+Person search,2016-05-11T23:00:00+00:00,,,,,Female,10-17,White - White British (W1),White,,Stolen goods,,,
+Person search,2016-05-11T23:00:00+00:00,,,,,Male,18-24,White - Any other White ethnic background (W9),White,,Stolen goods,,,
+Person search,2016-05-11T23:00:00+00:00,,,,,Male,10-17,White - White British (W1),White,,Controlled drugs,Suspect arrested,,
+Person search,2016-05-11T23:00:00+00:00,,,,,Male,10-17,White - White British (W1),White,,Controlled drugs,Suspect arrested,,
+Person search,2016-05-12T00:35:00+00:00,,,53.209349,-0.584021,Female,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-12T00:35:00+00:00,,,53.209349,-0.584021,Female,over 34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-12T21:42:00+00:00,,,52.979289,-0.019390,Male,25-34,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Controlled drugs,Suspect arrested,False,False
+Person search,2016-05-12T21:55:00+00:00,,,52.786920,-0.151299,Male,10-17,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Articles for use in criminal damage,Nothing found - no further action,True,False
+Person search,2016-05-12T21:55:00+00:00,,,52.786920,-0.151299,Female,10-17,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Articles for use in criminal damage,Nothing found - no further action,True,False
+Person search,2016-05-12T21:58:00+00:00,,,52.786920,-0.151299,Male,10-17,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Articles for use in criminal damage,Nothing found - no further action,True,False
+Person search,2016-05-12T23:00:00+00:00,,,,,Female,10-17,White - White British (W1),White,,Evidence of offences under the Act,,,
+Person search,2016-05-12T23:00:00+00:00,,,,,Female,over 34,Mixed - White and Black Caribbean (M1),Black,,Controlled drugs,Suspect arrested,,
+Person search,2016-05-12T23:00:00+00:00,,,,,Male,25-34,Mixed - White and Black African (M2),White,,Controlled drugs,Suspect arrested,,
+Person search,2016-05-12T23:00:00+00:00,,,,,Male,10-17,White - Any other White ethnic background (W9),White,,Evidence of offences under the Act,,,
+Person search,2016-05-13T13:30:00+00:00,,,53.230801,-0.547717,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-13T13:45:00+00:00,,,53.228998,-0.542834,Male,over 34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-13T19:45:00+00:00,,,53.393246,-0.775035,Male,25-34,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Suspect arrested,True,False
+Person search,2016-05-13T20:38:00+00:00,,,53.192564,0.335338,Male,over 34,Not Stated (NS),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-13T23:00:00+00:00,,,,,Male,25-34,White - Any other White ethnic background (W9),White,,Controlled drugs,Suspect arrested,,
+Person search,2016-05-13T23:00:00+00:00,,,,,Male,25-34,White - Any other White ethnic background (W9),White,,Controlled drugs,Suspect arrested,,
+Person search,2016-05-13T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-14T07:22:00+00:00,,,53.247166,0.327998,Male,over 34,Not Stated (NS),,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-14T07:22:00+00:00,,,53.247166,0.327998,Female,over 34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-14T23:00:00+00:00,,,,,Male,25-34,Mixed - Any other Mixed ethnic background (M9),Mixed,,Controlled drugs,,,
+Person search,2016-05-14T23:00:00+00:00,,,,,Male,over 34,White - White British (W1),White,,Stolen goods,,,
+Person search,2016-05-15T04:24:00+00:00,,,53.208257,-0.123089,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-15T23:00:00+00:00,,,,,Male,18-24,Asian or Asian British - Any other Asian ethnic background (A9),Asian,,Stolen goods,,,
+Person search,2016-05-16T00:36:00+00:00,,,52.818875,-0.002219,Male,25-34,Not Stated (NS),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Offender given penalty notice,True,False
+Person search,2016-05-16T00:50:00+00:00,,,52.826089,-0.015277,Male,over 34,Not Stated (NS),,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-16T08:20:00+00:00,,,53.250990,-0.537950,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-16T14:00:00+00:00,,,53.229438,-0.530385,Female,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-16T14:00:00+00:00,,,53.229438,-0.530385,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Suspect arrested,True,False
+Person search,2016-05-16T14:00:00+00:00,,,53.229438,-0.530385,Male,over 34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-16T14:30:00+00:00,,,52.986967,-0.044917,Male,18-24,White - Any other White ethnic background (W9),White,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,Nothing found - no further action,True,False
+Person search,2016-05-16T15:12:00+00:00,,,53.106714,0.236289,Male,over 34,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,Suspect arrested,False,False
+Person search,2016-05-16T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Stolen goods,,,
+Person search,2016-05-16T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,,,,
+Person search,2016-05-16T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Stolen goods,,,
+Person search,2016-05-17T14:40:00+00:00,,,53.229930,-0.528735,Male,over 34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-17T17:00:00+00:00,,,53.300607,-0.745950,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-17T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-17T23:00:00+00:00,,,,,Female,over 34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-17T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-17T23:00:00+00:00,,,,,Male,10-17,White - White British (W1),White,,Evidence of offences under the Act,,,
+Person search,2016-05-17T23:00:00+00:00,,,,,Male,25-34,White - Any other White ethnic background (W9),White,,Evidence of offences under the Act,,,
+Person search,2016-05-17T23:00:00+00:00,,,,,Male,over 34,White - Any other White ethnic background (W9),White,,,,,
+Person search,2016-05-18T09:30:00+00:00,,,53.223162,-0.543407,Male,over 34,White - Any other White ethnic background (W9),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Suspect arrested,,
+Person search,2016-05-18T09:30:00+00:00,,,53.223162,-0.543407,Male,over 34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Suspect arrested,,
+Person search,2016-05-18T12:05:00+00:00,,,52.927562,-0.654346,Male,25-34,Chinese or other ethnic group - Any other ethnic group (O9),White,Police and Criminal Evidence Act 1984 (section 1),,Suspect arrested,,
+Person search,2016-05-18T16:40:00+00:00,,,52.984779,-0.039250,Male,25-34,White - Any other White ethnic background (W9),White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Nothing found - no further action,True,False
+Person search,2016-05-18T16:59:00+00:00,,,53.214332,-0.582045,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-18T18:36:00+00:00,,,53.142766,0.331977,Male,over 34,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Suspect arrested,,
+Person search,2016-05-18T21:00:00+00:00,,,53.340965,0.258910,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-18T23:00:00+00:00,,,,,Male,10-17,White - White British (W1),White,,Offensive weapons,,,
+Person search,2016-05-18T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Stolen goods,,,
+Person search,2016-05-18T23:00:00+00:00,,,,,Male,over 34,White - White British (W1),White,,Stolen goods,,,
+Person search,2016-05-18T23:00:00+00:00,,,,,Male,10-17,White - White British (W1),White,,Offensive weapons,,,
+Person search,2016-05-18T23:00:00+00:00,,,,,Male,10-17,White - White British (W1),White,,Offensive weapons,,,
+Person search,2016-05-19T11:45:00+00:00,,,53.139960,0.346658,Male,over 34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-19T11:45:00+00:00,,,53.139960,0.346658,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-19T11:48:00+00:00,,,53.226735,-0.540080,Male,over 34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Suspect arrested,,
+Person search,2016-05-19T12:42:00+00:00,,,53.228650,-0.534981,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-19T20:06:00+00:00,,,52.737737,-0.367290,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-19T20:06:00+00:00,,,52.737737,-0.367290,Female,,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-19T21:02:00+00:00,,,52.901053,-0.660119,Male,25-34,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,Suspect arrested,,
+Person search,2016-05-19T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-19T23:00:00+00:00,,,,,Male,25-34,White - Any other White ethnic background (W9),White,,Controlled drugs,,,
+Person search,2016-05-19T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Stolen goods,,,
+Person search,2016-05-19T23:00:00+00:00,,,,,Male,10-17,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-19T23:00:00+00:00,,,,,Male,10-17,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-19T23:00:00+00:00,,,,,Male,10-17,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-19T23:00:00+00:00,,,,,Male,10-17,Mixed - White and Black Caribbean (M1),Mixed,,Controlled drugs,,,
+Person search,2016-05-19T23:00:00+00:00,,,,,Male,over 34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-20T17:27:00+00:00,,,52.905227,-0.659559,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-20T22:30:00+00:00,,,52.978144,-0.017059,Male,18-24,Not Stated (NS),,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-20T23:00:00+00:00,,,,,Female,over 34,White - Any other White ethnic background (W9),White,,Controlled drugs,,,
+Person search,2016-05-20T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,,,,
+Person search,2016-05-20T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,,,,
+Person search,2016-05-20T23:40:00+00:00,,,52.651096,-0.481007,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-21T04:35:00+00:00,,,53.228650,-0.534981,Male,over 34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Suspect summonsed to court,True,False
+Person search,2016-05-21T08:21:00+00:00,,,52.767004,-0.365573,Male,10-17,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-21T09:14:00+00:00,,,52.801547,-0.378800,Male,10-17,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-21T21:50:00+00:00,,,53.228638,-0.531086,Male,over 34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-21T21:50:00+00:00,,,53.228638,-0.531086,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-21T22:05:00+00:00,,,53.228638,-0.531086,Male,over 34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-21T23:00:00+00:00,,,,,Male,over 34,White - Any other White ethnic background (W9),White,,Offensive weapons,,,
+Person search,2016-05-21T23:00:00+00:00,,,,,Male,over 34,White - White British (W1),White,,Stolen goods,,,
+Person search,2016-05-21T23:00:00+00:00,,,,,Male,10-17,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-21T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-22T00:15:00+00:00,,,52.976550,-0.031505,Male,25-34,Not Stated (NS),Black,Criminal Justice Act 1988 (section 139B),Offensive weapons,Nothing found - no further action,True,False
+Person search,2016-05-22T00:25:00+00:00,,,52.975450,-0.029157,Male,25-34,Chinese or other ethnic group - Any other ethnic group (O9),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-22T00:35:00+00:00,,,52.976032,-0.022517,Male,25-34,White - Any other White ethnic background (W9),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Suspect arrested,,
+Person search,2016-05-22T09:35:00+00:00,,,53.142974,0.337416,Female,25-34,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Suspect arrested,,
+Person search,2016-05-22T09:35:00+00:00,,,53.142974,0.337416,Female,over 34,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Suspect arrested,,
+Person search,2016-05-22T16:55:00+00:00,,,53.390836,-0.760112,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Suspect arrested,,
+Person search,2016-05-22T22:30:00+00:00,,,52.981182,-0.027243,Male,10-17,Not Stated (NS),White,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,Nothing found - no further action,False,False
+Person search,2016-05-22T23:00:00+00:00,,,,,Male,10-17,White - White British (W1),White,,Evidence of offences under the Act,,,
+Person search,2016-05-22T23:00:00+00:00,,,,,Female,over 34,White - White British (W1),White,,Stolen goods,,,
+Person search,2016-05-23T00:10:00+00:00,,,53.402493,-0.780846,Female,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Offender given drugs possession warning,False,False
+Person search,2016-05-23T00:10:00+00:00,,,53.402493,-0.780846,Male,18-24,Not Stated (NS),,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-23T00:10:00+00:00,,,53.402493,-0.780846,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-23T00:10:00+00:00,,,53.402493,-0.780846,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-23T01:45:00+00:00,,,52.910450,-0.669956,Male,over 34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-23T16:55:00+00:00,,,53.390836,-0.760112,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Suspect arrested,,
+Person search,2016-05-23T17:16:00+00:00,,,53.159360,0.306758,Male,10-17,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Nothing found - no further action,False,False
+Person search,2016-05-23T18:11:00+00:00,,,53.144958,0.343521,Male,10-17,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-23T18:11:00+00:00,,,53.144958,0.343521,Male,10-17,White - Any other White ethnic background (W9),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-23T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-23T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-23T23:00:00+00:00,,,,,Male,10-17,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-23T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-24T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-24T23:00:00+00:00,,,,,Male,10-17,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-25T08:06:00+00:00,,,52.987246,-0.043817,Male,18-24,White - Any other White ethnic background (W9),White,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,Nothing found - no further action,True,False
+Person search,2016-05-25T12:50:00+00:00,,,52.910401,-0.645763,Male,over 34,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Suspect arrested,,
+Person search,2016-05-25T16:10:00+00:00,,,53.220295,-0.550843,Male,10-17,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-25T16:10:00+00:00,,,53.220295,-0.550843,Female,10-17,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-25T23:00:00+00:00,,,,,Female,10-17,White - White British (W1),White,,Evidence of offences under the Act,,,
+Person search,2016-05-25T23:01:01+00:00,,,52.908494,-0.655934,Male,18-24,White - Any other White ethnic background (W9),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Suspect arrested,,
+Person search,2016-05-26T09:10:00+00:00,,,52.791315,-0.145432,Male,25-34,Not Stated (NS),,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Offender cautioned,True,False
+Person search,2016-05-26T09:15:00+00:00,,,52.791315,-0.145432,Male,25-34,White - Any other White ethnic background (W9),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-26T11:05:00+00:00,,,52.979963,-0.031812,Male,over 34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,True
+Person search,2016-05-26T11:15:00+00:00,,,52.902423,-0.666827,Male,25-34,Black or Black British - Caribbean (B1),Black,Police and Criminal Evidence Act 1984 (section 1),,Suspect arrested,,
+Person search,2016-05-26T13:50:00+00:00,,,52.920353,-0.076182,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Suspect summonsed to court,False,False
+Person search,2016-05-26T16:57:00+00:00,,,53.385899,-0.338280,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-26T17:06:00+00:00,,,53.385899,-0.338280,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-26T22:40:00+00:00,,,52.908494,-0.655934,Male,18-24,White - Any other White ethnic background (W9),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Suspect arrested,True,False
+Person search,2016-05-26T22:50:00+00:00,,,52.908494,-0.655934,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Suspect arrested,True,True
+Person search,2016-05-26T22:50:00+00:00,,,52.908494,-0.655934,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Suspect arrested,,
+Person search,2016-05-26T23:00:00+00:00,,,,,Male,18-24,White - Any other White ethnic background (W9),White,,Controlled drugs,,,
+Person search,2016-05-26T23:00:00+00:00,,,,,Female,10-17,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-27T09:29:00+00:00,,,52.975959,-0.030564,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,True
+Person search,2016-05-27T23:00:00+00:00,,,,,Male,over 34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-28T00:00:00+00:00,,,52.910775,-0.668474,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-28T00:00:00+00:00,,,52.910775,-0.668474,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-28T00:20:00+00:00,,,52.980159,-0.025204,Male,18-24,White - Any other White ethnic background (W9),White,,Controlled drugs,Suspect arrested,,
+Person search,2016-05-28T13:35:00+00:00,,,53.232608,-0.532299,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-28T23:00:00+00:00,,,,,Male,10-17,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-28T23:00:00+00:00,,,,,Male,18-24,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-28T23:00:00+00:00,,,,,Male,over 34,White - White British (W1),White,,Controlled drugs,,,
+Person search,2016-05-29T07:55:00+00:00,,,52.929115,-0.057717,Male,18-24,Not Stated (NS),,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Nothing found - no further action,True,False
+Person search,2016-05-29T09:05:00+00:00,,,52.764991,-0.159402,Male,25-34,White - Any other White ethnic background (W9),White,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,Nothing found - no further action,True,False
+Person search,2016-05-29T10:00:00+00:00,,,52.659656,-0.490233,Male,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-29T15:45:00+00:00,,,52.997603,0.075973,Male,18-24,White - White British (W1),White,,,Suspect arrested,,
+Person search,2016-05-29T20:48:00+00:00,,,53.232766,-0.557748,Male,over 34,Not Stated (NS),,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-30T12:15:00+00:00,,,53.233552,-0.557303,Male,25-34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Suspect arrested,,
+Person search,2016-05-30T12:15:00+00:00,,,53.233552,-0.557303,Female,18-24,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Suspect arrested,,
+Person search,2016-05-30T16:10:00+00:00,,,53.154831,0.319588,Female,over 34,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-30T16:30:00+00:00,,,52.978990,-0.024095,Male,25-34,Not Stated (NS),,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,True,False
+Person search,2016-05-30T17:05:00+00:00,,,52.974453,-0.023230,Male,25-34,White - Any other White ethnic background (W9),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Suspect arrested,True,True
+Person search,2016-05-30T17:05:00+00:00,,,52.974453,-0.023230,Male,25-34,White - Any other White ethnic background (W9),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Suspect arrested,True,True
+Person search,2016-05-30T23:00:00+00:00,,,,,Male,25-34,White - White British (W1),White,,Stolen goods,,,
+Person search,2016-05-30T23:14:00+00:00,,,53.227042,-0.541657,Male,25-34,White - White British (W1),White,,,Suspect arrested,,
+Person search,2016-05-31T13:50:00+00:00,,,52.952254,-0.044905,Other,over 34,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,Suspect summonsed to court,False,False
+Person search,2016-05-31T16:15:00+00:00,,,,,Male,10-17,White - White British (W1),White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Nothing found - no further action,False,False
+Person search,2016-05-31T21:41:00+00:00,,,53.230639,-0.539602,Male,25-34,White - White British (W1),White,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,Nothing found - no further action,False,False
