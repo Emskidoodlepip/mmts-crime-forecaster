@@ -1,0 +1,281 @@
+Type,Date,Part of a policing operation,Policing operation,Latitude,Longitude,Gender,Age range,Self-defined ethnicity,Officer-defined ethnicity,Legislation,Object of search,Outcome,Outcome linked to object of search,Removal of more than just outer clothing
+Person search,2021-05-01T02:00:00+00:00,False,,52.368011,-0.671031,Male,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-01T11:30:00+00:00,False,,52.302736,-0.694238,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-01T13:00:00+00:00,False,,52.235759,-1.051698,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-01T13:30:00+00:00,False,,52.235759,-1.051698,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-01T13:30:00+00:00,False,,52.235759,-1.051698,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,True,False
+Person search,2021-05-01T14:37:00+00:00,False,,52.304128,-0.688403,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-01T19:10:00+00:00,False,,52.459413,-0.737780,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-01T19:16:00+00:00,False,,52.459413,-0.737780,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-01T20:09:00+00:00,False,,52.488995,-0.697448,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-01T20:09:00+00:00,False,,52.488995,-0.697448,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-01T22:30:00+00:00,False,,52.257436,-1.164911,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,True,False
+Person search,2021-05-01T23:01:00+00:00,False,,52.238019,-0.910360,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person search,2021-05-01T23:15:00+00:00,False,,,,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-02T02:10:00+00:00,False,,52.243060,-0.887916,Female,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-02T02:15:00+00:00,False,,52.243060,-0.887916,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-02T10:25:00+00:00,False,,52.254231,-0.861003,Male,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-02T10:45:00+00:00,False,,52.251057,-0.869449,Male,25-34,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-02T10:58:00+00:00,False,,52.254231,-0.861003,Male,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-02T11:00:00+00:00,False,,52.290443,-0.681858,Female,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person search,2021-05-02T20:40:00+00:00,False,,52.250426,-0.815191,Male,10-17,Black/African/Caribbean/Black British - African,Black,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-02T21:30:00+00:00,False,,52.206013,-0.890246,Female,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-02T22:30:00+00:00,False,,52.237305,-0.896436,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-02T23:30:00+00:00,False,,52.218042,-0.678849,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-03T16:00:00+00:00,False,,,,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-03T18:20:00+00:00,True,,52.361237,-0.681118,Male,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,Arrest,True,False
+Person search,2021-05-03T19:10:00+00:00,False,,,,Female,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-03T22:18:00+00:00,False,,,,Female,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-04T13:00:00+00:00,False,,52.475739,-0.713476,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person search,2021-05-04T14:00:00+00:00,False,,52.242572,-0.897272,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-04T15:00:00+00:00,True,,52.481101,-0.715484,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-04T16:00:00+00:00,False,,52.084570,-0.989947,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-04T16:05:00+00:00,False,,52.084570,-0.989947,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-04T16:05:00+00:00,False,,52.084570,-0.989947,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-04T16:59:00+00:00,False,,52.304790,-0.594339,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-04T17:23:00+00:00,False,,52.292187,-0.599034,Female,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,A no further action disposal,False,False
+Person search,2021-05-04T22:45:00+00:00,False,,,,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-04T22:55:00+00:00,False,,52.271783,-0.904081,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-04T22:58:00+00:00,False,,52.385921,-0.904328,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-04T23:30:00+00:00,False,,,,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-04T23:45:00+00:00,False,,52.364241,-0.739745,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-05T08:21:00+00:00,False,,52.248970,-0.925121,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-05T08:21:00+00:00,False,,52.248970,-0.925121,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-05T09:48:00+00:00,False,,52.397096,-0.724935,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-05T10:15:00+00:00,False,,52.387566,-0.716569,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person search,2021-05-05T10:43:00+00:00,True,,,,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person search,2021-05-05T16:04:00+00:00,False,,52.501207,-0.696011,Male,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,Arrest,True,False
+Person search,2021-05-05T20:15:00+00:00,False,,52.305902,-0.688674,Male,25-34,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-05T21:52:00+00:00,False,,52.239677,-0.885730,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-05T22:06:00+00:00,False,,,,Male,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Evidence of offences under the Act,A no further action disposal,False,False
+Person search,2021-05-06T12:00:00+00:00,False,,52.257030,-0.835483,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-06T16:30:00+00:00,False,,,,Male,25-34,,,Police and Criminal Evidence Act 1984 (section 1),Evidence of offences under the Act,A no further action disposal,False,False
+Person search,2021-05-06T16:30:00+00:00,False,,,,Male,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Evidence of offences under the Act,A no further action disposal,False,False
+Person search,2021-05-06T16:30:00+00:00,False,,,,Male,25-34,,,Police and Criminal Evidence Act 1984 (section 1),Evidence of offences under the Act,A no further action disposal,False,False
+Person search,2021-05-06T22:16:00+00:00,False,,52.293947,-0.882214,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-07T07:00:00+00:00,False,,52.400248,-0.726226,Male,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Community resolution,True,False
+Person search,2021-05-07T07:45:00+00:00,False,,52.401317,-0.727856,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,A no further action disposal,False,False
+Person search,2021-05-07T14:30:00+00:00,False,,52.398868,-0.729132,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person search,2021-05-07T14:45:00+00:00,False,,,,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-07T16:50:00+00:00,False,,52.255199,-1.157555,Female,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-07T16:50:00+00:00,False,,52.255199,-1.157555,Female,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-07T17:04:00+00:00,False,,52.236932,-0.892140,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-07T17:06:00+00:00,False,,52.236932,-0.892140,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-07T17:06:00+00:00,False,,52.236932,-0.892140,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-07T17:10:00+00:00,False,,52.236932,-0.892140,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Caution (simple or conditional),True,False
+Person search,2021-05-07T20:00:00+00:00,False,,52.241545,-0.878903,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-07T22:01:00+00:00,False,,52.255742,-1.146762,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-07T22:26:00+00:00,False,,52.249547,-0.874174,Male,25-34,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-07T23:02:00+00:00,False,,52.255608,-0.919598,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-07T23:15:00+00:00,False,,52.255608,-0.919598,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-08T00:13:00+00:00,False,,52.269607,-0.857546,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,True,False
+Person search,2021-05-08T00:13:00+00:00,False,,52.269607,-0.857546,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-08T00:58:00+00:00,False,,52.228297,-0.893702,Male,25-34,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-08T03:15:00+00:00,False,,52.337221,-1.180845,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-08T04:00:00+00:00,False,,52.246389,-0.882501,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,A no further action disposal,False,False
+Person search,2021-05-08T04:00:00+00:00,False,,52.409446,-0.747322,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-08T04:20:00+00:00,False,,52.404552,-0.747020,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,True,False
+Person search,2021-05-08T11:20:00+00:00,False,,52.260064,-0.921116,Male,10-17,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-08T13:30:00+00:00,False,,52.262274,-0.839463,Male,25-34,,,Police and Criminal Evidence Act 1984 (section 1),Articles for use in criminal damage,A no further action disposal,False,False
+Person search,2021-05-08T19:15:00+00:00,False,,,,Male,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,True,False
+Person search,2021-05-08T21:45:00+00:00,False,,52.402187,-0.734299,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-08T21:45:00+00:00,False,,52.402187,-0.734299,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-08T22:00:00+00:00,False,,52.491653,-0.680873,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-08T22:00:00+00:00,False,,52.399757,-0.726593,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-08T22:00:00+00:00,False,,52.498840,-0.725515,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-08T22:15:00+00:00,False,,52.399757,-0.726593,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-08T22:15:00+00:00,False,,52.399263,-0.725784,Female,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-08T22:25:00+00:00,False,,52.399757,-0.726593,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-08T23:33:00+00:00,False,,51.998594,-1.264952,Female,10-17,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-09T00:16:00+00:00,False,,51.998594,-1.264952,Male,10-17,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-09T00:20:00+00:00,False,,51.998594,-1.264952,Male,10-17,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-09T09:40:00+00:00,False,,52.234333,-0.899775,Female,25-34,,,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Arrest,True,False
+Person search,2021-05-09T09:50:00+00:00,False,,52.222277,-0.918314,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-09T09:50:00+00:00,False,,52.222277,-0.918314,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,True,False
+Person search,2021-05-09T10:15:00+00:00,False,,52.122684,-0.809905,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,True,False
+Person search,2021-05-09T10:30:00+00:00,False,,52.359906,-0.794702,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-09T14:20:00+00:00,False,,52.309509,-0.687188,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-09T17:40:00+00:00,False,,52.260594,-0.852415,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,True,False
+Person search,2021-05-09T17:44:00+00:00,False,,52.261481,-0.853037,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,True,False
+Person search,2021-05-10T15:35:00+00:00,False,,52.259223,-0.895365,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person search,2021-05-10T16:04:00+00:00,False,,52.241462,-0.879593,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,True
+Person search,2021-05-10T16:04:00+00:00,False,,52.241462,-0.879593,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,True
+Person search,2021-05-10T16:04:00+00:00,False,,52.241462,-0.879593,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,True
+Person search,2021-05-10T21:35:00+00:00,False,,52.241529,-0.904050,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-10T21:40:00+00:00,False,,52.241529,-0.904050,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-10T21:40:00+00:00,True,,52.241529,-0.904050,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-10T21:45:00+00:00,False,,52.241529,-0.904050,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-10T22:30:00+00:00,False,,52.272416,-0.845881,Female,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-11T08:17:00+00:00,False,,52.227008,-0.902958,Female,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-11T16:18:00+00:00,False,,52.212782,-0.880622,Female,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-11T17:15:00+00:00,False,,52.241089,-0.885812,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person search,2021-05-11T17:50:00+00:00,False,,,,Female,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-11T18:10:00+00:00,False,,52.250719,-0.899311,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-11T22:00:00+00:00,False,,52.238866,-0.888387,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-12T11:30:00+00:00,False,,52.281177,-0.609291,Female,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-12T11:30:00+00:00,False,,52.281177,-0.609291,Female,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-12T12:40:00+00:00,False,,,,Male,over 34,,,Firearms Act 1968 (section 47),Firearms,A no further action disposal,False,False
+Person search,2021-05-12T12:44:00+00:00,False,,51.956401,-0.518102,Male,over 34,,,Firearms Act 1968 (section 47),Firearms,A no further action disposal,False,False
+Person search,2021-05-12T12:44:00+00:00,False,,51.956401,-0.518102,Male,25-34,,,Firearms Act 1968 (section 47),Firearms,A no further action disposal,False,False
+Person search,2021-05-12T13:05:00+00:00,True,,52.303225,-0.692126,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-12T13:20:00+00:00,False,,51.963790,-0.509358,Male,25-34,,,Firearms Act 1968 (section 47),Firearms,A no further action disposal,False,False
+Person search,2021-05-12T16:00:00+00:00,False,,52.255608,-0.919598,Female,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-12T16:00:00+00:00,False,,52.255608,-0.919598,Female,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-12T16:00:00+00:00,False,,52.246643,-0.899954,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-12T16:03:00+00:00,False,,52.246643,-0.899954,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person search,2021-05-12T16:09:00+00:00,False,,52.405347,-0.705675,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-12T17:45:00+00:00,False,,,,Female,25-34,,,Police and Criminal Evidence Act 1984 (section 1),Evidence of offences under the Act,A no further action disposal,False,False
+Person search,2021-05-12T19:50:00+00:00,False,,52.376945,-0.722107,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-12T21:50:00+00:00,False,,52.256621,-0.944040,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-13T03:49:00+00:00,False,,,,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-13T08:03:00+00:00,False,,52.239108,-0.893126,Male,25-34,White - Any other White background,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-13T14:55:00+00:00,False,,52.302736,-0.694238,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-13T16:05:00+00:00,False,,52.301602,-0.691675,Female,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-13T19:25:00+00:00,False,,52.239668,-0.899131,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-13T19:25:00+00:00,False,,52.239668,-0.899131,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-13T19:30:00+00:00,False,,52.239668,-0.899131,Male,25-34,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-13T22:51:00+00:00,False,,52.399112,-0.722569,Male,18-24,,,Firearms Act 1968 (section 47),Firearms,A no further action disposal,False,False
+Person search,2021-05-14T00:03:00+00:00,False,,52.272252,-0.853067,Male,,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-14T00:03:00+00:00,False,,52.272252,-0.853067,Female,,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-14T07:15:00+00:00,False,,52.279585,-1.155597,,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-14T12:40:00+00:00,False,,52.397096,-0.724935,Female,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-14T13:30:00+00:00,False,,52.397096,-0.724935,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-14T13:30:00+00:00,False,,52.397096,-0.724935,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-14T13:30:00+00:00,False,,52.397096,-0.724935,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-14T13:35:00+00:00,True,,52.225724,-0.897280,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-14T13:35:00+00:00,False,,52.225724,-0.897280,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-14T13:40:00+00:00,False,,52.397096,-0.724935,Female,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-14T14:00:00+00:00,False,,52.188945,-0.887013,Male,over 34,White - Any other White background,White,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-14T14:00:00+00:00,False,,52.188945,-0.887013,Male,18-24,White - Any other White background,White,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-14T15:00:00+00:00,False,,52.188945,-0.887013,Male,25-34,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-14T15:00:00+00:00,False,,52.242217,-0.890104,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-14T18:47:00+00:00,False,,52.295074,-0.599163,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-14T20:20:00+00:00,False,,52.395392,-0.523591,Female,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-14T21:15:00+00:00,False,,52.241872,-0.894448,Female,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,True
+Person search,2021-05-14T21:15:00+00:00,False,,52.241872,-0.894448,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,True
+Person search,2021-05-14T21:20:00+00:00,False,,52.300262,-0.693284,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-14T21:45:00+00:00,False,,52.243713,-0.881821,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Khat or Cannabis warning,True,False
+Person search,2021-05-14T21:50:00+00:00,False,,52.243713,-0.881821,Female,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-14T22:20:00+00:00,False,,52.300262,-0.693284,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-14T22:20:00+00:00,True,,52.300797,-0.693737,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-14T22:20:00+00:00,False,,52.300262,-0.693284,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-14T22:30:00+00:00,True,,52.300262,-0.693284,Female,,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-14T22:30:00+00:00,True,,52.300262,-0.693284,Female,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-14T23:15:00+00:00,False,,52.272416,-0.845881,Female,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-15T00:00:00+00:00,False,,52.453354,-0.824219,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-15T07:30:00+00:00,False,,52.260254,-0.900760,Male,25-34,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-15T07:30:00+00:00,False,,52.260254,-0.900760,Female,25-34,,,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,A no further action disposal,False,False
+Person search,2021-05-15T07:30:00+00:00,False,,52.260254,-0.900760,Male,25-34,,,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,A no further action disposal,False,False
+Person search,2021-05-15T15:30:00+00:00,False,,,,Female,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-15T15:30:00+00:00,False,,,,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-15T16:30:00+00:00,False,,52.241545,-0.878903,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-15T22:20:00+00:00,False,,,,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Evidence of offences under the Act,A no further action disposal,False,False
+Person search,2021-05-16T14:20:00+00:00,False,,52.239108,-0.893126,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-16T14:20:00+00:00,False,,52.239108,-0.893126,Male,,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-16T16:28:00+00:00,False,,52.236918,-0.898320,Male,10-17,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-16T17:30:00+00:00,False,,52.262265,-0.889018,Male,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-16T17:37:00+00:00,False,,52.262265,-0.889018,Male,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-16T17:40:00+00:00,False,,52.262265,-0.889018,Male,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-16T18:55:00+00:00,False,,52.261472,-0.955793,Male,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-16T21:15:00+00:00,False,,52.292629,-1.201946,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,True,False
+Person search,2021-05-17T04:00:00+00:00,False,,52.245367,-0.897100,Male,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-17T09:23:00+00:00,False,,52.500240,-0.673721,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-17T11:20:00+00:00,False,,52.305247,-0.691186,Male,over 34,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,Arrest,True,False
+Person search,2021-05-17T12:32:00+00:00,False,,52.400987,-0.725528,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,Arrest,True,False
+Person search,2021-05-17T15:07:00+00:00,False,,52.293577,-0.588932,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Khat or Cannabis warning,True,False
+Person search,2021-05-17T15:09:00+00:00,False,,52.293577,-0.588932,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,True,False
+Person search,2021-05-17T15:18:00+00:00,False,,52.293577,-0.588932,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-17T16:25:00+00:00,False,,52.400248,-0.726226,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,True,False
+Person search,2021-05-17T21:10:00+00:00,False,,52.254002,-0.834785,Male,25-34,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-18T12:03:00+00:00,False,,52.250157,-0.878773,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-18T14:00:00+00:00,False,,52.262774,-0.900112,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-18T14:00:00+00:00,False,,52.262774,-0.900112,Female,25-34,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,Arrest,True,False
+Person search,2021-05-18T15:15:00+00:00,False,,52.401283,-0.720508,Female,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-18T21:30:00+00:00,False,,52.255941,-0.915723,Female,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-18T21:30:00+00:00,False,,52.255941,-0.915723,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-19T01:00:00+00:00,False,,52.470732,-0.701196,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,True,False
+Person search,2021-05-19T10:25:00+00:00,False,,52.306824,-1.123179,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,True,False
+Person search,2021-05-19T10:25:00+00:00,False,,52.306824,-1.123179,Female,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,True,False
+Person search,2021-05-19T10:25:00+00:00,False,,52.306824,-1.123179,Female,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,True,False
+Person search,2021-05-19T11:40:00+00:00,False,,52.306824,-1.123179,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person search,2021-05-19T21:05:00+00:00,False,,52.437979,-0.822275,,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-20T05:00:00+00:00,True,,52.250259,-0.937394,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person search,2021-05-20T05:00:00+00:00,True,,52.250259,-0.937394,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,True
+Person search,2021-05-20T05:24:00+00:00,True,,52.250259,-0.937394,Female,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,True
+Person search,2021-05-20T10:50:00+00:00,False,,52.246185,-0.898105,Female,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-20T13:00:00+00:00,False,,52.253952,-0.870357,Female,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person search,2021-05-20T13:25:00+00:00,False,,52.401317,-0.727856,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Community resolution,True,False
+Person search,2021-05-20T15:15:00+00:00,True,,52.401738,-0.730210,Female,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-20T17:00:00+00:00,False,,52.239688,-0.914918,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person search,2021-05-20T23:00:00+00:00,False,,52.469846,-0.738954,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-20T23:15:00+00:00,False,,52.469846,-0.738954,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-21T00:00:00+00:00,False,,52.496336,-0.701105,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-21T00:30:00+00:00,False,,52.340334,-0.652470,Male,over 34,White - Irish,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-21T08:25:00+00:00,True,,52.350873,-1.150863,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Khat or Cannabis warning,True,False
+Person search,2021-05-21T08:25:00+00:00,False,,52.350873,-1.150863,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Khat or Cannabis warning,True,False
+Person search,2021-05-21T16:45:00+00:00,True,,,,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Evidence of offences under the Act,A no further action disposal,False,False
+Person search,2021-05-22T00:24:00+00:00,False,,52.399263,-0.725784,Male,,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-22T10:30:00+00:00,False,,52.238763,-0.913139,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-22T11:00:00+00:00,False,,52.298030,-0.674520,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,A no further action disposal,False,False
+Person search,2021-05-22T11:16:00+00:00,False,,52.298030,-0.674520,Male,25-34,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-22T11:39:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-22T17:00:00+00:00,False,,52.248234,-0.897967,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-22T17:00:00+00:00,False,,52.248234,-0.897967,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-22T17:14:00+00:00,False,,52.248234,-0.897967,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-22T22:50:00+00:00,False,,52.500026,-0.724626,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-22T22:50:00+00:00,False,,52.500026,-0.724626,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-23T12:30:00+00:00,False,,52.261521,-1.148981,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-23T17:16:00+00:00,False,,52.262265,-0.889018,Male,25-34,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-23T18:30:00+00:00,False,,52.252309,-0.845480,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-24T00:07:00+00:00,False,,52.481583,-0.721831,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-24T01:00:00+00:00,False,,52.248944,-0.909624,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-24T17:55:00+00:00,False,,52.302582,-0.696589,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person search,2021-05-25T06:20:00+00:00,False,,52.491035,-0.705547,Male,25-34,White - Any other White background,White,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-25T09:00:00+00:00,False,,52.300262,-0.693284,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Arrest,True,False
+Person search,2021-05-25T11:42:00+00:00,False,,,,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-25T11:44:00+00:00,False,,,,Male,,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-25T15:20:00+00:00,False,,52.148912,-1.086282,Female,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-25T16:10:00+00:00,False,,52.208821,-0.905952,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-25T16:15:00+00:00,False,,52.289120,-0.596712,Male,10-17,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-25T16:15:00+00:00,False,,52.289120,-0.596712,Male,18-24,Other ethnic group - Not stated,Black,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-25T21:00:00+00:00,False,,52.326123,-0.610803,Male,25-34,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,Arrest,True,False
+Person search,2021-05-26T11:44:00+00:00,True,,52.305012,-0.691941,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-26T14:25:00+00:00,False,,52.240890,-0.898163,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-26T14:38:00+00:00,False,,52.482063,-0.711362,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,True,False
+Person search,2021-05-26T14:38:00+00:00,False,,52.237305,-0.896436,Male,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,True
+Person search,2021-05-26T14:47:00+00:00,False,,52.330685,-0.811419,Male,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-26T14:47:00+00:00,False,,52.330685,-0.811419,Male,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-26T14:47:00+00:00,False,,52.330685,-0.811419,Male,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-26T14:47:00+00:00,False,,52.330685,-0.811419,Male,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-26T14:52:00+00:00,False,,52.238383,-0.895355,Male,25-34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-27T00:42:00+00:00,False,,52.241545,-0.878903,Female,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-27T00:45:00+00:00,False,,52.253467,-0.840718,Female,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-27T02:30:00+00:00,False,,52.310130,-0.732496,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-27T03:50:00+00:00,False,,52.387566,-0.716569,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-27T04:05:00+00:00,False,,52.387566,-0.716569,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-27T18:50:00+00:00,False,,52.489637,-0.696972,Male,,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-27T20:05:00+00:00,False,,52.236753,-0.900887,Female,10-17,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-27T20:30:00+00:00,False,,52.203674,-0.875875,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-27T23:30:00+00:00,False,,52.279854,-0.898942,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-28T01:15:00+00:00,False,,,,Male,25-34,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-28T01:15:00+00:00,False,,,,Female,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-28T01:20:00+00:00,False,,52.395788,-0.724532,Male,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,False,False
+Person search,2021-05-28T20:35:00+00:00,False,,52.243195,-0.895587,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-28T20:45:00+00:00,False,,52.259198,-1.159882,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-28T20:50:00+00:00,False,,52.258674,-1.160668,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Caution (simple or conditional),True,False
+Person search,2021-05-28T20:56:00+00:00,True,,52.258674,-1.160668,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-28T22:05:00+00:00,False,,52.289815,-0.605986,Male,over 34,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-29T09:54:00+00:00,False,,52.233166,-0.895133,Male,25-34,,,Firearms Act 1968 (section 47),Firearms,A no further action disposal,False,False
+Person search,2021-05-29T10:00:00+00:00,False,,52.235943,-0.890261,Male,18-24,,,Firearms Act 1968 (section 47),Firearms,A no further action disposal,False,False
+Person search,2021-05-29T10:30:00+00:00,False,,52.235943,-0.890261,Male,18-24,,,Firearms Act 1968 (section 47),Firearms,A no further action disposal,False,False
+Person search,2021-05-29T12:00:00+00:00,False,,,,Male,18-24,,,Police and Criminal Evidence Act 1984 (section 1),Evidence of offences under the Act,A no further action disposal,False,False
+Person search,2021-05-29T21:29:00+00:00,False,,52.331180,-1.201986,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,True,False
+Person search,2021-05-29T22:30:00+00:00,False,,52.378973,-0.543018,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,False,False
+Person search,2021-05-29T22:40:00+00:00,False,,52.378973,-0.543018,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Community resolution,True,False
+Person search,2021-05-29T22:40:00+00:00,False,,52.378973,-0.543018,Male,18-24,,,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person search,2021-05-30T12:44:00+00:00,False,,52.425626,-0.805264,Male,10-17,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,True,False
+Person search,2021-05-30T12:44:00+00:00,False,,52.425626,-0.805264,Male,10-17,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,True,False
+Person search,2021-05-30T14:38:00+00:00,False,,52.240138,-0.887901,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-31T03:58:00+00:00,False,,52.301418,-0.688894,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,A no further action disposal,False,True
+Person search,2021-05-31T16:00:00+00:00,False,,52.278015,-1.156023,Male,over 34,,,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,False,False
+Person search,2021-05-31T16:28:00+00:00,False,,,,Male,10-17,,,Police and Criminal Evidence Act 1984 (section 1),Evidence of offences under the Act,A no further action disposal,False,False
