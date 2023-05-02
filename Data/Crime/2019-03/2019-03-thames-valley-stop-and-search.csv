@@ -1,0 +1,990 @@
+Type,Date,Part of a policing operation,Policing operation,Latitude,Longitude,Gender,Age range,Self-defined ethnicity,Officer-defined ethnicity,Legislation,Object of search,Outcome,Outcome linked to object of search,Removal of more than just outer clothing
+Person and Vehicle search,2019-03-01T08:20:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,Arrest,False,False
+Person and Vehicle search,2019-03-01T09:40:00+00:00,False,,51.521190,-0.625269,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,
+Person and Vehicle search,2019-03-01T10:25:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Vehicle search,2019-03-01T11:30:00+00:00,False,,,,,,,,,Controlled drugs,A no further action disposal,,
+Person and Vehicle search,2019-03-01T14:05:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-01T16:18:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-01T16:40:00+00:00,False,,52.033953,-0.753498,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-01T18:30:00+00:00,False,,,,Male,25-34,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-01T18:30:00+00:00,False,,,,Male,18-24,,White,,Controlled drugs,A no further action disposal,,False
+Person search,2019-03-01T18:49:00+00:00,False,,51.523073,-0.681226,Male,10-17,Black/African/Caribbean/Black British - Caribbean,Black,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,A no further action disposal,,False
+Vehicle search,2019-03-01T18:50:00+00:00,False,,,,,,,,,Controlled drugs,A no further action disposal,,
+Person and Vehicle search,2019-03-01T19:49:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-01T19:49:00+00:00,False,,,,Male,25-34,,Asian,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-01T19:49:00+00:00,False,,,,Male,,,Asian,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-01T19:49:00+00:00,False,,,,,,,,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-01T19:54:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,,,False
+Person and Vehicle search,2019-03-01T21:05:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-01T21:06:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-01T21:10:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-01T21:20:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-01T21:28:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-01T21:30:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-01T22:00:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-01T22:30:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-01T22:35:00+00:00,True,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-01T22:45:00+00:00,False,,,,Female,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-01T23:00:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-01T23:05:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-01T23:45:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-01T23:50:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-01T23:52:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-01T23:53:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-01T23:55:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-02T00:33:00+00:00,False,,,,Female,18-24,,Asian,,Offensive weapons,Arrest,False,False
+Person and Vehicle search,2019-03-02T00:40:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-02T00:40:00+00:00,False,,,,Female,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-02T00:40:00+00:00,False,,,,Male,25-34,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Black,,Offensive weapons,Arrest,False,False
+Person and Vehicle search,2019-03-02T00:40:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,Arrest,False,False
+Person and Vehicle search,2019-03-02T02:10:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-02T02:10:00+00:00,False,,,,Female,25-34,Other ethnic group - Not stated,White,,Controlled drugs,,,False
+Person and Vehicle search,2019-03-02T02:20:00+00:00,False,,,,Male,25-34,Asian/Asian British - Pakistani,Asian,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-02T02:30:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-02T02:55:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,,,False
+Person and Vehicle search,2019-03-02T03:44:00+00:00,False,,,,Male,,Other ethnic group - Not stated,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-02T04:00:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-02T06:42:00+00:00,False,,51.764683,-1.592559,Male,18-24,Black/African/Caribbean/Black British - African,Black,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-02T06:55:00+00:00,False,,51.764683,-1.592559,Male,18-24,Black/African/Caribbean/Black British - Caribbean,Black,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-02T09:11:00+00:00,False,,,,Male,over 34,Other ethnic group - Not stated,White,,Stolen goods,Arrest,False,False
+Person and Vehicle search,2019-03-02T11:30:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-02T11:30:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-02T11:30:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-02T13:00:00+00:00,False,,,,Male,over 34,,White,,Stolen goods,Arrest,True,False
+Person and Vehicle search,2019-03-02T13:00:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,Arrest,True,False
+Person and Vehicle search,2019-03-02T13:45:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-02T17:08:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-02T17:08:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-02T17:15:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-02T18:20:00+00:00,False,,,,Female,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-02T19:20:00+00:00,False,,,,Female,18-24,Asian/Asian British - Any other Asian background,Asian,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-02T19:24:00+00:00,False,,,,Male,18-24,Asian/Asian British - Any other Asian background,Asian,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-02T22:58:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-02T22:58:00+00:00,False,,,,Male,25-34,White - Any other White background,White,,Controlled drugs,Caution (simple or conditional),True,False
+Person and Vehicle search,2019-03-02T23:00:00+00:00,False,,,,Female,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-02T23:10:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-02T23:40:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T00:00:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T00:00:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T00:05:00+00:00,False,,51.811014,-0.778443,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-03T00:09:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T00:10:00+00:00,False,,,,Male,10-17,Mixed/Multiple ethnic groups - White and Black African,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T00:13:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T01:15:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T01:16:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - Caribbean,Black,,Controlled drugs,,,False
+Person and Vehicle search,2019-03-03T01:45:00+00:00,False,,,,Male,18-24,Asian/Asian British - Any other Asian background,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T01:50:00+00:00,False,,,,Male,25-34,Asian/Asian British - Indian,Asian,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-03T01:59:00+00:00,False,,,,Male,25-34,Asian/Asian British - Indian,Asian,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-03T02:30:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T04:40:00+00:00,True,,,,Male,over 34,,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T09:15:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T09:53:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T11:50:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T13:05:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T14:35:00+00:00,False,,,,Male,10-17,White - Any other White background,White,,Article for use in theft,Arrest,False,False
+Person and Vehicle search,2019-03-03T14:35:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,Arrest,False,False
+Person and Vehicle search,2019-03-03T15:00:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,Arrest,True,False
+Person and Vehicle search,2019-03-03T15:10:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T15:29:00+00:00,False,,,,Male,25-34,Asian/Asian British - Pakistani,Asian,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-03T15:55:00+00:00,False,,,,Male,10-17,White - Irish,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T16:16:00+00:00,False,,,,Male,10-17,Asian/Asian British - Any other Asian background,Asian,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T16:16:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T16:16:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T16:16:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T16:16:00+00:00,False,,,,Male,10-17,White - Irish,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T16:35:00+00:00,False,,51.506279,-0.599219,Male,25-34,Asian/Asian British - Pakistani,Black,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,
+Person and Vehicle search,2019-03-03T16:45:00+00:00,False,,,,Male,18-24,,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T16:50:00+00:00,False,,,,Female,18-24,,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T16:50:00+00:00,False,,,,Female,10-17,,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T16:55:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-03T17:01:00+00:00,False,,,,Male,10-17,,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T18:50:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T19:17:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,Black,,Stolen goods,Arrest,False,False
+Person and Vehicle search,2019-03-03T19:31:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T20:45:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-03T20:48:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T20:59:00+00:00,False,,,,Male,18-24,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-03T21:45:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-04T00:57:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T01:04:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T01:06:00+00:00,False,,,,Female,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T01:15:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T03:27:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T09:15:00+00:00,False,,,,Female,18-24,,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T11:45:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T11:50:00+00:00,False,,,,Male,10-17,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T11:55:00+00:00,False,,,,Male,10-17,Asian/Asian British - Any other Asian background,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T11:56:00+00:00,False,,,,Male,10-17,White - Any other White background,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T12:00:00+00:00,False,,,,Male,18-24,,Asian,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-04T12:56:00+00:00,False,,,,,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T13:34:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T14:15:00+00:00,False,,,,Male,,,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T15:02:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,Asian,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T15:10:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T16:26:00+00:00,False,,51.627520,-0.749093,Male,25-34,Black/African/Caribbean/Black British - Caribbean,Black,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-04T17:05:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T18:50:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Black,,,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T20:05:00+00:00,False,,,,Male,25-34,Asian/Asian British - Pakistani,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T20:07:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T22:21:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T23:37:00+00:00,False,,,,Male,18-24,Mixed/Multiple ethnic groups - White and Black African,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T23:37:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-04T23:55:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-05T00:31:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-05T00:31:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-05T00:35:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-05T02:15:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-05T02:15:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-05T02:15:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-05T13:00:00+00:00,False,,51.628712,-0.751329,Male,18-24,Black/African/Caribbean/Black British - Caribbean,Black,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Khat or Cannabis warning,True,False
+Person search,2019-03-05T13:00:00+00:00,False,,51.628712,-0.751329,Male,18-24,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Black,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-05T13:00:00+00:00,False,,51.626808,-0.749012,Male,18-24,Black/African/Caribbean/Black British - Caribbean,Black,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-05T13:43:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-05T13:55:00+00:00,False,,,,Female,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-05T13:56:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-05T14:15:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-05T16:26:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Vehicle search,2019-03-05T16:30:00+00:00,False,,,,,,,,,Controlled drugs,A no further action disposal,,
+Person and Vehicle search,2019-03-05T16:47:00+00:00,False,,,,Female,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-05T16:47:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-05T16:54:00+00:00,False,,,,Male,10-17,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-05T17:15:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-05T17:15:00+00:00,False,,,,Male,25-34,White - Any other White background,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-05T22:25:00+00:00,False,,,,Female,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-05T22:25:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-05T22:29:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T00:00:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T00:35:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T00:50:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T01:10:00+00:00,False,,,,Male,18-24,White - Any other White background,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T01:30:00+00:00,False,,,,Male,25-34,,Black,,Article for use in theft,Arrest,False,False
+Person and Vehicle search,2019-03-06T02:05:00+00:00,True,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T02:10:00+00:00,True,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T11:00:00+00:00,False,,,,Male,25-34,White - Any other White background,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T12:20:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T12:24:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T12:24:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Community resolution,True,False
+Person and Vehicle search,2019-03-06T14:40:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T14:40:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T14:55:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T15:55:00+00:00,False,,,,Male,25-34,White - Any other White background,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T15:55:00+00:00,False,,,,Male,over 34,White - Any other White background,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T16:00:00+00:00,False,,,,Male,18-24,White - Any other White background,White,,Article for use in theft,A no further action disposal,,False
+Vehicle search,2019-03-06T16:05:00+00:00,False,,,,,,,,,Controlled drugs,,,
+Person and Vehicle search,2019-03-06T16:47:00+00:00,False,,,,Male,10-17,Asian/Asian British - Pakistani,Black,,Offensive weapons,Arrest,True,False
+Person and Vehicle search,2019-03-06T16:50:00+00:00,False,,,,Male,10-17,Mixed/Multiple ethnic groups - White and Black African,Black,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-06T17:30:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T17:35:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T19:09:00+00:00,False,,,,Male,10-17,Mixed/Multiple ethnic groups - Any other Mixed/Multiple ethnic background,,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T19:40:00+00:00,False,,,,Male,over 34,Black/African/Caribbean/Black British - African,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T19:45:00+00:00,False,,,,Female,over 34,Other ethnic group - Not stated,Asian,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-06T20:08:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T20:08:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T20:10:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-06T20:10:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-06T21:25:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T21:25:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T23:30:00+00:00,False,,,,Male,18-24,White - Any other White background,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-06T23:51:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-07T01:30:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-07T01:30:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-07T01:48:00+00:00,True,,,,Male,18-24,White - Any other White background,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-07T01:58:00+00:00,True,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-07T10:00:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-07T10:58:00+00:00,False,,,,Male,25-34,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-07T12:30:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-07T12:45:00+00:00,False,,,,Male,25-34,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-07T13:10:00+00:00,False,,,,Male,18-24,,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-07T13:10:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-07T13:10:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-07T13:10:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-07T14:00:00+00:00,False,,,,Male,over 34,Other ethnic group - Not stated,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-07T15:30:00+00:00,False,,,,Female,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-07T15:40:00+00:00,False,,,,Female,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-07T15:50:00+00:00,False,,,,Male,10-17,Asian/Asian British - Pakistani,Asian,,Offensive weapons,Khat or Cannabis warning,False,False
+Person and Vehicle search,2019-03-07T16:00:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-07T16:30:00+00:00,False,,,,Male,10-17,Other ethnic group - Any other ethnic group,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-07T17:13:00+00:00,False,,51.573943,-0.777751,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,,,False
+Person and Vehicle search,2019-03-07T19:30:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-07T19:35:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-07T22:15:00+00:00,False,,,,Male,25-34,Asian/Asian British - Any other Asian background,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-07T22:19:00+00:00,True,,,,Male,25-34,Asian/Asian British - Any other Asian background,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-07T22:39:00+00:00,False,,,,Male,10-17,Asian/Asian British - Pakistani,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-07T22:44:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-07T23:00:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-07T23:10:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-08T00:15:00+00:00,False,,,,Male,,Other ethnic group - Not stated,Asian,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-08T01:30:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-08T01:57:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-08T02:15:00+00:00,False,,,,Male,,,Black,,Offensive weapons,Arrest,True,False
+Person and Vehicle search,2019-03-08T02:15:00+00:00,False,,,,Male,25-34,Black/African/Caribbean/Black British - African,Black,,Offensive weapons,Arrest,False,False
+Person and Vehicle search,2019-03-08T02:28:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-08T03:12:00+00:00,False,,51.814841,-1.308868,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-08T11:08:00+00:00,False,,,,Male,10-17,Asian/Asian British - Pakistani,Asian,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-08T11:10:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-08T12:05:00+00:00,True,,,,Male,18-24,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-08T14:00:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-08T14:20:00+00:00,False,,,,Male,over 34,Other ethnic group - Not stated,Black,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-08T14:26:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-08T14:27:00+00:00,False,,,,Female,over 34,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-08T15:30:00+00:00,False,,51.627520,-0.749093,Male,18-24,Asian/Asian British - Pakistani,Asian,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-08T16:18:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Black,,Offensive weapons,Arrest,False,False
+Person and Vehicle search,2019-03-08T17:40:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-08T17:40:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-08T17:50:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-08T18:40:00+00:00,True,,,,Male,over 34,Black/African/Caribbean/Black British - Caribbean,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-08T19:33:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,,,Controlled drugs,,,False
+Person and Vehicle search,2019-03-08T19:40:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-08T20:45:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-08T20:52:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-08T21:09:00+00:00,False,,,,Male,25-34,,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-08T21:18:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-08T22:15:00+00:00,False,,,,Male,18-24,,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-08T23:53:00+00:00,False,,,,Male,25-34,Asian/Asian British - Chinese,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-09T01:00:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-09T01:11:00+00:00,False,,51.892943,-1.159141,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-09T01:15:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-09T01:19:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-09T02:32:00+00:00,False,,51.996277,-1.256702,Female,18-24,Other ethnic group - Not stated,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-09T03:10:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Asian,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-09T03:10:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Asian,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-09T03:10:00+00:00,False,,,,Male,18-24,Asian/Asian British - Any other Asian background,Asian,,Offensive weapons,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-09T03:15:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-09T03:15:00+00:00,False,,,,Male,25-34,Asian/Asian British - Pakistani,Asian,,Controlled drugs,Summons / charged by post,True,False
+Person and Vehicle search,2019-03-09T03:35:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-09T03:35:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-09T03:55:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-09T11:30:00+00:00,False,,,,Male,over 34,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-09T14:44:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-09T15:12:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-09T15:14:00+00:00,False,,,,Male,10-17,,Black,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-09T16:05:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,,,False
+Person and Vehicle search,2019-03-09T18:20:00+00:00,False,,,,Female,18-24,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-09T19:09:00+00:00,True,,51.742790,-1.256480,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-09T21:30:00+00:00,False,,,,Female,over 34,,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-09T21:50:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-09T22:35:00+00:00,False,,,,Male,10-17,Black/African/Caribbean/Black British - Caribbean,Black,,Offensive weapons,Arrest,True,False
+Person search,2019-03-09T23:01:00+00:00,False,,51.739388,-1.254609,Male,over 34,Other ethnic group - Not stated,Black,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-09T23:45:00+00:00,True,,,,Male,25-34,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-10T00:45:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-10T00:45:00+00:00,False,,,,Female,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-10T02:40:00+00:00,True,,,,Male,18-24,Other ethnic group - Not stated,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-10T03:48:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-10T04:14:00+00:00,False,,,,Male,,,Asian,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-10T09:00:00+00:00,False,,,,Female,over 34,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-10T09:00:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-10T11:15:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-10T12:45:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,Arrest,True,False
+Person search,2019-03-10T14:36:00+00:00,False,,51.555961,-0.615970,Male,over 34,White - Any other White background,White,Police and Criminal Evidence Act 1984 (section 1),Anything to threaten or harm anyone,A no further action disposal,,False
+Person and Vehicle search,2019-03-10T16:13:00+00:00,False,,,,Female,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-10T16:13:00+00:00,False,,,,Male,18-24,Asian/Asian British - Indian,Asian,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-10T16:18:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-10T19:50:00+00:00,False,,,,Male,25-34,White - Any other White background,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-10T22:05:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-10T22:10:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-10T22:15:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-10T22:53:00+00:00,False,,,,Male,25-34,,Asian,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-10T22:53:00+00:00,False,,,,Male,18-24,,Asian,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-11T01:20:00+00:00,True,,,,Female,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,Arrest,False,False
+Person and Vehicle search,2019-03-11T02:45:00+00:00,False,,,,Male,25-34,White - Any other White background,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-11T02:45:00+00:00,True,,,,Male,18-24,Mixed/Multiple ethnic groups - White and Black African,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-11T09:05:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-11T11:40:00+00:00,False,,,,Male,over 34,,,,Offensive weapons,Community resolution,False,False
+Person and Vehicle search,2019-03-11T12:00:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-11T12:04:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Black,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-11T12:40:00+00:00,False,,,,Male,over 34,Other ethnic group - Not stated,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-11T14:55:00+00:00,False,,,,Male,10-17,Mixed/Multiple ethnic groups - White and Black African,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-11T15:18:00+00:00,False,,,,Female,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-11T15:50:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,Asian,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-11T17:00:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-11T17:05:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-11T17:15:00+00:00,False,,,,Male,10-17,Asian/Asian British - Pakistani,Asian,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-11T17:55:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-11T18:05:00+00:00,True,,,,Male,18-24,Black/African/Caribbean/Black British - African,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-11T18:09:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - African,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-11T19:10:00+00:00,False,,,,Female,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-11T19:45:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person search,2019-03-11T20:21:00+00:00,False,,52.018960,-0.721155,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,Caution (simple or conditional),True,False
+Person and Vehicle search,2019-03-11T21:00:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,,A no further action disposal,,False
+Person search,2019-03-11T22:15:00+00:00,False,,51.628170,-0.751936,Male,18-24,White - Any other White background,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-11T22:51:00+00:00,True,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-11T22:51:00+00:00,True,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-11T23:05:00+00:00,True,,,,Male,25-34,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-11T23:05:00+00:00,True,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person search,2019-03-11T23:09:00+00:00,False,,51.628170,-0.751936,Male,10-17,Mixed/Multiple ethnic groups - White and Black Caribbean,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-12T00:30:00+00:00,False,,51.598455,-1.585442,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Caution (simple or conditional),True,False
+Person and Vehicle search,2019-03-12T02:47:00+00:00,False,,,,Male,25-34,,Black,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-12T16:00:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-12T16:05:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-12T16:40:00+00:00,False,,,,Male,10-17,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-12T16:40:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,,,False
+Person and Vehicle search,2019-03-12T16:45:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-12T17:09:00+00:00,False,,,,,18-24,,,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-12T17:10:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-12T17:58:00+00:00,True,,51.750790,-1.237879,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-12T18:01:00+00:00,False,,51.750790,-1.237879,Male,over 34,Black/African/Caribbean/Black British - Caribbean,Black,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-12T19:00:00+00:00,True,,51.757881,-1.257087,Male,18-24,Mixed/Multiple ethnic groups - White and Black African,Black,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-12T19:04:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Black,,Controlled drugs,Summons / charged by post,True,False
+Person and Vehicle search,2019-03-12T19:50:00+00:00,False,,,,Male,25-34,Black/African/Caribbean/Black British - Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-12T21:20:00+00:00,False,,,,Male,under 10,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-12T22:35:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-12T23:30:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,
+Person and Vehicle search,2019-03-13T00:13:00+00:00,False,,51.627520,-0.749093,Female,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person search,2019-03-13T01:23:00+00:00,False,,51.627520,-0.749093,Female,,White - Any other White background,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T02:25:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T02:41:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Caution (simple or conditional),True,False
+Person and Vehicle search,2019-03-13T02:48:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T02:50:00+00:00,False,,,,Male,25-34,Black/African/Caribbean/Black British - Caribbean,Black,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T09:18:00+00:00,False,,,,Male,18-24,,White,,Offensive weapons,Arrest,False,False
+Person and Vehicle search,2019-03-13T09:20:00+00:00,False,,,,Male,10-17,White - Irish,White,,Offensive weapons,Arrest,False,False
+Person and Vehicle search,2019-03-13T12:00:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T12:20:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-13T12:25:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,White,,Offensive weapons,Arrest,True,False
+Person and Vehicle search,2019-03-13T13:00:00+00:00,False,,,,Male,25-34,Asian/Asian British - Chinese,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T13:00:00+00:00,False,,,,Male,18-24,Asian/Asian British - Chinese,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T13:00:00+00:00,False,,,,Male,18-24,Asian/Asian British - Chinese,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T13:05:00+00:00,False,,,,Female,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,Arrest,True,False
+Person and Vehicle search,2019-03-13T13:18:00+00:00,False,,51.633662,-0.754241,,18-24,Black/African/Caribbean/Black British - Caribbean,Black,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T13:30:00+00:00,False,,51.635928,-0.780868,,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T13:34:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T14:00:00+00:00,False,,,,Male,18-24,Mixed/Multiple ethnic groups - Any other Mixed/Multiple ethnic background,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T14:00:00+00:00,False,,,,Male,18-24,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T14:00:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,
+Person and Vehicle search,2019-03-13T14:40:00+00:00,False,,,,Male,10-17,Black/African/Caribbean/Black British - African,Black,,,,,False
+Person and Vehicle search,2019-03-13T14:45:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T15:30:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T15:40:00+00:00,False,,,,Male,10-17,Black/African/Caribbean/Black British - African,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T15:40:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-13T15:40:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-13T15:46:00+00:00,False,,,,Male,10-17,Black/African/Caribbean/Black British - African,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T16:30:00+00:00,False,,,,Male,over 34,White - Any other White background,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T16:30:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,White,,Controlled drugs,,,False
+Person and Vehicle search,2019-03-13T16:51:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,,,False
+Person and Vehicle search,2019-03-13T17:10:00+00:00,True,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-13T17:12:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T17:18:00+00:00,True,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T17:20:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T17:20:00+00:00,True,,,,Male,10-17,Black/African/Caribbean/Black British - Caribbean,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T17:21:00+00:00,True,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,Arrest,True,False
+Person and Vehicle search,2019-03-13T17:30:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T17:55:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T18:00:00+00:00,False,,,,Female,25-34,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T18:00:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-13T18:09:00+00:00,False,,,,Male,18-24,Asian/Asian British - Indian,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T18:10:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T18:11:00+00:00,False,,,,Male,,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T20:01:00+00:00,True,,51.734466,-1.213898,Male,25-34,White - Any other White background,White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T20:01:00+00:00,True,,51.734466,-1.213898,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T20:10:00+00:00,False,,,,Male,25-34,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T20:34:00+00:00,False,,,,Male,over 34,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T20:45:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T20:46:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T20:50:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T21:44:00+00:00,False,,,,Male,25-34,White - Any other White background,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T21:50:00+00:00,False,,,,Male,over 34,White - Any other White background,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T22:10:00+00:00,False,,,,Male,25-34,White - Any other White background,White,,Article for use in theft,Khat or Cannabis warning,False,False
+Person and Vehicle search,2019-03-13T23:00:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,White,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-13T23:10:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-13T23:13:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,White,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-13T23:15:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,White,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-13T23:24:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,Arrest,False,False
+Person and Vehicle search,2019-03-13T23:28:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,White,,Offensive weapons,Arrest,True,False
+Person and Vehicle search,2019-03-13T23:30:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,Black,,Offensive weapons,Arrest,True,False
+Person and Vehicle search,2019-03-13T23:30:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Black,,Offensive weapons,Arrest,True,False
+Person and Vehicle search,2019-03-13T23:38:00+00:00,False,,,,Male,18-24,White - Any other White background,White,,Offensive weapons,Arrest,True,False
+Person and Vehicle search,2019-03-14T01:06:00+00:00,False,,,,Male,18-24,,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T01:06:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T01:31:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T01:31:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T02:54:00+00:00,False,,51.532704,-0.896442,Male,25-34,Asian/Asian British - Any other Asian background,Asian,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-14T02:57:00+00:00,False,,51.532704,-0.896442,Male,over 34,Asian/Asian British - Any other Asian background,Asian,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T03:52:00+00:00,False,,,,Male,10-17,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T06:20:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T09:49:00+00:00,False,,52.063827,-1.341719,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,,,False
+Person and Vehicle search,2019-03-14T10:35:00+00:00,False,,,,Male,25-34,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T10:40:00+00:00,False,,,,Male,18-24,,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T13:35:00+00:00,False,,,,Male,18-24,Asian/Asian British - Any other Asian background,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T13:40:00+00:00,False,,,,Male,10-17,,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T16:57:00+00:00,False,,,,Male,10-17,Black/African/Caribbean/Black British - Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T17:05:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T17:20:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Summons / charged by post,True,False
+Person and Vehicle search,2019-03-14T17:45:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,Arrest,False,False
+Person and Vehicle search,2019-03-14T18:00:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,Black,,Controlled drugs,,,False
+Person and Vehicle search,2019-03-14T18:15:00+00:00,False,,,,Female,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T18:45:00+00:00,False,,,,Female,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,,,False
+Person and Vehicle search,2019-03-14T19:29:00+00:00,False,,,,Male,10-17,Asian/Asian British - Pakistani,Asian,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T19:35:00+00:00,False,,,,Male,18-24,,,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T19:49:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,Black,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-14T20:27:00+00:00,True,,51.497654,-0.537954,Male,25-34,Black/African/Caribbean/Black British - African,Black,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,,
+Person and Vehicle search,2019-03-14T20:35:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T20:36:00+00:00,False,,,,Female,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-14T20:57:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T20:57:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person search,2019-03-14T21:00:00+00:00,False,,51.627520,-0.749093,Male,25-34,Black/African/Caribbean/Black British - Caribbean,Black,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,Khat or Cannabis warning,False,False
+Person search,2019-03-14T21:00:00+00:00,False,,51.627520,-0.749093,Female,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,Khat or Cannabis warning,False,False
+Person and Vehicle search,2019-03-14T21:28:00+00:00,False,,,,Male,,Other ethnic group - Not stated,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T23:30:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T23:30:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-14T23:55:00+00:00,False,,,,Male,25-34,,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-15T01:50:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-15T12:00:00+00:00,True,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-15T13:17:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,White,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-15T14:35:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-15T14:40:00+00:00,False,,,,Female,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-15T15:00:00+00:00,False,,,,Male,18-24,White - Irish,Black,,Controlled drugs,A no further action disposal,,False
+Person search,2019-03-15T16:58:00+00:00,False,,52.022824,-0.734263,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-15T17:00:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-15T17:03:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-15T17:07:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person search,2019-03-15T17:40:00+00:00,False,,51.833912,-0.641180,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-15T18:36:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,,,False
+Person and Vehicle search,2019-03-15T19:01:00+00:00,True,,51.759159,-1.194445,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-15T19:40:00+00:00,False,,,,Male,10-17,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-15T21:00:00+00:00,False,,,,Female,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-15T21:00:00+00:00,False,,,,Female,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-15T21:00:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-15T21:02:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-15T21:18:00+00:00,False,,,,Female,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-15T21:20:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-15T21:22:00+00:00,False,,,,Female,,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-15T21:39:00+00:00,False,,,,Male,10-17,,White,,,A no further action disposal,,False
+Person and Vehicle search,2019-03-15T21:55:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person search,2019-03-15T22:24:00+00:00,False,,51.897165,-0.716287,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,,,False
+Person search,2019-03-15T22:40:00+00:00,False,,51.762463,-1.269400,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-15T23:20:00+00:00,False,,,,Female,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T00:30:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T01:05:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Firearms,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T01:05:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Firearms,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T01:15:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T01:20:00+00:00,False,,,,Male,18-24,White - Irish,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T01:35:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person search,2019-03-16T02:40:00+00:00,False,,52.063827,-1.341719,Male,10-17,Asian/Asian British - Pakistani,Asian,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T02:40:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T02:50:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,,,False
+Person and Vehicle search,2019-03-16T04:22:00+00:00,False,,,,Male,10-17,Asian/Asian British - Any other Asian background,Asian,,Article for use in theft,,,False
+Person and Vehicle search,2019-03-16T04:22:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,,,False
+Person and Vehicle search,2019-03-16T04:25:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - African,Black,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T04:25:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - African,Black,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T04:25:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - African,Black,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T04:39:00+00:00,False,,,,Male,10-17,Asian/Asian British - Indian,Asian,,Article for use in theft,,,False
+Person and Vehicle search,2019-03-16T05:00:00+00:00,False,,,,Female,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T14:05:00+00:00,False,,,,Male,,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Black,,Controlled drugs,Arrest,False,
+Person and Vehicle search,2019-03-16T14:30:00+00:00,False,,,,Male,over 34,White - Any other White background,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T15:45:00+00:00,False,,,,Female,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,Summons / charged by post,False,False
+Person and Vehicle search,2019-03-16T16:00:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-16T16:30:00+00:00,False,,,,Male,25-34,,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T19:10:00+00:00,False,,,,Male,18-24,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T19:10:00+00:00,False,,,,Male,10-17,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T20:00:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T20:00:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T20:00:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T20:08:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T20:08:00+00:00,False,,,,Male,25-34,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T20:08:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T20:33:00+00:00,True,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T20:40:00+00:00,False,,,,Female,10-17,Other ethnic group - Not stated,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T20:43:00+00:00,True,,,,Female,over 34,,,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T23:10:00+00:00,False,,,,Male,over 34,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T23:15:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T23:40:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T23:40:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T23:58:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-16T23:58:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-16T23:58:00+00:00,False,,,,Male,18-24,,Black,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-16T23:58:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Black,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-17T00:05:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T00:30:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - African,Black,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T00:32:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,Black,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T00:34:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T00:37:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T00:56:00+00:00,False,,,,Male,18-24,Asian/Asian British - Any other Asian background,Asian,,Offensive weapons,Arrest,False,False
+Person and Vehicle search,2019-03-17T01:00:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Black,,Offensive weapons,Caution (simple or conditional),False,False
+Person and Vehicle search,2019-03-17T03:59:00+00:00,False,,52.063827,-1.341719,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-17T04:18:00+00:00,False,,52.063827,-1.341719,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-17T05:10:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,Arrest,True,False
+Person and Vehicle search,2019-03-17T05:10:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,Arrest,True,False
+Person and Vehicle search,2019-03-17T11:50:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T12:05:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T12:10:00+00:00,False,,,,Male,10-17,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T12:30:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Black,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T13:55:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T13:55:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Asian,,Controlled drugs,,,False
+Person and Vehicle search,2019-03-17T14:20:00+00:00,False,,,,Male,25-34,White - Any other White background,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T14:25:00+00:00,False,,,,Male,25-34,White - Any other White background,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T14:35:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T15:40:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T15:40:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-17T15:40:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-17T15:40:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-17T16:48:00+00:00,False,,,,Male,25-34,Asian/Asian British - Chinese,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T18:05:00+00:00,False,,,,Female,18-24,Asian/Asian British - Pakistani,Asian,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T18:10:00+00:00,False,,,,Male,over 34,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T18:20:00+00:00,True,,,,Male,18-24,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-17T18:20:00+00:00,True,,,,Male,10-17,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-17T18:20:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Asian,,Stolen goods,Arrest,False,False
+Person and Vehicle search,2019-03-17T18:45:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T20:00:00+00:00,False,,,,Male,18-24,,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T20:00:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T20:00:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,Arrest,False,False
+Person and Vehicle search,2019-03-17T21:50:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - Caribbean,Black,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T22:10:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T22:20:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-17T22:20:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-18T00:30:00+00:00,False,,,,Male,25-34,Other ethnic group - Any other ethnic group,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-18T00:55:00+00:00,False,,,,Male,25-34,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-18T02:50:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,,,False
+Person and Vehicle search,2019-03-18T09:15:00+00:00,False,,,,Male,over 34,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,
+Person and Vehicle search,2019-03-18T10:30:00+00:00,False,,,,Male,25-34,White - Any other White background,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-18T11:25:00+00:00,False,,,,Male,over 34,Black/African/Caribbean/Black British - Caribbean,Black,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-18T12:33:00+00:00,False,,52.040209,-0.766140,Male,18-24,White - Any other White background,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-18T12:41:00+00:00,False,,51.626324,-0.779002,Male,18-24,Asian/Asian British - Pakistani,Asian,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-18T12:41:00+00:00,False,,51.626324,-0.779002,,18-24,Other ethnic group - Any other ethnic group,Asian,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-18T12:56:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,Black,,Offensive weapons,Arrest,False,False
+Person and Vehicle search,2019-03-18T12:58:00+00:00,False,,,,Male,over 34,Other ethnic group - Not stated,Asian,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-18T13:40:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-18T16:35:00+00:00,False,,,,Male,,Other ethnic group - Not stated,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-18T16:47:00+00:00,False,,,,Male,18-24,White - Irish,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-18T19:15:00+00:00,False,,,,Male,over 34,Other ethnic group - Not stated,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-18T19:46:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-18T22:58:00+00:00,False,,,,Male,over 34,,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T00:30:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,Asian,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T00:45:00+00:00,False,,,,Male,,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Asian,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-19T02:24:00+00:00,False,,,,Male,18-24,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T06:14:00+00:00,False,,52.063827,-1.341719,,10-17,Asian/Asian British - Pakistani,Asian,Misuse of Drugs Act 1971 (section 23),Controlled drugs,,,False
+Person and Vehicle search,2019-03-19T09:50:00+00:00,False,,,,Female,over 34,Other ethnic group - Not stated,Asian,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-19T09:50:00+00:00,False,,,,Female,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-19T10:05:00+00:00,False,,,,Female,10-17,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T10:10:00+00:00,False,,,,Female,10-17,Other ethnic group - Not stated,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T10:15:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T10:30:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T10:37:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,,,False
+Person and Vehicle search,2019-03-19T11:30:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T11:55:00+00:00,False,,,,Female,18-24,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T12:10:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-19T12:30:00+00:00,False,,,,Male,over 34,Other ethnic group - Not stated,Black,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T12:35:00+00:00,False,,,,Male,18-24,Asian/Asian British - Any other Asian background,Asian,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-19T12:35:00+00:00,False,,,,Male,18-24,Asian/Asian British - Any other Asian background,Asian,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-19T13:05:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T13:10:00+00:00,False,,51.910223,-1.171626,Male,18-24,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-19T13:11:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T13:14:00+00:00,False,,,,Male,10-17,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T13:17:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-19T16:38:00+00:00,False,,,,Male,10-17,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T16:41:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T17:45:00+00:00,False,,,,Male,10-17,,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T18:20:00+00:00,False,,,,Female,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-19T20:40:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T20:43:00+00:00,False,,,,Male,18-24,Asian/Asian British - Any other Asian background,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T20:43:00+00:00,False,,,,Male,18-24,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T20:44:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T21:10:00+00:00,False,,,,Female,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T21:28:00+00:00,False,,,,Female,18-24,White - Any other White background,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T22:27:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-19T22:29:00+00:00,False,,,,Male,over 34,Asian/Asian British - Bangladeshi,,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T22:35:00+00:00,False,,,,Male,25-34,Asian/Asian British - Bangladeshi,Asian,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-19T23:58:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-20T00:37:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-20T01:31:00+00:00,False,,51.338973,-0.782918,Male,25-34,Black/African/Caribbean/Black British - Caribbean,Black,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-20T12:46:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-20T12:50:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-20T14:20:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-20T14:27:00+00:00,False,,,,Male,,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-20T14:27:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-20T14:30:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-20T14:30:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-20T17:56:00+00:00,False,,,,Male,over 34,White - Any other White background,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-20T19:09:00+00:00,False,,,,Male,25-34,White - Any other White background,White,,Controlled drugs,Penalty Notice for Disorder,True,False
+Person and Vehicle search,2019-03-20T19:27:00+00:00,False,,,,Male,10-17,White - Any other White background,White,,Controlled drugs,Caution (simple or conditional),True,False
+Person and Vehicle search,2019-03-20T21:50:00+00:00,False,,,,Female,18-24,Mixed/Multiple ethnic groups - Any other Mixed/Multiple ethnic background,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-20T22:00:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-20T22:00:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-20T22:02:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-20T23:50:00+00:00,False,,,,Male,25-34,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-20T23:53:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T00:30:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T00:35:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T00:40:00+00:00,False,,,,Male,25-34,Asian/Asian British - Pakistani,,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T00:45:00+00:00,False,,,,Male,25-34,Asian/Asian British - Pakistani,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T08:11:00+00:00,False,,,,Male,10-17,Asian/Asian British - Pakistani,Asian,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T08:19:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T08:26:00+00:00,False,,,,Male,10-17,Asian/Asian British - Pakistani,Asian,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T08:30:00+00:00,False,,,,Female,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T08:35:00+00:00,False,,,,Male,10-17,Asian/Asian British - Pakistani,Asian,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T08:41:00+00:00,False,,,,Male,10-17,Asian/Asian British - Pakistani,Asian,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T11:45:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T13:00:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person search,2019-03-21T13:03:00+00:00,False,,52.063492,-1.325547,Male,18-24,Black/African/Caribbean/Black British - African,Black,Misuse of Drugs Act 1971 (section 23),Controlled drugs,,,False
+Person and Vehicle search,2019-03-21T13:10:00+00:00,False,,,,Male,25-34,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Black,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-21T13:35:00+00:00,False,,,,Male,25-34,Mixed/Multiple ethnic groups - Any other Mixed/Multiple ethnic background,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T14:00:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T14:00:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Caution (simple or conditional),True,False
+Person search,2019-03-21T14:00:03+00:00,True,,51.494829,-0.539211,Male,over 34,Asian/Asian British - Indian,Black,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,,
+Person and Vehicle search,2019-03-21T14:08:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,Arrest,True,False
+Person and Vehicle search,2019-03-21T15:30:00+00:00,False,,,,Male,18-24,White - Any other White background,White,,Article for use in theft,Penalty Notice for Disorder,False,False
+Person and Vehicle search,2019-03-21T16:00:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person search,2019-03-21T16:05:00+00:00,False,,51.747519,-0.987847,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T16:05:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T16:06:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person search,2019-03-21T17:21:00+00:00,False,,51.747519,-0.987847,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T17:30:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Caution (simple or conditional),True,False
+Person and Vehicle search,2019-03-21T17:30:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Caution (simple or conditional),True,False
+Person and Vehicle search,2019-03-21T17:30:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Caution (simple or conditional),True,False
+Person and Vehicle search,2019-03-21T17:50:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T17:50:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T18:00:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T18:15:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T18:15:00+00:00,False,,,,Male,over 34,White - Any other White background,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T19:58:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T21:15:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-21T21:27:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,Black,,Article for use in theft,Arrest,False,False
+Person and Vehicle search,2019-03-21T23:10:00+00:00,False,,,,Male,over 34,White - Any other White background,White,,Controlled drugs,A no further action disposal,,
+Person search,2019-03-21T23:47:00+00:00,False,,51.741771,-0.974115,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Khat or Cannabis warning,True,False
+Person search,2019-03-22T00:15:00+00:00,False,,51.742414,-0.976722,Male,,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T00:55:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T01:37:00+00:00,True,,51.413664,-0.767707,Male,25-34,Asian/Asian British - Indian,Asian,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T01:55:00+00:00,False,,,,Male,25-34,White - Any other White background,White,,Stolen goods,Arrest,False,False
+Person and Vehicle search,2019-03-22T04:08:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T04:10:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T08:25:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T09:10:00+00:00,False,,,,Male,25-34,White - Any other White background,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T09:10:00+00:00,False,,,,Male,25-34,White - Any other White background,White,,Stolen goods,,,False
+Person search,2019-03-22T11:20:00+00:00,False,,51.627520,-0.749093,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Caution (simple or conditional),True,False
+Person search,2019-03-22T11:30:00+00:00,False,,51.627520,-0.749093,Male,10-17,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T12:20:00+00:00,False,,,,Male,25-34,Asian/Asian British - Bangladeshi,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T12:20:00+00:00,False,,,,Male,25-34,Asian/Asian British - Bangladeshi,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T13:30:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T15:05:00+00:00,True,,,,Female,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T15:20:00+00:00,False,,,,Female,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T15:20:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-22T15:35:00+00:00,False,,,,Male,over 34,Black/African/Caribbean/Black British - Caribbean,Black,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-22T15:50:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T15:50:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person search,2019-03-22T16:13:00+00:00,False,,51.627520,-0.749093,,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,,,False
+Person and Vehicle search,2019-03-22T17:55:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T18:00:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T18:00:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Caution (simple or conditional),True,False
+Person and Vehicle search,2019-03-22T18:05:00+00:00,False,,,,Female,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T18:05:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,Khat or Cannabis warning,False,False
+Person and Vehicle search,2019-03-22T18:10:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,Khat or Cannabis warning,False,False
+Person search,2019-03-22T19:03:00+00:00,False,,51.627520,-0.749093,Male,over 34,Asian/Asian British - Indian,Asian,Misuse of Drugs Act 1971 (section 23),Controlled drugs,,,False
+Person and Vehicle search,2019-03-22T19:10:00+00:00,False,,,,Male,25-34,Other ethnic group - Any other ethnic group,Other,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-22T20:15:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,Asian,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-22T20:40:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T22:35:00+00:00,False,,,,Female,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T22:35:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T22:35:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T22:35:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T23:30:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-22T23:58:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T00:10:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T00:15:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person search,2019-03-23T00:15:00+00:00,False,,52.060598,-1.339914,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T00:40:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T00:41:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T00:50:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T00:52:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,Asian,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T01:01:00+00:00,False,,,,Female,18-24,,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T01:18:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Black,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-23T01:20:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T01:28:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - Caribbean,Black,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-23T01:30:00+00:00,False,,,,Male,18-24,Asian/Asian British - Indian,Asian,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-23T01:40:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - Caribbean,Black,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-23T01:45:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T01:50:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Black,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-23T02:04:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,Asian,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T09:05:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T13:45:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T14:25:00+00:00,False,,,,Male,25-34,Asian/Asian British - Indian,Asian,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-23T14:44:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,,,False
+Person and Vehicle search,2019-03-23T14:50:00+00:00,False,,,,Male,25-34,White - Irish,White,,Stolen goods,,,False
+Person and Vehicle search,2019-03-23T15:00:00+00:00,False,,,,Male,10-17,Asian/Asian British - Indian,Asian,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T15:00:00+00:00,False,,,,Male,,Black/African/Caribbean/Black British - Caribbean,Black,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T15:05:00+00:00,False,,,,Female,over 34,White - Any other White background,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T15:20:00+00:00,False,,,,Male,10-17,Asian/Asian British - Pakistani,Asian,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T15:50:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T15:54:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-23T17:15:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - African,Black,,Firearms,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T17:50:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,Community resolution,False,False
+Person and Vehicle search,2019-03-23T17:50:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Community resolution,False,False
+Person and Vehicle search,2019-03-23T17:50:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-23T17:55:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,White,,Offensive weapons,Arrest,True,False
+Person and Vehicle search,2019-03-23T18:03:00+00:00,False,,,,Male,18-24,,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T18:03:00+00:00,False,,,,Male,over 34,Other ethnic group - Not stated,Asian,,Stolen goods,Arrest,False,False
+Person and Vehicle search,2019-03-23T18:05:00+00:00,False,,,,Male,18-24,Asian/Asian British - Bangladeshi,Asian,,Controlled drugs,Penalty Notice for Disorder,True,False
+Person and Vehicle search,2019-03-23T18:08:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Vehicle search,2019-03-23T18:09:00+00:00,False,,,,,,,,,Controlled drugs,A no further action disposal,,
+Vehicle search,2019-03-23T18:15:00+00:00,False,,,,,,,,,Controlled drugs,A no further action disposal,,
+Person and Vehicle search,2019-03-23T19:15:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T19:15:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T19:15:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T19:24:00+00:00,False,,,,Female,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T19:28:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T19:30:00+00:00,False,,,,Male,,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T19:30:00+00:00,False,,,,Male,10-17,,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T19:32:00+00:00,False,,,,Male,10-17,,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T19:35:00+00:00,False,,,,Male,10-17,,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T19:47:00+00:00,False,,,,Male,18-24,,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T21:54:00+00:00,False,,,,Female,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T21:55:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T23:00:00+00:00,False,,,,Male,18-24,Mixed/Multiple ethnic groups - White and Black Caribbean,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-23T23:03:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T00:30:00+00:00,False,,,,Male,25-34,White - Any other White background,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T00:30:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-24T00:42:00+00:00,False,,,,Male,18-24,Asian/Asian British - Bangladeshi,Asian,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-24T00:45:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T00:47:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T01:20:00+00:00,True,,,,Male,25-34,Black/African/Caribbean/Black British - African,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T01:20:00+00:00,True,,,,Male,18-24,Black/African/Caribbean/Black British - Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T01:20:00+00:00,False,,,,Male,25-34,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T01:20:00+00:00,True,,,,Male,25-34,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T01:35:00+00:00,False,,,,Male,25-34,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T01:38:00+00:00,False,,,,Male,25-34,White - Irish,White,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-24T01:39:00+00:00,False,,,,Male,25-34,White - Irish,White,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-24T01:45:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T01:45:00+00:00,False,,,,Male,18-24,,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T01:45:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T02:15:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T02:15:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T02:20:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,Caution (simple or conditional),True,False
+Person and Vehicle search,2019-03-24T03:10:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T04:03:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T05:13:00+00:00,False,,51.553492,-1.310699,Female,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-24T12:00:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,Caution (simple or conditional),True,False
+Person and Vehicle search,2019-03-24T12:38:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T13:05:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T13:18:00+00:00,False,,,,Male,10-17,Black/African/Caribbean/Black British - Caribbean,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T13:18:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T14:00:00+00:00,False,,,,,25-34,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T14:00:00+00:00,False,,,,Male,25-34,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-24T14:03:00+00:00,False,,,,Male,10-17,Asian/Asian British - Indian,Asian,,Offensive weapons,Arrest,True,False
+Person and Vehicle search,2019-03-24T15:50:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T15:50:00+00:00,False,,,,Male,10-17,Asian/Asian British - Indian,Asian,,Offensive weapons,Arrest,True,False
+Person and Vehicle search,2019-03-24T16:15:00+00:00,False,,,,Male,25-34,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T16:15:00+00:00,False,,,,Male,25-34,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T16:30:00+00:00,False,,,,Male,18-24,,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T16:30:00+00:00,False,,,,Male,over 34,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T16:50:00+00:00,False,,,,Male,18-24,White - Any other White background,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T17:09:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T17:41:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-24T17:50:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T20:43:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T21:25:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T21:25:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T21:40:00+00:00,False,,,,Male,25-34,White - Any other White background,White,,Stolen goods,Arrest,False,False
+Person and Vehicle search,2019-03-24T21:48:00+00:00,False,,,,Female,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T21:50:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T22:15:00+00:00,False,,,,Female,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-24T22:15:00+00:00,False,,,,Female,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T00:10:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,Khat or Cannabis warning,False,False
+Person and Vehicle search,2019-03-25T01:03:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T01:05:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T01:05:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Black,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-25T01:09:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T02:00:00+00:00,False,,,,Female,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T02:02:00+00:00,False,,,,Male,18-24,,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T02:10:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T02:10:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T02:15:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T04:40:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,Arrest,False,False
+Person and Vehicle search,2019-03-25T10:00:00+00:00,False,,,,Male,25-34,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person search,2019-03-25T10:29:00+00:00,False,,52.007119,-0.746260,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T12:00:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T12:41:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T12:41:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T13:03:00+00:00,False,,51.627520,-0.749093,Male,18-24,Asian/Asian British - Pakistani,Asian,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-25T13:20:00+00:00,False,,,,Male,10-17,Asian/Asian British - Any other Asian background,Other,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-25T13:30:00+00:00,False,,,,Male,18-24,Mixed/Multiple ethnic groups - White and Black Caribbean,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T13:35:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-25T13:43:00+00:00,False,,51.670140,-1.298881,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T14:05:00+00:00,False,,,,Male,18-24,,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T14:45:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,,,False
+Person and Vehicle search,2019-03-25T14:55:00+00:00,False,,,,Male,25-34,White - Any other White background,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T14:55:00+00:00,False,,,,Female,25-34,White - Any other White background,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T14:55:00+00:00,False,,,,Male,25-34,White - Any other White background,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T15:45:00+00:00,False,,51.627520,-0.749093,Male,25-34,Asian/Asian British - Pakistani,Asian,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,True
+Person and Vehicle search,2019-03-25T15:50:00+00:00,False,,,,Male,10-17,White - Any other White background,White,,Controlled drugs,,,False
+Person and Vehicle search,2019-03-25T16:30:00+00:00,False,,,,Male,25-34,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-25T18:08:00+00:00,False,,,,Male,18-24,Asian/Asian British - Bangladeshi,Asian,,,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T20:12:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T20:15:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T20:18:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T20:21:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T20:40:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T20:40:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T20:40:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T20:40:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person search,2019-03-25T21:20:00+00:00,False,,51.627520,-0.749093,,,Other ethnic group - Not stated,Black,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T21:21:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-25T21:21:00+00:00,True,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-25T22:22:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T22:28:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T23:23:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-25T23:45:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-26T00:14:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-26T01:18:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-26T05:11:00+00:00,False,,,,Male,over 34,,White,,Article for use in theft,Arrest,False,False
+Person and Vehicle search,2019-03-26T09:23:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-26T10:38:00+00:00,False,,52.047814,-0.710532,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-26T10:41:00+00:00,False,,52.047814,-0.710532,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person search,2019-03-26T10:45:00+00:00,False,,51.670140,-1.298881,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-26T10:49:00+00:00,False,,52.047814,-0.710532,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-26T11:49:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,Arrest,True,False
+Person and Vehicle search,2019-03-26T12:12:00+00:00,False,,51.627520,-0.749093,Male,over 34,Asian/Asian British - Pakistani,Asian,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-26T12:23:00+00:00,False,,51.627520,-0.749093,Male,25-34,Asian/Asian British - Pakistani,Asian,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-26T13:25:00+00:00,False,,,,Female,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-26T13:46:00+00:00,False,,52.063827,-1.341719,Male,25-34,Asian/Asian British - Pakistani,Asian,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-26T14:40:00+00:00,False,,,,Male,over 34,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-26T14:40:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-26T15:43:00+00:00,False,,,,Female,over 34,Other ethnic group - Not stated,White,,Stolen goods,Penalty Notice for Disorder,True,False
+Person and Vehicle search,2019-03-26T16:30:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,White,,Stolen goods,A no further action disposal,,False
+Person search,2019-03-26T16:36:00+00:00,True,,51.508539,-0.610793,Male,25-34,White - Any other White background,White,Police and Criminal Evidence Act 1984 (section 1),Article for use in theft,A no further action disposal,,
+Person search,2019-03-26T16:39:00+00:00,False,,51.507579,-0.616326,Male,over 34,White - Any other White background,White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,A no further action disposal,,
+Person and Vehicle search,2019-03-26T16:42:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-26T20:41:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-26T21:15:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-26T21:15:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-26T22:50:00+00:00,False,,,,Male,25-34,Black/African/Caribbean/Black British - African,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-26T22:55:00+00:00,False,,,,Male,over 34,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-26T23:08:00+00:00,False,,,,Male,18-24,Mixed/Multiple ethnic groups - White and Black African,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-26T23:11:00+00:00,False,,,,Male,over 34,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-26T23:13:00+00:00,False,,,,Male,over 34,Black/African/Caribbean/Black British - Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T01:25:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T01:30:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T01:45:00+00:00,False,,,,Male,over 34,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T02:00:00+00:00,False,,,,Male,25-34,Asian/Asian British - Any other Asian background,Asian,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T04:23:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T11:20:00+00:00,False,,51.627520,-0.749093,Female,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T11:44:00+00:00,False,,51.627520,-0.749093,Male,over 34,Black/African/Caribbean/Black British - Caribbean,Black,Misuse of Drugs Act 1971 (section 23),Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-27T11:47:00+00:00,False,,51.627520,-0.749093,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,True
+Person and Vehicle search,2019-03-27T12:05:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T12:05:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T12:05:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T12:15:00+00:00,False,,,,Female,18-24,White - Any other White background,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T12:15:00+00:00,False,,,,Male,over 34,White - Any other White background,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T12:20:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T12:30:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-27T12:36:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T13:36:00+00:00,False,,,,Male,25-34,,Black,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-27T14:35:00+00:00,False,,51.891855,-1.155311,Male,18-24,Asian/Asian British - Indian,Asian,Police and Criminal Evidence Act 1984 (section 1),Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T14:48:00+00:00,False,,51.898834,-1.156837,Male,25-34,Black/African/Caribbean/Black British - Caribbean,Black,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,True
+Person and Vehicle search,2019-03-27T16:06:00+00:00,False,,51.778893,-1.481791,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T16:25:00+00:00,False,,,,Male,10-17,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T16:46:00+00:00,False,,,,Male,10-17,Mixed/Multiple ethnic groups - Any other Mixed/Multiple ethnic background,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-27T17:00:00+00:00,False,,,,Male,10-17,Mixed/Multiple ethnic groups - White and Black African,,,Offensive weapons,Arrest,False,False
+Person and Vehicle search,2019-03-27T17:00:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,Black,,Stolen goods,Arrest,True,False
+Person and Vehicle search,2019-03-27T17:23:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T17:35:00+00:00,False,,,,Male,10-17,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T17:45:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T17:54:00+00:00,False,,,,Male,10-17,Black/African/Caribbean/Black British - Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T18:00:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T18:30:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T18:40:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Penalty Notice for Disorder,True,False
+Person and Vehicle search,2019-03-27T22:55:00+00:00,False,,,,Female,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T23:34:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T23:34:00+00:00,False,,,,Male,25-34,,Asian,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-27T23:48:00+00:00,False,,,,Male,25-34,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-27T23:58:00+00:00,False,,51.990008,-0.991624,Male,18-24,Other ethnic group - Not stated,Asian,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-28T08:44:00+00:00,True,,51.910223,-1.171626,Male,18-24,Asian/Asian British - Any other Asian background,Asian,Misuse of Drugs Act 1971 (section 23),Controlled drugs,,,False
+Person and Vehicle search,2019-03-28T13:00:00+00:00,False,,,,Female,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-28T13:02:00+00:00,True,,51.850595,-1.091347,Male,18-24,Asian/Asian British - Any other Asian background,Asian,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-28T13:10:00+00:00,False,,,,Male,18-24,Asian/Asian British - Any other Asian background,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-28T13:15:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-28T13:15:00+00:00,False,,,,Male,10-17,Black/African/Caribbean/Black British - Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-28T13:15:00+00:00,False,,,,Male,10-17,Black/African/Caribbean/Black British - Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-28T13:15:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-28T13:43:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-28T13:48:00+00:00,False,,,,Male,over 34,White - Any other White background,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-28T13:50:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-28T14:15:00+00:00,False,,,,Male,10-17,,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-28T14:30:00+00:00,False,,,,Male,over 34,,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-28T15:30:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-28T15:30:00+00:00,False,,,,Female,18-24,Other ethnic group - Not stated,White,,Stolen goods,Arrest,True,False
+Person and Vehicle search,2019-03-28T16:20:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person search,2019-03-28T19:14:00+00:00,False,,52.058840,-1.357005,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-28T19:40:00+00:00,False,,,,Male,18-24,White - Any other White background,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-28T21:17:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T00:30:00+00:00,False,,,,Male,over 34,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T01:00:00+00:00,False,,,,Male,over 34,Other ethnic group - Not stated,White,,Stolen goods,Arrest,False,False
+Person and Vehicle search,2019-03-29T04:10:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T11:40:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T11:55:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T12:30:00+00:00,False,,,,Female,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T12:30:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Black,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-29T12:30:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-29T14:50:00+00:00,False,,,,Male,over 34,,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T14:53:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T15:00:00+00:00,False,,,,Female,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T15:00:00+00:00,False,,,,Male,18-24,Mixed/Multiple ethnic groups - White and Black Caribbean,White,,Controlled drugs,Penalty Notice for Disorder,True,False
+Person and Vehicle search,2019-03-29T16:00:00+00:00,False,,,,Female,over 34,Asian/Asian British - Indian,,,Stolen goods,Arrest,False,False
+Person and Vehicle search,2019-03-29T18:00:00+00:00,False,,,,Male,10-17,Mixed/Multiple ethnic groups - White and Asian,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T18:11:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T18:11:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T20:00:00+00:00,False,,,,Male,10-17,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T20:05:00+00:00,False,,,,Male,25-34,Asian/Asian British - Indian,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T20:19:00+00:00,False,,,,Female,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T20:20:00+00:00,False,,,,Male,18-24,White - Any other White background,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T20:20:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T20:21:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,White,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-29T20:30:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,Arrest,True,False
+Person and Vehicle search,2019-03-29T20:30:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T20:50:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T21:17:00+00:00,False,,,,Male,25-34,Asian/Asian British - Indian,,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-29T21:25:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T22:34:00+00:00,False,,,,Male,over 34,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T22:41:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T22:41:00+00:00,False,,,,Male,,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-29T22:50:00+00:00,False,,,,Male,18-24,Asian/Asian British - Indian,Asian,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-30T00:00:00+00:00,True,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-30T00:50:00+00:00,False,,,,Male,25-34,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-30T01:00:00+00:00,False,,,,Female,18-24,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-30T01:10:00+00:00,False,,,,Male,18-24,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-30T01:10:00+00:00,False,,,,Male,over 34,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-30T01:10:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-30T02:24:00+00:00,False,,,,Male,25-34,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Black,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-30T06:25:00+00:00,False,,,,Male,over 34,Other ethnic group - Not stated,White,,Article for use in theft,Arrest,False,False
+Person and Vehicle search,2019-03-30T11:50:00+00:00,False,,,,Male,18-24,Asian/Asian British - Indian,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-30T14:30:00+00:00,False,,,,Male,18-24,Black/African/Caribbean/Black British - African,Black,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-30T14:30:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-30T15:33:00+00:00,False,,,,Male,over 34,Black/African/Caribbean/Black British - Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person search,2019-03-30T15:40:00+00:00,False,,51.748613,-1.241957,,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-30T16:10:00+00:00,False,,,,Female,10-17,White - Any other White background,White,,Article for use in theft,Arrest,False,False
+Person and Vehicle search,2019-03-30T17:30:00+00:00,False,,,,Male,10-17,Black/African/Caribbean/Black British - Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-30T21:30:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-30T21:53:00+00:00,False,,,,Male,25-34,Asian/Asian British - Chinese,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-30T22:40:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-30T22:50:00+00:00,True,,,,Male,10-17,,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-30T23:00:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-30T23:30:00+00:00,False,,,,Male,10-17,Asian/Asian British - Indian,Asian,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-30T23:49:00+00:00,True,,,,Male,10-17,,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-30T23:50:00+00:00,False,,,,Male,10-17,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-30T23:50:00+00:00,False,,,,Female,10-17,Other ethnic group - Not stated,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-30T23:50:00+00:00,False,,,,Female,10-17,Other ethnic group - Not stated,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-30T23:50:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-30T23:50:00+00:00,False,,,,Male,10-17,Other ethnic group - Not stated,White,,Stolen goods,Khat or Cannabis warning,True,False
+Person and Vehicle search,2019-03-30T23:50:00+00:00,False,,,,Male,over 34,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-31T00:00:00+00:00,True,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-31T00:27:00+00:00,True,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-31T00:30:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-31T00:45:00+00:00,False,,,,Male,10-17,Black/African/Caribbean/Black British - African,Black,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-31T01:00:00+00:00,False,,,,Male,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-31T01:20:00+00:00,True,,,,Male,18-24,Asian/Asian British - Any other Asian background,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-31T01:20:00+00:00,True,,,,Male,18-24,Asian/Asian British - Any other Asian background,Asian,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-31T01:20:00+00:00,True,,,,Male,18-24,White - Any other White background,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-31T03:00:00+00:00,False,,,,Female,10-17,White - English/Welsh/Scottish/Northern Irish/British,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-31T10:51:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Offensive weapons,A no further action disposal,,False
+Person and Vehicle search,2019-03-31T12:46:00+00:00,False,,,,Male,10-17,,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-31T13:50:00+00:00,False,,,,Male,25-34,Other ethnic group - Not stated,Asian,,Stolen goods,Arrest,True,False
+Person and Vehicle search,2019-03-31T13:51:00+00:00,False,,51.380931,-1.341557,Male,10-17,Black/African/Caribbean/Black British - African,Black,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-31T13:58:00+00:00,False,,51.380931,-1.341557,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,Misuse of Drugs Act 1971 (section 23),Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-31T15:25:00+00:00,False,,,,Male,over 34,,White,,Stolen goods,Arrest,True,False
+Person and Vehicle search,2019-03-31T16:05:00+00:00,False,,,,Male,,Other ethnic group - Not stated,White,,Controlled drugs,A no further action disposal,,False
+Person and Vehicle search,2019-03-31T17:00:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-31T17:00:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,Arrest,True,False
+Person and Vehicle search,2019-03-31T17:10:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-31T17:14:00+00:00,False,,,,Male,18-24,White - English/Welsh/Scottish/Northern Irish/British,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-31T17:16:00+00:00,False,,,,Male,10-17,White - Irish,White,,Stolen goods,A no further action disposal,,False
+Person and Vehicle search,2019-03-31T18:27:00+00:00,False,,51.552812,-0.545201,Male,25-34,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Arrest,True,False
+Person and Vehicle search,2019-03-31T19:49:00+00:00,False,,51.524307,-0.714575,,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,Police and Criminal Evidence Act 1984 (section 1),Stolen goods,Arrest,True,False
+Person and Vehicle search,2019-03-31T21:45:00+00:00,False,,,,Male,25-34,Mixed/Multiple ethnic groups - White and Black Caribbean,Black,,Controlled drugs,Arrest,False,False
+Person and Vehicle search,2019-03-31T22:34:00+00:00,False,,,,Male,25-34,White - English/Welsh/Scottish/Northern Irish/British,White,,Article for use in theft,A no further action disposal,,False
+Person and Vehicle search,2019-03-31T22:34:00+00:00,False,,,,Male,18-24,Asian/Asian British - Pakistani,Asian,,Controlled drugs,A no further action disposal,,False
