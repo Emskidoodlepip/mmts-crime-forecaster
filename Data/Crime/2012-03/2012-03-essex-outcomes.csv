@@ -1,0 +1,814 @@
+Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Outcome type
+99dc0c30e4339cbf101489c7888d1b80406b608489dcebf98f8c9f4232c6df50,2012-03,Essex Police,Essex Police,0.684702,51.545167,On or near LONDON ROAD,E01015832,Southend-on-Sea 012F,Offender sent to prison
+1ff874d0617314736641ae56a8f893839540ec037670592eeedf5d13477a90c9,2012-03,Essex Police,Essex Police,0.072575,51.656365,On or near HILLYFIELDS,E01021779,Epping Forest 011F,Offender given community sentence
+ffe5abbdc1924988a072f69b3d0396a04bcd3cdaf866b3dd8b58ef74eadbd37c,2012-03,Essex Police,Essex Police,0.740635,51.534547,On or near LIFSTAN WAY,E01015894,Southend-on-Sea 016F,Offender fined
+6825b3f31aa4bded26eddfd988ef3ce182dfb53a3a8f3f429a63374581d7e7c1,2012-03,Essex Police,Essex Police,0.454020,51.741802,On or near KINGS ROAD,E01021573,Chelmsford 009A,Offender given suspended prison sentence
+1a914e10439c9883fe88cf7abd225f51791469d421549cd8f331077d513673dc,2012-03,Essex Police,Essex Police,0.899875,51.890226,On or near Nightclub,E01021649,Colchester 007D,Court case unable to proceed
+81bf991027df249689f14a51e311241edf1ab2627cf50b218c51925a82c14332,2012-03,Essex Police,Essex Police,0.281531,51.509871,On or near DERRY AVENUE,E01015972,Thurrock 006C,Offender otherwise dealt with
+c55140c802482af9e75e6ac589da407c454d7f6f3ff756a21637c5373622d78c,2012-03,Essex Police,Essex Police,0.095357,51.767783,On or near Shopping Area,E01021872,Harlow 007E,Offender given suspended prison sentence
+725fc23f2ec561081087985faa7832d88eb50b7c067c4279ce0427265e192ceb,2012-03,Essex Police,Essex Police,0.503384,51.744870,On or near ATHOLL ROAD,E01021544,Chelmsford 008A,Court case unable to proceed
+35f4f3d2859ae938a1a3edd6bdd68c48e35ad5b49dcf1eb7540d570252a4a0bb,2012-03,Essex Police,Essex Police,0.284143,51.486609,On or near Shopping Area,E01016011,Thurrock 015B,Offender sent to prison
+fad2ae19a29149829517043d2896a831a31e91238eb029967bf697d178c2c882,2012-03,Essex Police,Essex Police,0.075568,51.604155,On or near COPTHORNE AVENUE,E01003703,Redbridge 006F,Offender sent to prison
+b3159aff30a6ca12491c843f8f172ce8da283b6b993568a40931c43f63744be5,2012-03,Essex Police,Essex Police,0.715320,51.534677,On or near Shopping Area,E01015852,Southend-on-Sea 015B,Offender fined
+ce434ae17bff3ceb7863336b0174ee8eea2545e2e6c2f21ca92997a55dd98b3e,2012-03,Essex Police,Essex Police,1.154217,51.799124,On or near TEWKESBURY ROAD,E01022043,Tendring 014B,Offender sent to prison
+754e5976cb54f3bd4a4153232755f67d2ae785bc005512ae715d48c69420d75d,2012-03,Essex Police,Essex Police,0.574414,51.884815,On or near FISHER WAY,E01021352,Braintree 007C,Offender sent to prison
+9e71f5b78ec7a4137d1aff65d36be91dd8f9f6b7f6933b417f8501230fda68f0,2012-03,Essex Police,Essex Police,0.715320,51.534677,On or near Shopping Area,E01015852,Southend-on-Sea 015B,Offender sent to prison
+cb9e2a93668728f16295744662543a101e4d202c1bd281a0f456fe79a7c1a47b,2012-03,Essex Police,Essex Police,0.643129,51.799186,On or near Supermarket,E01021416,Braintree 017B,Offender given community sentence
+b75e297b765eae446431e3c6cdd3347a4ff03b09e34cff8e0672c183083f6003,2012-03,Essex Police,Essex Police,0.397253,51.509757,On or near Petrol Station,E01015979,Thurrock 004C,Offender otherwise dealt with
+22a043614c8179d5685ca46f73ddc8d06b3efcb349492e3af6187879468e0c77,2012-03,Essex Police,Essex Police,0.095357,51.767783,On or near Shopping Area,E01021872,Harlow 007E,Offender fined
+71778d67c4f624ffa8edc191f2971321329225afc0e5328aa435949680f47e02,2012-03,Essex Police,Essex Police,0.942495,51.781881,On or near WALDEGRAVES LANE,E01021733,Colchester 021C,Offender given community sentence
+2951dc09310fb051ac18b4c9528be00915f69c8c6d0c20ba69555662f7cae223,2012-03,Essex Police,Essex Police,0.462457,51.585127,On or near Nightclub,E01021268,Basildon 015B,Offender given suspended prison sentence
+e0dc06cacaacfc96e1d4e064b42a2c2015027dc836d95f0e891a76b3f899e707,2012-03,Essex Police,Essex Police,0.087971,51.753140,On or near Petrol Station,E01021859,Harlow 010C,Offender given suspended prison sentence
+8d23bc3b561b733a8cac9072c1a9f809e64fe131982443097b8bbfa403d9d2bf,2012-03,Essex Police,Essex Police,0.094895,51.770021,On or near Nightclub,E01021872,Harlow 007E,Offender given conditional discharge
+fb7fc8e0cdea616ed65bb32f82a515bee7e041ca95ebf9881703426edcd360ca,2012-03,Essex Police,Essex Police,1.154217,51.799124,On or near TEWKESBURY ROAD,E01022043,Tendring 014B,Offender fined
+a53b7ad5fe20beff1dae97b6dc4ad3037b4616c6ec1915f3e862088a693b07aa,2012-03,Essex Police,Essex Police,0.687199,51.723371,On or near DE VERE AVENUE,E01021889,Maldon 004A,Offender given conditional discharge
+4dd932786b230d3d13f992bdd9102a8efb1b35ef5985e020886edc2a14234588,2012-03,Essex Police,Essex Police,0.078086,51.655800,On or near SWANSHOPE,E01021779,Epping Forest 011F,Defendant found not guilty
+1627abbe637dc49ab5b7c5e3eab6772b769d722c3182efb906e3c60e35f57127,2012-03,Essex Police,Essex Police,0.720616,51.537397,On or near HASTINGS ROAD,E01015841,Southend-on-Sea 014C,Offender sent to prison
+8cc5683d4f6ad499999d355797539c0520ecdebbd6980505bc966a6368e636e6,2012-03,Essex Police,Essex Police,0.328597,51.477875,On or near CLARENCE ROAD,E01015956,Thurrock 016B,Court case unable to proceed
+0f872b6a2b650755167ca071731ec397ee69975d0cd2406680e55e84656a4b42,2012-03,Essex Police,Essex Police,0.780740,51.539296,On or near Supermarket,E01015882,Southend-on-Sea 013G,Offender given conditional discharge
+81d773b26f3bcae0c85a73058bf46c25d81401f1733c4277a95049cbad71903b,2012-03,Essex Police,Essex Police,1.146064,51.799109,On or near MELBOURNE ROAD,E01022022,Tendring 013D,Offender given community sentence
+bc97b96152acb4e8cf30717ae8bae31cee350ca61cfbb616965178daa5ea9514,2012-03,Essex Police,Essex Police,0.551419,51.877285,On or near NEW STREET,E01021365,Braintree 009D,Offender sent to prison
+0db8afbe764b25ada97c69f6f2bbdd8b4e51a533ab9ec99c2257a970c72f197c,2012-03,Essex Police,Essex Police,0.736743,51.539144,On or near RIVIERA DRIVE,E01015884,Southend-on-Sea 009B,Defendant found not guilty
+02e54d41c1d3a5caf7809362f8bb2b4303ac0817bc15f16b092ec3e754129a7b,2012-03,Essex Police,Essex Police,0.335461,51.484807,On or near Petrol Station,E01015960,Thurrock 014A,Offender sent to prison
+a459d042be9c734d06798e9cee7822e9062d6e0abbf9b6b1db4c78c7a31452c8,2012-03,Essex Police,Essex Police,0.146664,51.765328,On or near HEATHCOTE GARDENS,E01021824,Harlow 005A,Court case unable to proceed
+46f48f5352934d2e9957a3176b89b8a7af47f48f71167c2c9c7d6828e035733b,2012-03,Essex Police,Essex Police,0.092811,51.774150,On or near Supermarket,E01021843,Harlow 004E,Offender fined
+74111c1038db7b2ddbb7b77fe8c0b1833bd7c7135447ac159f8cbfbf63689a5d,2012-03,Essex Police,Essex Police,0.580972,51.726725,On or near FIR TREE LANE,E01021568,Chelmsford 005D,Offender given community sentence
+65603d6bee604db03f3b0451edae9d37ccb76a1c0a07763227a488ad8743292e,2012-03,Essex Police,Essex Police,0.539912,51.589618,On or near SOUTHEND ARTERIAL ROAD,E01021344,Basildon 008D,Offender given suspended prison sentence
+fda16f06a1e1f25ce1547edadbf84e604371bff7ac9b41f2a59495e4bf5b190e,2012-03,Essex Police,Essex Police,0.719983,51.545398,On or near NORTH AVENUE,E01015898,Southend-on-Sea 010D,Offender given community sentence
+cbe40d9dfaa802fb19240281a3cf48afcac28f893177c1590f5c05cd5a2e2824,2012-03,Essex Police,Essex Police,0.098456,51.759284,On or near TENDRING ROAD,E01021870,Harlow 006E,Offender given conditional discharge
+22d1f33f76588eefdc9bd0394d2390c1d328c96f78923f29a31d995ec401d94e,2012-03,Essex Police,Essex Police,1.148481,51.805277,On or near LONDON ROAD,E01022044,Tendring 013E,Offender fined
+816008b121826f38308c398bb0e38f0d141057498c8c78cf27816cafcf30dc66,2012-03,Essex Police,Essex Police,0.498422,51.570220,On or near BROOMFIELDS PLACE,E01021305,Basildon 013D,Offender given conditional discharge
+803f33dc64b30dab670f2373eb48463d9db64b83182dcefee5aa00ba272d2fcb,2012-03,Essex Police,Essex Police,0.720616,51.537397,On or near HASTINGS ROAD,E01015841,Southend-on-Sea 014C,Offender fined
+f457533669af64534454d8cd7fcd50db34b65c7e3df146f8be53b2691463ae46,2012-03,Essex Police,Essex Police,0.901325,51.890172,On or near GEORGE STREET,E01021649,Colchester 007D,Offender fined
+5635b487f33400c9c0745de0d24d6bbbac57f3d4c8fecaf841a29007660d7518,2012-03,Essex Police,Essex Police,0.697357,51.539166,On or near ST HELEN'S ROAD,E01015856,Southend-on-Sea 015F,Offender sent to prison
+1382da5dd61fa1e03fbc1376b3861d4d4c1f992e36622eba1e71208fa9420c05,2012-03,Essex Police,Essex Police,0.702103,51.547700,On or near Petrol Station,E01015861,Southend-on-Sea 004E,Offender fined
+72e28f98c4f738d643efebf154a1a0ed89628c4a75fa7c3b81b816844a1c1dc6,2012-03,Essex Police,Essex Police,0.676392,51.568966,On or near LUNDY CLOSE,E01015863,Southend-on-Sea 002A,Defendant found not guilty
+ff9dd4407f728ed8cd2101413ae19af84a874260846f8828aef103247355e65d,2012-03,Essex Police,Essex Police,0.089752,51.777585,On or near RIVERMILL,E01021843,Harlow 004E,Offender sent to prison
+bf2d460ef90ac9c4ec7847ab79c67fc0f63caa7e4c2729238d51c9402991cdb0,2012-03,Essex Police,Essex Police,0.484983,51.570416,On or near GIBCRACKS,E01021322,Basildon 019A,Offender sent to prison
+a453524bb7b0c78488713fc0ee3986783004e0b7c1ec0f6ce266f4dcf630d768,2012-03,Essex Police,Essex Police,1.150049,51.812161,On or near Supermarket,E01022039,Tendring 010B,Offender fined
+c35245551fe9b359547744469de49bf31cf9c611213e5129b6339d7815bae844,2012-03,Essex Police,Essex Police,0.447985,51.562974,On or near GERNONS,E01021294,Basildon 020A,Offender given absolute discharge
+c445569650566fc1cd45c570250fd1a77bd52c9b03fc2bb420b2b1c00b861850,2012-03,Essex Police,Essex Police,0.303257,51.621059,On or near Shopping Area,E01021433,Brentwood 007A,Offender sent to prison
+07e9eebb042708a9937b97fd6debebf03a2fea78e65a3bc7fd0a6c6bdd061f5e,2012-03,Essex Police,Essex Police,0.322355,51.479168,On or near Grays Police Station,E01015956,Thurrock 016B,Court case unable to proceed
+f06e4bb0bdb121acc419e66ed6539dec5ba890a7776c0aac136c728f2ba69e5a,2012-03,Essex Police,Essex Police,0.343882,51.469539,On or near THURROCK PARK WAY,E01016003,Thurrock 018A,Offender given conditional discharge
+a4e0f2110c8a49985a3d14134cd0070e229bd5de75c0f6dc4bbc456905ce92d8,2012-03,Essex Police,Essex Police,1.154230,51.798063,On or near OXFORD CRESCENT,E01022043,Tendring 014B,Offender given conditional discharge
+c9365ab52a7742cbb0a731e7391b1446ba44e5588d613db5f5d48d796dc52b4f,2012-03,Essex Police,Essex Police,0.462713,51.570912,On or near Parking Area,E01021318,Basildon 015C,Court case unable to proceed
+9fd00cfed24419c8f6f0f57794d0f62673a7e3198971458e3b07c79a5226e83f,2012-03,Essex Police,Essex Police,0.899288,51.889233,On or near Shopping Area,E01021649,Colchester 007D,Offender sent to prison
+267bc398f4b158913b5b9f5bdee5a2e3aea76abb597f1dae14953bba75038e1e,2012-03,Essex Police,Essex Police,0.519420,51.600231,On or near Petrol Station,E01021344,Basildon 008D,Offender sent to prison
+c080263ec3b6d77c842701bd6ffa7cf2787a7939c4195506cc40cacbf5b32123,2012-03,Essex Police,Essex Police,1.246006,51.831882,On or near HAROLD WAY,E01021986,Tendring 006B,Defendant found not guilty
+b381bfd853e0594c1e1db42243944b26a86f89c27283606af38dac1c38949e30,2012-03,Essex Police,Essex Police,0.096056,51.768166,On or near SOUTH GATE,E01021868,Harlow 007B,Offender otherwise dealt with
+8e15ce9c1b917d028532290384643422ad6a1fa04f428b219f49f41904e015e5,2012-03,Essex Police,Essex Police,0.096056,51.768166,On or near SOUTH GATE,E01021868,Harlow 007B,Offender sent to prison
+ba394d995abbcb3cf5c85f1fb007bfb6f7d12b1e68cf886be7e7b3545fbd5913,2012-03,Essex Police,Essex Police,0.899875,51.890226,On or near Nightclub,E01021649,Colchester 007D,Offender fined
+db5750f51a208feb088543add5c6a87529cb15151ccdcc5940de09b91433db4f,2012-03,Essex Police,Essex Police,0.292499,51.475142,On or near PORTER CLOSE,E01016011,Thurrock 015B,Offender given community sentence
+60fa559f430e3d98d5d194aafa825672bafb9f8504deab5e386878f4fd4e1e38,2012-03,Essex Police,Essex Police,0.617481,51.643493,On or near Queen Elizabeth Way,E01021613,Chelmsford 019C,Offender fined
+d723404461af096902ce1f7674f1fb34ed4525df3a005569357fcb8e0d8b6be6,2012-03,Essex Police,Essex Police,1.164413,51.792051,On or near AMBLESIDE COURT,E01022048,Tendring 014C,Offender ordered to pay compensation
+040c25bf5303d849115a6bb804e7c6ed4282a602a790e736c4d92c57cba13f89,2012-03,Essex Police,Essex Police,1.140533,51.803646,On or near HANWELL CLOSE,E01022024,Tendring 015B,Offender given suspended prison sentence
+dbe9aec2424cf5c1723d1548fc159724a9ca66b02ad17eb5342926ff9c1dd0ff,2012-03,Essex Police,Essex Police,0.728770,51.534131,On or near PROSPECT CLOSE,E01015842,Southend-on-Sea 014D,Offender sent to prison
+eb265ab6371fbe4eb7a8cd7be9ef960f3475d9fd745a043af1156b21fa7f5206,2012-03,Essex Police,Essex Police,1.257809,51.933128,On or near Supermarket,E01022006,Tendring 002C,Offender sent to prison
+cbb43fc6f8e2daa6b29af2bd4b604cf87ae5870ac55e62bddded50af375fc3ee,2012-03,Essex Police,Essex Police,0.667256,51.559092,On or near THISTLEY CLOSE,E01015825,Southend-on-Sea 005F,Offender given community sentence
+b94d57b67756aab5531931a6fd9ab68841fb47f5fd379a18c33a6777016a8504,2012-03,Essex Police,Essex Police,0.292036,51.475969,On or near OAKLEY CLOSE,E01016011,Thurrock 015B,Offender otherwise dealt with
+807f763f7f697c4b8e757e7fac9d34c0dacf6c463b7b1edba0789d22e071ccbe,2012-03,Essex Police,Essex Police,1.153678,51.790774,On or near STATION ROAD,E01022025,Tendring 016B,Offender sent to prison
+41e48ecb786c37b2e5a9721891bcd1ebe4b636b371b32a8ab1a91a1aab7bfab8,2012-03,Essex Police,Essex Police,0.895640,51.896024,On or near NORTH STATION ROAD,E01021650,Colchester 007E,Offender given community sentence
+a227c57582205488f22c5020dbc0e780532d7f1d8a0241866e507847ed405490,2012-03,Essex Police,Essex Police,0.725627,51.556329,On or near FOSSETTS WAY,E01015871,Southend-on-Sea 006C,Offender given conditional discharge
+166aaebf44b5aed7a796dfd9b89d91e08ecae48d0c942b31faf84d55b15c0f4a,2012-03,Essex Police,Essex Police,0.633780,51.935759,On or near PARKER WAY,E01021391,Braintree 004C,Offender given community sentence
+ae5a5e82d27ae9b679e0ff489246b65afcecbab2e5478b52e76a3263c2b90fd0,2012-03,Essex Police,Essex Police,0.596066,51.561094,On or near PARKFIELDS,E01021529,Castle Point 006D,Offender fined
+caef2e94a78850d999a14c959312dbdfb63b691b665ced6856fdebf61a6b7f1d,2012-03,Essex Police,Essex Police,0.739173,51.774404,On or near FIELD VIEW DRIVE,E01021882,Maldon 002A,Offender sent to prison
+13adae82dbd5840c8875ff9f7116ed15fad52f64db032c0c0818b2155284de89,2012-03,Essex Police,Essex Police,0.364633,51.470121,On or near SPINDLES,E01016007,Thurrock 018E,Offender given community sentence
+ad10273af9b071991fa254efbb2ebf7c15475495c7a5d57ca4658f7eb4d27861,2012-03,Essex Police,Essex Police,0.066970,51.754266,On or near RED WILLOW,E01021829,Harlow 009A,Offender given community sentence
+0d0b292bf52dcf0e94b716df2804c6182f507c59ab4e4d558bf36eb4025f40c0,2012-03,Essex Police,Essex Police,0.634375,51.936987,On or near RONALD ROAD,E01021391,Braintree 004C,Offender given community sentence
+4fc4b6c7feefdcf82a6db5f40051b1b188c792df60b4185a00af92fd98c829c6,2012-03,Essex Police,Essex Police,0.709743,51.544690,On or near Police Station,E01015895,Southend-on-Sea 010A,Court case unable to proceed
+ade91d0126ee7ecb4c57e70da277e30fc3c60c269cb1a232bbdcc28767e0eff8,2012-03,Essex Police,Essex Police,0.290985,51.483436,On or near PLYMOUTH ROAD,E01033613,Thurrock 019D,Offender fined
+6ddebb36f9d573e465a5db6e652f4db564664defb6ebb8f86d2c514013b6af99,2012-03,Essex Police,Essex Police,0.213890,51.737939,On or near PEDLARS END,E01021796,Epping Forest 003B,Offender given community sentence
+592ad0a2ba87318c523e2869a39a91707e53cf302cffaa910f349907782940fa,2012-03,Essex Police,Essex Police,0.475284,51.737012,On or near VICTORIA ROAD,E01033141,Chelmsford 010G,Offender fined
+b02a5ab0e8ec32b935aabae8ff873e121b5498c3de61e4d7e08661948d89d20d,2012-03,Essex Police,Essex Police,0.170732,51.719015,On or near QUEENS ROAD,E01021798,Epping Forest 001D,Offender otherwise dealt with
+e6c9b95ec8b145eceecdac66aabb9dc433e6e536c267b998a60fd6bd2bdc4126,2012-03,Essex Police,Essex Police,0.093567,51.769182,On or near Shopping Area,E01021872,Harlow 007E,Offender sent to prison
+57e848d4aa8263825f2cb2ff7388d5043512504d1a98e92e779c7a8e03521883,2012-03,Essex Police,Essex Police,0.709743,51.544690,On or near Police Station,E01015895,Southend-on-Sea 010A,Offender given community sentence
+b23497975ffc5bc035e8738f3fa2eb8e79dcd88abee8128b5ce4140b82ce1b6a,2012-03,Essex Police,Essex Police,0.505195,51.560327,On or near Parking Area,E01021310,Basildon 022B,Court case unable to proceed
+c3aafe3f4219df02f2806a3e12a023edd7152fbb1bd4fcd1927778264d8c2dbc,2012-03,Essex Police,Essex Police,0.684100,51.561163,On or near Supermarket,E01015868,Southend-on-Sea 002F,Offender given community sentence
+1d21d1cf61d7555a58ba4839030fb706f2a9ec85689e64398c730319eb9d5786,2012-03,Essex Police,Essex Police,0.836428,51.876817,On or near GRIEVES COURT,E01021722,Colchester 012E,Offender given conditional discharge
+6df2eec4ae7e5a8225a3e0456baed045b385fd5f1b90ca70181db06269819b11,2012-03,Essex Police,Essex Police,0.845734,51.878068,On or near Petrol Station,E01021721,Colchester 012D,Offender given conditional discharge
+f8bfa56accec2f63884130fe074374a10720b2806c7ed8ba33dd3bc4bc25ef59,2012-03,Essex Police,Essex Police,0.703897,51.582554,On or near UNION LANE,E01021954,Rochford 007D,Offender sent to prison
+6969247e162a92cd6de8aeea6d2d81a4ef62b207390db7a543a3dcdc1a32fe64,2012-03,Essex Police,Essex Police,0.117933,51.757774,On or near LONGFIELD,E01021823,Harlow 006D,Offender given community sentence
+ee2bc1c3353a62f94b6181d1e8edeae95899386067762eb33c7517a19e724815,2012-03,Essex Police,Essex Police,0.743713,51.816963,On or near STORES ROAD,E01021727,Colchester 020E,Offender sent to prison
+e6c9b95ec8b145eceecdac66aabb9dc433e6e536c267b998a60fd6bd2bdc4126,2012-03,Essex Police,Essex Police,0.093567,51.769182,On or near Shopping Area,E01021872,Harlow 007E,Offender given community sentence
+5ebbc2aa365ea860a450d273b3ffde1ec0f74dc09f4062ac2b22a3f28f44d218,2012-03,Essex Police,Essex Police,0.121149,51.771349,On or near MOMPLES ROAD,E01021847,Harlow 002D,Offender sent to prison
+f41e39e1387fe8738d6aabfc719076efe504e2b04c3b5988f63b6753b4b4b919,2012-03,Essex Police,Essex Police,0.707672,51.538721,On or near ASHBURNHAM ROAD,E01015854,Southend-on-Sea 015D,Defendant found not guilty
+763d6e160e0dd88dfcbd41dc53b75011b5d3f3223b4503cd60a89d4ce2376c22,2012-03,Essex Police,Essex Police,0.898356,51.887395,On or near Parking Area,E01021649,Colchester 007D,Defendant found not guilty
+8251ed6f878710bc962a2c0c34426ab7fabafb8e283da61b88210d7f7188178e,2012-03,Essex Police,Essex Police,0.413812,51.728849,On or near MANSFIELDS,E01021635,Chelmsford 011E,Offender given community sentence
+163ab21408ca382c7066c2d032f24c7ebadda3dc992b8c9fdae51cbf0d225436,2012-03,Essex Police,Essex Police,0.699414,51.535665,On or near TRINITY AVENUE,E01015853,Southend-on-Sea 015C,Offender given community sentence
+9bb40363cbd131a032ce57f3ed6394cfab37f3626022d1c536b236070327a16e,2012-03,Essex Police,Essex Police,0.716192,51.535521,On or near HEYGATE AVENUE,E01015852,Southend-on-Sea 015B,Offender sent to prison
+0349bd0043af8c85c3fc12f823576565a4dff2f3b6434a351ac09dfeb4718bab,2012-03,Essex Police,Essex Police,0.680029,51.740226,On or near ROMANHURST,E01021887,Maldon 003D,Offender sent to prison
+160cfb3b4150266a30d8ac63bdcb6ba4952796d097fcdef9e7dde2c354d8d9b4,2012-03,Essex Police,Essex Police,0.290985,51.483436,On or near PLYMOUTH ROAD,E01033613,Thurrock 019D,Offender fined
+822989d83a7a7e74fc248b27fdc274fc925216c5b728d345a7bb8a3869d38ee0,2012-03,Essex Police,Essex Police,0.700056,51.548691,On or near SHAKESPEARE DRIVE,E01015862,Southend-on-Sea 004F,Offender given community sentence
+4d3e278aa457318dadb6474a67c8931edabd9d24d77bed8ba1af5cc42c94232b,2012-03,Essex Police,Essex Police,0.073590,51.643128,On or near CHEQUERS ROAD,E01021771,Epping Forest 013A,Offender given conditional discharge
+467592b4f24312b28c4d461ae09e8f4ad2835b4ac40070ce81111c696b8c22c6,2012-03,Essex Police,Essex Police,0.579766,51.520129,On or near THAMESIDE CRESCENT,E01021485,Castle Point 010A,Offender given conditional discharge
+62b6653c4cebac82be98b981d0d24a6c0c359e275c7fd74798b1101f2260bc45,2012-03,Essex Police,Essex Police,1.149490,51.790419,On or near ROSEMARY ROAD WEST,E01022026,Tendring 016C,Offender given suspended prison sentence
+c7f9701f5eb313b3a62c2dfc67ffec0f73df87b59dea069852059ef703fe35b4,2012-03,Essex Police,Essex Police,0.898530,51.887615,On or near ST JOHN'S STREET,E01021649,Colchester 007D,Offender fined
+f13b75f39ad1c170eb5816a437933393551c23d4b14afd22a202d1f72263a76e,2012-03,Essex Police,Essex Police,1.118845,51.776342,On or near GLEBE WAY,E01021990,Tendring 018C,Offender given community sentence
+bff840dfc33333bca55d3551b9efd131ba621bf4d395c43fa74d461f9bf55511,2012-03,Essex Police,Essex Police,0.775746,51.534971,On or near LONGSANDS,E01015917,Southend-on-Sea 017D,Defendant found not guilty
+cbc95fac2d94babd3788c62961dae0f730cbb7333ca9029c63f98614941d734d,2012-03,Essex Police,Essex Police,0.574545,51.525711,On or near SOUTHWALTERS,E01021508,Castle Point 010F,Offender given community sentence
+7a9c05f94d7d2d6e4db148ad17779848f9ac3b619d0ea833a32446df934a64f1,2012-03,Essex Police,Essex Police,0.901433,51.872893,On or near LORD HOLLAND ROAD,E01021637,Colchester 018A,Offender fined
+561af13e77d09f23e375f6b2da5b5b17c97547bbaa493d7daf1e43de875ceb7a,2012-03,Essex Police,Essex Police,0.901994,51.891307,On or near RYEGATE ROAD,E01021649,Colchester 007D,Offender given community sentence
+1d9f3e09460ebdfed427a92e0db4008aa890441e4c97bce21430c0acf5119c06,2012-03,Essex Police,Essex Police,0.719805,51.539277,On or near LANCASTER GARDENS,E01015844,Southend-on-Sea 014F,Offender given conditional discharge
+0b1bddaf0f74e1bae6703d7da25e9e29fa4e65c7ea07d87043c538e366ad9131,2012-03,Essex Police,Essex Police,0.709743,51.544690,On or near Police Station,E01015895,Southend-on-Sea 010A,Offender sent to prison
+17d13249bf29ba18932d8167ceeac5ce3d410efed80c8639bdfb9275a117676b,2012-03,Essex Police,Essex Police,0.001939,51.685341,On or near Supermarket,E01021818,Epping Forest 009C,Offender given conditional discharge
+5f55b59168a23702403210eaf2dd032059418e80362bc82ea62ef438ee760b7c,2012-03,Essex Police,Essex Police,1.102960,51.859400,On or near Petrol Station,E01022018,Tendring 007E,Court case unable to proceed
+5ffd3526cf6df0050c9d17136bf0300822200e40bd808f864c4bf82aa1050377,2012-03,Essex Police,Essex Police,0.655050,51.548451,On or near Supermarket,E01015814,Southend-on-Sea 003A,Offender sent to prison
+48cab03eceeba12b2d7a54dbec422b79e67487a8933c1a6fd1f65635c0c8fe18,2012-03,Essex Police,Essex Police,0.897825,51.889081,On or near CULVER STREET WEST,E01021649,Colchester 007D,Offender sent to prison
+fb44b58e12d7c964c76ef8bd7f0832bd11fcf4ae3a1aba0ce5346510f9ac237c,2012-03,Essex Police,Essex Police,0.911734,51.880985,On or near MYRTLE GROVE,E01021688,Colchester 011F,Offender sent to prison
+496df2dec662b8dea066e2771b338c8d5677568fb6c91219ae0cd315b272b356,2012-03,Essex Police,Essex Police,0.711519,51.535997,On or near CLARENCE ROAD,E01015852,Southend-on-Sea 015B,Offender given absolute discharge
+97fa015d9170bf2daf98a7f748997527add0be71e1edb0ab09ddea828817bef4,2012-03,Essex Police,Essex Police,0.465356,51.583483,On or near CARNIVAL CLOSE,E01021268,Basildon 015B,Offender fined
+94661188c2c5544130cef94cd9ed94eff1401d2b33038eb751e9b675386f8c95,2012-03,Essex Police,Essex Police,0.691150,51.544444,On or near Supermarket,E01015902,Southend-on-Sea 007B,Offender given suspended prison sentence
+ef26543ea24b12ee3e96a0d71c56e1fa5810b730b764f11622a9756cceb43c2f,2012-03,Essex Police,Essex Police,0.303257,51.621059,On or near Shopping Area,E01021433,Brentwood 007A,Offender sent to prison
+5e655e3f1e7769798bddd419a2edeec511a1ebcae71997241c1c7f03d14fa09a,2012-03,Essex Police,Essex Police,0.701205,51.537899,On or near AVENUE TERRACE,E01015856,Southend-on-Sea 015F,Offender sent to prison
+c84397a3cc56c9324152d6f8d0d6e395b8633f89a5e9d89b9ad5f3f8c850cc31,2012-03,Essex Police,Essex Police,0.481232,51.562752,On or near VANGE HILL DRIVE,E01021323,Basildon 019B,Offender given suspended prison sentence
+f8fe821af34654b7e29ea632dbd148663a95ef684c14c35ba0d7052cff0cad96,2012-03,Essex Police,Essex Police,1.284870,51.942063,On or near ALBERT STREET,E01021998,Tendring 001B,Offender given community sentence
+71376c5455e41ee0922578cfaccaf70c9e0789317945b4bd643e2eb9a995cbd1,2012-03,Essex Police,Essex Police,0.751812,51.809363,On or near Church Road,E01021723,Colchester 020A,Offender given conditional discharge
+3905ea77dec03fe6250fb07d33a0f36d4583e64826dc7f1eceb33c4a3fbaef81,2012-03,Essex Police,Essex Police,0.568709,51.522953,On or near THE WEALD,E01021486,Castle Point 010B,Defendant found not guilty
+1c3de977c674fd644fb2d3cbdd7a38b93e12217bd32380a4c66d62f79ce0acf7,2012-03,Essex Police,Essex Police,0.346690,51.873239,On or near Supermarket,E01033055,Uttlesford 007E,Offender given community sentence
+d12395e520b273ab7b143a6c9405e5913d4b9974071fac948c96efa09abe63a1,2012-03,Essex Police,Essex Police,0.243977,51.696497,On or near SANDON PLACE,E01021754,Epping Forest 004B,Offender given community sentence
+a1afadc5f3afc78070b13941792755b74ded970071b17e85b940a2a246ef53d9,2012-03,Essex Police,Essex Police,0.704765,51.550264,On or near HILL ROAD,E01015861,Southend-on-Sea 004E,Court case unable to proceed
+3bbaff138d3b9c793e2995b8aada62ceaa08c1ffc70f53a47acba04968c81189,2012-03,Essex Police,Essex Police,0.898356,51.887395,On or near Parking Area,E01021649,Colchester 007D,Defendant found not guilty
+39c630e893e2c955960a891c0869b196a5a59b7ef9275f9665927e42c85beda5,2012-03,Essex Police,Essex Police,0.281698,51.489840,On or near Parking Area,E01016011,Thurrock 015B,Offender given community sentence
+52f5272cf9bffed732d26990cea5dcd2e738f697f8881698e717aee845dd85e0,2012-03,Essex Police,Essex Police,0.474843,51.733172,On or near Shopping Area,E01033140,Chelmsford 010F,Offender given suspended prison sentence
+7b5c11d26438715eee64779c682f50fc93c3a3d6ea2fdf1f4e3eeea8582c203d,2012-03,Essex Police,Essex Police,0.084680,51.767568,On or near HARE STREET,E01021842,Harlow 004D,Offender given suspended prison sentence
+24bf9e2a03c39cfd3f6425f456085ce72eb455995d9b2b5b80e9cc1effbeea9b,2012-03,Essex Police,Essex Police,0.703897,51.582554,On or near UNION LANE,E01021954,Rochford 007D,Offender fined
+abae15e564c44395616ab74a02a583ad4ca3c4428838ec068fe7e7d9612c4844,2012-03,Essex Police,Essex Police,0.456169,51.571868,On or near Pedestrian Subway,E01021318,Basildon 015C,Offender sent to prison
+58dca036605577b89f9b5b72149f2bd377caad1e39e97dd79852719c0ca36598,2012-03,Essex Police,Essex Police,0.880296,51.868178,On or near MIDWAY ROAD,E01021714,Colchester 015D,Offender sent to prison
+6bcb4dd4ac54646b0e374d5a30bf799d16409ffa3db2261fb4043860a72cca9c,2012-03,Essex Police,Essex Police,0.449446,51.526808,On or near NORTON CLOSE,E01015987,Thurrock 002C,Offender sent to prison
+e09c6e9f5d157fbe1969f0b41344fc96ccb040ad4a50158206aa636ead7f88f1,2012-03,Essex Police,Essex Police,0.707162,51.580904,On or near SOUTH STREET,E01021955,Rochford 004D,Defendant found not guilty
+df3df2953613e1a98eb038d51b6971c1f117647676ab9404cb78bf793ddd9b1e,2012-03,Essex Police,Essex Police,0.093567,51.769182,On or near Shopping Area,E01021872,Harlow 007E,Offender given conditional discharge
+a4097bfa76c946e2f8d1b8e20abfd11614de7eb15bededb8c325acebb7bc721c,2012-03,Essex Police,Essex Police,0.459707,51.571362,On or near NORTH GUNNELS,E01021318,Basildon 015C,Offender sent to prison
+116bb792f1a5fb70a1744acdf42e3e4586690a24c576543b34a36bd4aa3757af,2012-03,Essex Police,Essex Police,0.706444,51.540387,On or near LONDON ROAD,E01015895,Southend-on-Sea 010A,Offender sent to prison
+d5d223561d9c681cb32b098181d40f00a3019be63d45e926031b4d4211be38fc,2012-03,Essex Police,Essex Police,0.482637,51.565249,On or near RAVENSCOURT DRIVE,E01021327,Basildon 019E,Defendant found not guilty
+8c66b77a791ed7d789cea16bba41ffe3e6a5481d36f23f3074eb65a1714821fc,2012-03,Essex Police,Essex Police,0.514419,51.570085,On or near LENHAM WAY,E01021315,Basildon 018C,Offender otherwise dealt with
+3c464bb15544f0f1e4cb51dca5e7e25675792c1d5d64286895499fe99b6d0afd,2012-03,Essex Police,Essex Police,0.715320,51.534677,On or near Shopping Area,E01015852,Southend-on-Sea 015B,Offender sent to prison
+430f01330632c4b920cf94a8172c25d3eb0877c0248b78d57113808de708a81f,2012-03,Essex Police,Essex Police,0.891763,51.887710,On or near CROUCH STREET,E01021649,Colchester 007D,Offender sent to prison
+9211a7523fb5f55706e81e2931f30779186ff6a7145ed56a939b43330ba80cb4,2012-03,Essex Police,Essex Police,1.151360,51.814311,On or near Highfield Holiday Park,E01022039,Tendring 010B,Court case unable to proceed
+0c6214f114fdb181ec77cf83e80fd22130b1f7f5fb9100bb4c179acf56caa503,2012-03,Essex Police,Essex Police,0.681707,51.537645,On or near CROWSTONE AVENUE,E01015827,Southend-on-Sea 012A,Defendant found not guilty
+1568d6746719545a97a1828b1f8f2debbbfed2353002c741503e4506c9915822,2012-03,Essex Police,Essex Police,0.899707,51.884681,On or near FLAGSTAFF ROAD,E01021683,Colchester 011A,Offender sent to prison
+fa8c7e76284f66d7a3c5c82d2e4fe87a9f8bc3ab1d4c34baf0a7ccbfb25e0900,2012-03,Essex Police,Essex Police,0.432786,51.627726,On or near FELSTED ROAD,E01021243,Basildon 003D,Offender given community sentence
+8bbf35d9523222b736acd5b784ddaf7e3099e1653b93248d6946eafc14365a2a,2012-03,Essex Police,Essex Police,0.739402,51.547626,On or near PHILPOTT AVENUE,E01015887,Southend-on-Sea 009E,Court case unable to proceed
+d0a8e47e758351bff10511fe6c7154fc400bf58e27ef47c5059b290e751a268f,2012-03,Essex Police,Essex Police,0.341894,51.484409,On or near CHADWELL ROAD,E01015970,Thurrock 014E,Offender fined
+e68748124d152c57d70f4d29a5fddd4286a0eb90debe6aa778f031f2b6800089,2012-03,Essex Police,Essex Police,0.918007,51.883833,On or near NEW PARK STREET,E01021687,Colchester 011E,Offender sent to prison
+ef085e85ec7c5ae1f3677f9eab2645da7b5af9992ca07d3492863e78a6e20374,2012-03,Essex Police,Essex Police,0.727306,51.549904,On or near NORWICH AVENUE,E01015875,Southend-on-Sea 006G,Offender sent to prison
+e47923a93c30172c6c6a43b9b8ca843ff8e0bc0dbd50e6e4ae72448acf51ba67,2012-03,Essex Police,Essex Police,0.893012,51.922080,On or near BOXTED ROAD,E01021680,Colchester 004B,Offender given conditional discharge
+89fd3195752d80a9b1a4a3a98ff9f8f3f40023de5e276e7adf87750fb2ea64d9,2012-03,Essex Police,Essex Police,0.548875,51.879067,On or near Shopping Area,E01021365,Braintree 009D,Offender given community sentence
+e1c6c3418098787fa43c9fdd93d5bdb9ae148d2a0013e90793f49bd5c817df7d,2012-03,Essex Police,Essex Police,0.579937,51.518065,On or near BEVERLEY AVENUE,E01021502,Castle Point 011E,Court case unable to proceed
+8dd0c1947a2adb86932fb6827f8d90de7a6ca773796bb634709c429f2763659f,2012-03,Essex Police,Essex Police,0.915602,51.872264,On or near Supermarket,E01021667,Colchester 016F,Court case unable to proceed
+e07c6bfa4e1bdd2b4c7aaae66aac017a7e5fcd51a4a52a6c88b582d129b2be5d,2012-03,Essex Police,Essex Police,0.284143,51.486609,On or near Shopping Area,E01016011,Thurrock 015B,Court case unable to proceed
+0df2e0e5c003deec6db8b09d6fb5166d0f4d892238e0685f970c72a26182c84a,2012-03,Essex Police,Essex Police,0.064244,51.660118,On or near WHITAKERS WAY,E01021788,Epping Forest 012C,Offender otherwise dealt with
+cf990df0b84e5dfc4ca1923f5075c25df1e7e255a699d6b69119297dc35331e0,2012-03,Essex Police,Essex Police,0.897825,51.889081,On or near CULVER STREET WEST,E01021649,Colchester 007D,Offender fined
+6cd8931d8f916e1d78609341eb415f966c644114263e91dd6dd13b17fd4fdbcf,2012-03,Essex Police,Essex Police,0.900615,51.887717,On or near VINEYARD GATE,E01021649,Colchester 007D,Offender given conditional discharge
+577c3f91b430c2ae7eb6d86454d7d1c90ce5e96e0f7adddfbed515cd14b59483,2012-03,Essex Police,Essex Police,0.898356,51.887395,On or near Parking Area,E01021649,Colchester 007D,Defendant found not guilty
+c756675ba82e811117981a77dd80b3280c406b23c8f3845cb1a3d7433987ef6a,2012-03,Essex Police,Essex Police,0.474190,51.732359,On or near Shopping Area,E01033140,Chelmsford 010F,Offender given suspended prison sentence
+8adbcdcdc068883482190f2d214f47bc8e92628728dfd8d742a0ae02e7ae8c8b,2012-03,Essex Police,Essex Police,0.724923,51.532971,On or near Supermarket,E01015842,Southend-on-Sea 014D,Offender sent to prison
+4bf868b1dc05fb0b3d458b3fce7931eecd5fb8e40e2188733211470b4c5efce4,2012-03,Essex Police,Essex Police,0.502267,51.562719,On or near Supermarket,E01021310,Basildon 022B,Offender given community sentence
+ce905999cf815e7c7b116f04c607e6d9f621f0c4da2630e621509885ed8ac850,2012-03,Essex Police,Essex Police,0.919727,51.910133,On or near Supermarket,E01021671,Colchester 002D,Offender sent to prison
+d613b7e87044d0555c3b89ccc60acf2c2682326717136679ccee03318b0a4794,2012-03,Essex Police,Essex Police,0.929877,51.899178,On or near ELWES CLOSE,E01021707,Colchester 022I,Offender sent to prison
+85c8637007d5711edda66cbb30c81a6147043dd77a7c1161bf5928d83de6edd7,2012-03,Essex Police,Essex Police,0.701205,51.537899,On or near AVENUE TERRACE,E01015856,Southend-on-Sea 015F,Offender sent to prison
+16ac11700b5650a61640a7a7a662a8157b157bce6b92372604c0c15af10d19d2,2012-03,Essex Police,Essex Police,1.275963,51.933865,On or near LEE ROAD,E01021999,Tendring 001C,Offender ordered to pay compensation
+4379db3df9fdf9fe8d50d9706627386f0bb41df7e13baa335d38d84125f9f737,2012-03,Essex Police,Essex Police,0.893996,51.908430,On or near TALL TREES,E01021680,Colchester 004B,Defendant found not guilty
+84c2f768a21a88dea2024db0b1b8e60e102b65edee0d442dcabef0078ceaec0d,2012-03,Essex Police,Essex Police,0.497196,51.734579,On or near HURST WAY,E01021547,Chelmsford 008D,Offender sent to prison
+3ee0cc50d9dbf97362ca782499ca946ee5203a57fde9147e8547aa5c6e8cac9c,2012-03,Essex Police,Essex Police,0.118921,51.776703,On or near Pedestrian Subway,E01021844,Harlow 002A,Offender given community sentence
+02d3c74359f27e987f1051445b09dedd9fb47678c5a3c2760959f3851c16c438,2012-03,Essex Police,Essex Police,0.710838,51.536436,On or near NELSON MEWS,E01015852,Southend-on-Sea 015B,Offender sent to prison
+cdfa78017d309eceb16357e0d737e802257624ff60d5b905f60431d6fd5a761a,2012-03,Essex Police,Essex Police,0.452040,51.569967,On or near ROUNDACRE,E01021318,Basildon 015C,Offender sent to prison
+3616c1b64cf1405b965c229f1fdb2995af0bb29fa632ba7eacdcd88e8493ec2b,2012-03,Essex Police,Essex Police,0.846638,51.884089,On or near RYE CLOSE,E01021721,Colchester 012D,Offender fined
+ff9ea62561a54414ad712381c17b256d8decab81f649452a701f331199000aef,2012-03,Essex Police,Essex Police,0.691224,51.540566,On or near VALKYRIE ROAD,E01015831,Southend-on-Sea 012E,Offender sent to prison
+87069b87f87fd62126d4f5b6b1ea31bd01a528348546fb63f71dcab29c3953e5,2012-03,Essex Police,Essex Police,0.117991,51.650869,On or near MARKET PLACE,E01021770,Epping Forest 010A,Offender sent to prison
+78a2c91ffb0fc563a1b7fdc609ddc60f431940e499e5becbd0366bb1ef4a6cf1,2012-03,Essex Police,Essex Police,0.713197,51.546994,On or near BIRCHAM ROAD,E01015897,Southend-on-Sea 010C,Offender given community sentence
+0e1a8404b371071ce50cd1d56fc8fe9718235fa6cfe5fe1f546f782da4c9821c,2012-03,Essex Police,Essex Police,0.286132,51.597679,On or near GREEN LANE,E01021473,Brentwood 008D,Offender given community sentence
+b46d085e458480efb176a0cc7d7067dafb35bfc96a0e516a2ae7cb75a19fa118,2012-03,Essex Police,Essex Police,0.760006,51.874796,On or near HONYWOOD CLOSE,E01021678,Colchester 010E,Court case unable to proceed
+f2f75b385fa93d5617afb8ce5a3ab2ea720b7db7afc4d6921e4f14a1d98d5655,2012-03,Essex Police,Essex Police,0.728770,51.534131,On or near PROSPECT CLOSE,E01015842,Southend-on-Sea 014D,Offender sent to prison
+4964cf64cd74689c44a03f060cf5e45fb7cda12430f0be57ed6570fdc9f7b3f8,2012-03,Essex Police,Essex Police,0.739173,51.774404,On or near FIELD VIEW DRIVE,E01021882,Maldon 002A,Offender sent to prison
+7a742e83152bd85b91c81545394f04d2948bdde1b2b5b77008836447f7f8585e,2012-03,Essex Police,Essex Police,0.284143,51.486609,On or near Shopping Area,E01016011,Thurrock 015B,Court case unable to proceed
+90d1cfde36fbf5055f4bb2c3876a90e06642be97309c562fc4d4f3787d7d3070,2012-03,Essex Police,Essex Police,0.096056,51.768166,On or near SOUTH GATE,E01021868,Harlow 007B,Offender otherwise dealt with
+5b60f278c331727a45bff3babfd6635271d61986b31101af2973ecfc99bcd5f2,2012-03,Essex Police,Essex Police,0.914653,51.780066,On or near REYMEAD CLOSE,E01021734,Colchester 021D,Offender given community sentence
+7ea0edff445986812d1c6723f4bc1ae9407bffde043a771c2dc34ede6bffa584,2012-03,Essex Police,Essex Police,0.281698,51.489840,On or near Parking Area,E01016011,Thurrock 015B,Offender given community sentence
+de2259c3b30b296800642f6654850909c1985c2ab83c7af152efad6c1d34dd7d,2012-03,Essex Police,Essex Police,1.156340,51.787978,On or near MARINE PARADE EAST,E01022025,Tendring 016B,Offender given suspended prison sentence
+77ef9e668e561b2babfc2f5ee75bac590440c499dc8575e45fd3f620dd347d73,2012-03,Essex Police,Essex Police,0.087971,51.753140,On or near Petrol Station,E01021859,Harlow 010C,Defendant found not guilty
+ce376ffa22c1f13975ea644fbeca134211ef4b4a338d805ee2cae3ab78ed3a1b,2012-03,Essex Police,Essex Police,0.897825,51.889081,On or near CULVER STREET WEST,E01021649,Colchester 007D,Offender fined
+1a6e71ea9a11a17704e6af80819b90f23db8b9bbf867f858528c17a385bcc247,2012-03,Essex Police,Essex Police,1.159276,51.789733,On or near CHURCH CRESCENT,E01022027,Tendring 016D,Offender sent to prison
+f5d283857dc1191c0a091d7f50e6003f8b358fd29aa0aae09ea1d041756bae54,2012-03,Essex Police,Essex Police,0.689609,51.537635,On or near VALKYRIE ROAD,E01015828,Southend-on-Sea 012B,Court case unable to proceed
+b8a94a33c9285978ca32fca09ee31a28e69c203b67a536fa5f67a5ba085a1d48,2012-03,Essex Police,Essex Police,0.355844,51.498230,On or near A1089,E01015965,Thurrock 010C,Offender given community sentence
+13e3eafed18df328f4cd462f2f6358263b8a5adec447d59ebba35399e5632d5f,2012-03,Essex Police,Essex Police,0.465864,51.736383,On or near Theatre/Concert Hall,E01021574,Chelmsford 010A,Offender given community sentence
+986439101c114c918be71e5bb8c390b48c88d6e98a23c1ced31adf58c711ca97,2012-03,Essex Police,Essex Police,0.933798,51.894880,On or near ASPEN WAY,E01021697,Colchester 008B,Offender sent to prison
+d6cdf6d10311e0d6880eae1d321b6f9fda9682da4c86ee107f6de926d9739276,2012-03,Essex Police,Essex Police,0.895004,51.886362,On or near BUTT ROAD,E01021683,Colchester 011A,Offender fined
+a7ad12ce565a74ad49f65469a8ce07eee1895e400778af97c93e52e3f00218b7,2012-03,Essex Police,Essex Police,0.090424,51.774561,On or near MORLEY GROVE,E01021843,Harlow 004E,Offender sent to prison
+d8ee79803fbc6c402e792418403925c45a5601d4b847c38f132ade8c890263aa,2012-03,Essex Police,Essex Police,0.463490,51.569268,On or near Supermarket,E01021318,Basildon 015C,Offender sent to prison
+0941a36ac2983d6b5f071b5f9a569f04c2cc938a1f8a5045ef2bdd394c36f7e2,2012-03,Essex Police,Essex Police,0.291107,51.519181,On or near TAMARISK ROAD,E01015973,Thurrock 006D,Offender given conditional discharge
+98a3f962fb1e6f347810769dbb776967d9350202cd3df337468a152927b01780,2012-03,Essex Police,Essex Police,0.504899,51.577250,On or near MALYONS MEWS,E01021302,Basildon 013B,Offender sent to prison
+f0cd6b068d507e6a7a5616ff3ac056c82a92b87336eebe0f7764a428ef2aa9f0,2012-03,Essex Police,Essex Police,0.570520,51.716827,On or near ST CLERES WAY,E01021569,Chelmsford 016C,Court case unable to proceed
+ccc296885c8274665dd426feb8987af537b79d6330a5f02bcca83320fdae3b9b,2012-03,Essex Police,Essex Police,0.897825,51.889081,On or near CULVER STREET WEST,E01021649,Colchester 007D,Offender otherwise dealt with
+8c228195743a484b94f438e2d00a29982ea4e08c3398a23cea858abdafec1966,2012-03,Essex Police,Essex Police,1.150049,51.812161,On or near Supermarket,E01022039,Tendring 010B,Offender fined
+9dd1fceb916214c31ca1e0a89d44552f26af3d7dc77d99a8319e4405a3e0b860,2012-03,Essex Police,Essex Police,0.132511,51.766089,On or near Supermarket,E01021827,Harlow 005D,Offender given suspended prison sentence
+19eea3235ff52ddcd7612228c20c323a9c6736c5b6bfb318f7a654c09ad7b15a,2012-03,Essex Police,Essex Police,0.301672,51.476851,On or near CHARLTON STREET,E01016015,Thurrock 015F,Defendant found not guilty
+142b7d99d6670614e323a56e0eb6f5a3e5e2412f6a0c844375665596036ecbda,2012-03,Essex Police,Essex Police,0.901260,51.888708,On or near Shopping Area,E01021649,Colchester 007D,Offender sent to prison
+6c3feec139d2a81bee5dd71d246db34eaf11b77fa61df04b5a8f2b4aba8c2975,2012-03,Essex Police,Essex Police,0.897808,51.901249,On or near Supermarket,E01021679,Colchester 004A,Offender given community sentence
+64d3eff0a1a499dfd90c6f5759dacc37c0814cf547ef342f4ed95029ccf9df5f,2012-03,Essex Police,Essex Police,0.298807,51.615058,On or near THE MOUNT,E01021439,Brentwood 007C,Court case unable to proceed
+e0b5603f68f155822324bc66e414073b301e5bebae1d126c6c7de678e0e1241e,2012-03,Essex Police,Essex Police,0.513170,51.751784,On or near White Hart Lane,E01033144,Chelmsford 005F,Offender fined
+9a74571645eb9d458f226cc5b9fd8e8751a49bc2e42c3181b726dafc88e4098a,2012-03,Essex Police,Essex Police,0.634446,51.943649,On or near BRIDGE STREET,E01021387,Braintree 004A,Offender sent to prison
+be135898ce88f9d319dcc8b59e508efe786ce6db7cd4eadb4ba35540146dd9e4,2012-03,Essex Police,Essex Police,0.903575,51.888768,On or near Theme/Adventure Park,E01021648,Colchester 007C,Offender given community sentence
+4f6654a88cfc9b407675839d5cebd95abb2ff6f4a68928a8d3d5bd53925c0445,2012-03,Essex Police,Essex Police,0.500879,51.590268,On or near Cricketers Retail Park,E01021307,Basildon 011C,Offender fined
+f4fe09c3023077ab4573933515b01ae8b41fbaf90d3886a46c0db3419e77a607,2012-03,Essex Police,Essex Police,0.094895,51.770021,On or near Nightclub,E01021872,Harlow 007E,Offender fined
+0672ee8ddae9b4ddbd13321aba5af2906289120773ee4b359da4da7eb1aacb0b,2012-03,Essex Police,Essex Police,0.914653,51.780066,On or near REYMEAD CLOSE,E01021734,Colchester 021D,Offender otherwise dealt with
+3fe2b6699fc4ca1696828762f4e2f46aedd0e84f1df6c53eb1f89038ba6deaa1,2012-03,Essex Police,Essex Police,0.468148,51.728322,On or near ANCHOR STREET,E01021582,Chelmsford 010D,Offender sent to prison
+5e44563e4a828d3773672e9302763869b323f103e2f6ba871eb539b268f83354,2012-03,Essex Police,Essex Police,1.150195,51.799691,On or near Park/Open Space,E01021970,Tendring 016A,Offender given conditional discharge
+b84e921f5fcab0303bb2ee8aa89cd9f9935bddf399123991316090fc47c1e887,2012-03,Essex Police,Essex Police,0.114358,51.706653,On or near WOODBERRY DOWN,E01021760,Epping Forest 005A,Offender fined
+efb4edb141b14671986277e046d18b94ec937905858dd6b7b63fc8cb38f0472a,2012-03,Essex Police,Essex Police,0.452040,51.569967,On or near ROUNDACRE,E01021318,Basildon 015C,Offender sent to prison
+af5310061fa93828fd039c5dc0b7735a3390f85c21365a34ecfc39f3847c30a4,2012-03,Essex Police,Essex Police,0.557966,51.548369,On or near Parking Area,E01021522,Castle Point 007C,Offender given suspended prison sentence
+9a2cae790f8c9bd4e540ba13fd18162c96d73d61fb41a852a436d50893708779,2012-03,Essex Police,Essex Police,0.552316,51.877733,On or near Supermarket,E01033459,Braintree 009F,Offender fined
+6bf4a822f223a95bdc6eba4c20a75aa79c44d38c21a10f3e4c0143c8c2ad96fa,2012-03,Essex Police,Essex Police,0.256976,52.022695,On or near HORN BOOK,E01022081,Uttlesford 002F,Offender fined
+e7eb169e9279ab151d4cffc2ee45af6c7cf3bcee0e146ac0501a184f50a063a2,2012-03,Essex Police,Essex Police,0.502267,51.562719,On or near Supermarket,E01021310,Basildon 022B,Offender sent to prison
+0ab6d6cfbdaf17488351e43c8390143d9733f0b6a3c370f53f9e98b1ed0876d7,2012-03,Essex Police,Essex Police,0.582766,51.869793,On or near Petrol Station,E01021380,Braintree 012E,Defendant found not guilty
+af673faa407c21478aa5eb43c2ea72aab9fd6684d537c57c1b947d44a18754e4,2012-03,Essex Police,Essex Police,0.780740,51.539296,On or near Supermarket,E01015882,Southend-on-Sea 013G,Offender fined
+0f5700f9a3b75114febdda4cf4ea8570b2d38529b6f4b3f785cdef92a28c7efa,2012-03,Essex Police,Essex Police,1.255218,51.848690,On or near BENNETT CLOSE,E01022012,Tendring 008H,Offender otherwise dealt with
+bd0b68725d7cb8bff583401d30c04a49a572c58340c3dc6a230694f794580a8e,2012-03,Essex Police,Essex Police,0.292158,51.513999,On or near MOSS ROAD,E01015932,Thurrock 006A,Offender given community sentence
+01ff0cb3f2503fafc18fac186260f851d5ee9e50154a3de836612bc406a5fe83,2012-03,Essex Police,Essex Police,0.261741,51.889938,On or near Airport/Airfield,E01022090,Uttlesford 006B,Offender sent to prison
+319c3d3793e260380a024cdb33e88e700442d6ca3e29aa14bfd42cfb77fdb522,2012-03,Essex Police,Essex Police,0.460775,51.569775,On or near Parking Area,E01021318,Basildon 015C,Offender given conditional discharge
+4805001c5dde886c6953d379493b640f938516827dc77d6167f1b9f408a77351,2012-03,Essex Police,Essex Police,0.897825,51.889081,On or near CULVER STREET WEST,E01021649,Colchester 007D,Offender fined
+440cc0148994f95e998fd966295c8870e301432f917b56fa71084b64ee7d3cec,2012-03,Essex Police,Essex Police,0.431942,51.520833,On or near STRATFORD GARDENS,E01015986,Thurrock 003C,Defendant found not guilty
+e9ec207c1f42dfe4c55c7639c34ec3bf032525bda1655845b38ff9b722d18364,2012-03,Essex Police,Essex Police,0.681707,51.537645,On or near CROWSTONE AVENUE,E01015827,Southend-on-Sea 012A,Offender sent to prison
+6457260a9d87350ba068a1a0315633d08a6b72cb99e44b8ac849ad756a8a9c6d,2012-03,Essex Police,Essex Police,0.284143,51.486609,On or near Shopping Area,E01016011,Thurrock 015B,Court case unable to proceed
+1b2d151283eb2971cdee26a4fb43f0284c001ccec353223367b0321dc3c30aa6,2012-03,Essex Police,Essex Police,0.474190,51.732359,On or near Shopping Area,E01033140,Chelmsford 010F,Offender sent to prison
+5dd9dfe7d4e6b713fd4a4c3484417848b86cfb7a8d37cc4de5385b578e5c98f9,2012-03,Essex Police,Essex Police,0.452426,51.568286,On or near Petrol Station,E01021318,Basildon 015C,Offender otherwise dealt with
+741e4bf9bd56b2234a84f059c790db6dac6cba52201332738a26ad44e05ffe97,2012-03,Essex Police,Essex Police,0.299616,51.615339,On or near KING'S ROAD,E01021439,Brentwood 007C,Offender given community sentence
+7db5bb73ef731890166d34fd9877fe2db168744e6f41d438ad6125a1164aecc1,2012-03,Essex Police,Essex Police,0.132511,51.766089,On or near Supermarket,E01021827,Harlow 005D,Offender given conditional discharge
+266d91278054f58da03e220301d9fc8f3a51c7965d58cbaf2db94aec91301862,2012-03,Essex Police,Essex Police,1.150049,51.812161,On or near Supermarket,E01022039,Tendring 010B,Offender fined
+6cd6b7a7da0bc1a89259929a06e2f8ba68449792ece3dc1ed7b7b8b99e67d019,2012-03,Essex Police,Essex Police,0.132511,51.766089,On or near Supermarket,E01021827,Harlow 005D,Offender sent to prison
+2f58e63e9e2b5d728e2847a5177426f0966025a95292d77ee9d7edc3e4552520,2012-03,Essex Police,Essex Police,0.893012,51.922080,On or near BOXTED ROAD,E01021680,Colchester 004B,Offender given conditional discharge
+eb3fe92b93ed9c8800e32b7d5e221b83e8a0de3632560b61b19234cc8b33a7c0,2012-03,Essex Police,Essex Police,0.786680,51.536187,On or near ANSON CHASE,E01015882,Southend-on-Sea 013G,Offender sent to prison
+8c50435e09086a884597a69d2e59875d435f73b5104ec52c60ea7c71cb9cb861,2012-03,Essex Police,Essex Police,0.132511,51.766089,On or near Supermarket,E01021827,Harlow 005D,Offender given community sentence
+030c11d0d4051ca7559565a9eb7ff1ec0e265017cc3600297a04025d9a562c7e,2012-03,Essex Police,Essex Police,0.695174,51.541519,On or near Parking Area,E01015855,Southend-on-Sea 015E,Offender given community sentence
+2c87f68588a3b14c683f68d707b118537bc8eed415e483bdf14b888db7ed710d,2012-03,Essex Police,Essex Police,0.350655,51.875165,On or near MAPLE WAY,E01033055,Uttlesford 007E,Offender given conditional discharge
+2c6a6acf060069e3b20a0c7114a31d16bb481c0be6997864250e35f8759f5bc5,2012-03,Essex Police,Essex Police,0.897825,51.889081,On or near CULVER STREET WEST,E01021649,Colchester 007D,Offender given community sentence
+18ca9d77dc4673a7d7bb5a474e0d59fa64cf83c4886a7512930d4dfcadea44c9,2012-03,Essex Police,Essex Police,0.108431,51.784581,On or near Shopping Area,E01021845,Harlow 002B,Offender given community sentence
+703db1294fb79319bc5dcbd3bbc3db483f0a779d0db0dc8198b00eadf1ec5855,2012-03,Essex Police,Essex Police,0.556107,51.864143,On or near GALSWORTHY CLOSE,E01021374,Braintree 011E,Offender given suspended prison sentence
+7dc1944f276051643137c41d3ee6ef84cf5cc374143464f131b1a0697a975af4,2012-03,Essex Police,Essex Police,0.897877,51.888090,On or near Shopping Area,E01021649,Colchester 007D,Offender sent to prison
+78f15d2e99e9933c237981d4ef030ca599d7f9913851ddee5eb4fd882b32367f,2012-03,Essex Police,Essex Police,0.942495,51.781881,On or near WALDEGRAVES LANE,E01021733,Colchester 021C,Offender given community sentence
+ca62676840fad633d516c9b8851e2b2ccb6f62687ed06f4ab2ec2daeaf99ba3a,2012-03,Essex Police,Essex Police,0.789486,51.537496,On or near EAGLE WAY,E01015882,Southend-on-Sea 013G,Court case unable to proceed
+02e9df9fff70e3e92ad203e6775a50535a0d1d2b4afce315d774566dc20addc5,2012-03,Essex Police,Essex Police,0.479589,51.728594,On or near Supermarket,E01033140,Chelmsford 010F,Offender given conditional discharge
+ff3d673e81bcb15f1f39691b862b30f5488b3952d79e035f139038e57cd81f51,2012-03,Essex Police,Essex Police,0.456512,51.570458,On or near Shopping Area,E01021318,Basildon 015C,Offender fined
+517f3cbf6d08b3f3be6fd9b1aab2adbd10d38a937410f3c7dac0d010d9714d35,2012-03,Essex Police,Essex Police,0.367091,51.479496,On or near LEA ROAD,E01015935,Thurrock 012C,Offender given conditional discharge
+00ecee44094c4bc7805b20a8f93fb2b55cab6c47061bff586f5e71823b04b9ee,2012-03,Essex Police,Essex Police,0.243209,51.877938,On or near TAYLORS END ROAD,E01022090,Uttlesford 006B,Offender sent to prison
+2dc558eb31bad9f0f74e7a6ecf3835960ef94f54774742bb44577c3db032acef,2012-03,Essex Police,Essex Police,0.430078,51.580289,On or near FONTEYN CLOSE,E01021274,Basildon 010D,Offender given community sentence
+ff4f5680a546d2355ebc044cf8d2a6c4518f7191f23d2dec8d14d86c55b1b8ad,2012-03,Essex Police,Essex Police,0.897825,51.889081,On or near CULVER STREET WEST,E01021649,Colchester 007D,Offender given community sentence
+43137d9748a9b71b7360e1f3fefdd35658359d9856c65263e02c82516f9d6b49,2012-03,Essex Police,Essex Police,0.494646,51.715631,On or near GOWERS AVENUE,E01021565,Chelmsford 014C,Offender given conditional discharge
+9d13fc210d7b556af5d4eaed4613bf8d5801dc0c1307da66c3786b02caa90cd8,2012-03,Essex Police,Essex Police,0.104052,51.762781,On or near WESTFIELD,E01021870,Harlow 006E,Offender given conditional discharge
+dc4dfac32546416fa06824288988ffb1df29cf9f7c736cde4c4c28492af10f47,2012-03,Essex Police,Essex Police,0.899707,51.884681,On or near FLAGSTAFF ROAD,E01021683,Colchester 011A,Offender sent to prison
+25a3d0d7aead8ab912221a906c260d7e943b08ca8d85f0d1cc4e5757fb414b93,2012-03,Essex Police,Essex Police,1.152288,51.788104,On or near Shopping Area,E01022025,Tendring 016B,Offender sent to prison
+db5750f51a208feb088543add5c6a87529cb15151ccdcc5940de09b91433db4f,2012-03,Essex Police,Essex Police,0.292499,51.475142,On or near PORTER CLOSE,E01016011,Thurrock 015B,Defendant found not guilty
+9d1a05a2814d7082a3402dcd5024f80e0d30b9748f88ae1b11b02e447dcc2c0e,2012-03,Essex Police,Essex Police,0.052255,51.645661,On or near Parking Area,E01021781,Epping Forest 014B,Court case unable to proceed
+ec732ba070a8258ccc4342cfe8c3d2cc88e21bacbdc72ce80dd5dd2da17207fd,2012-03,Essex Police,Essex Police,1.261418,51.940359,On or near Iconfield Park,E01022007,Tendring 002D,Offender fined
+cf8c9288a7ffae77d0126ca17a02dc09faec95e6b420b59772a0f002a3fd28bc,2012-03,Essex Police,Essex Police,0.735048,51.536126,On or near SANDRINGHAM ROAD,E01015892,Southend-on-Sea 016D,Defendant found not guilty
+d737f0953ca774bd9b19296935be5c6bd88c1fd81b33e80559dba54abba3068c,2012-03,Essex Police,Essex Police,0.288911,51.606429,On or near HANOVER PLACE,E01033063,Brentwood 007F,Offender given community sentence
+0d1cd61da5e06bd727553a36c1fbd786bf096afb2489dc1ebf9b651ad5d4e2f0,2012-03,Essex Police,Essex Police,0.475075,51.716216,On or near Supermarket,E01021586,Chelmsford 015E,Offender sent to prison
+2312b399ca2f057c34610ac6f3082c1eefa9101d37407253c89399cc731d6b44,2012-03,Essex Police,Essex Police,0.550382,51.879259,On or near Supermarket,E01021365,Braintree 009D,Offender given community sentence
+0c8b672dd7b3a2ab0b93a58c4ec00eb65427c9d1d90e6d8ee438005fde7e1b1d,2012-03,Essex Police,Essex Police,0.086303,51.771334,On or near Hospital,E01021843,Harlow 004E,Offender otherwise dealt with
+55e959d9f687d69ad3ca7965235689446ed2c867379729a0b391dd7ccca99dd0,2012-03,Essex Police,Essex Police,0.085955,51.751206,On or near BROCKLES MEAD,E01021863,Harlow 011B,Court case unable to proceed
+20d648a55677b511452b7f6c7630e5020b93c9781e2e2234fde087d89fb5f5d6,2012-03,Essex Police,Essex Police,0.323890,51.483868,On or near RUSSEL ROAD,E01015958,Thurrock 009B,Offender fined
+397b4fc1fb7e062d2009d33ca09c4109002ff471aa4b5e5f654ecb1824553836,2012-03,Essex Police,Essex Police,0.475801,51.698502,On or near Supermarket,E01021553,Chelmsford 017B,Offender given community sentence
+a9889a12d2f6793b02b9db26c944ba50e24dcf4e2778c0126873d8596dea0a5f,2012-03,Essex Police,Essex Police,0.697357,51.539166,On or near ST HELEN'S ROAD,E01015856,Southend-on-Sea 015F,Offender sent to prison
+63d50d5d11f04a2bc1733940ebfecf13d8585d1f8281d58cdc5fd75b59623bae,2012-03,Essex Police,Essex Police,0.326012,51.485085,On or near Sports/Recreation Area,E01015959,Thurrock 016C,Court case unable to proceed
+d33d7ef64170d9e8a57b0989ee1b83d849d7dc62cbba3b983c0c1a1d58af2c8c,2012-03,Essex Police,Essex Police,0.494646,51.715631,On or near GOWERS AVENUE,E01021565,Chelmsford 014C,Offender given conditional discharge
+3129b11a5bd73de034e1c912625c8f0f14bb8392677aad60d090b20a1a0b1ee0,2012-03,Essex Police,Essex Police,0.707672,51.538721,On or near ASHBURNHAM ROAD,E01015854,Southend-on-Sea 015D,Defendant found not guilty
+58e5f3d051ab90371483f808334821e981753a3c2503b516e89b47ae476118b6,2012-03,Essex Police,Essex Police,0.899199,51.888534,On or near TRINITY STREET,E01021649,Colchester 007D,Offender sent to prison
+941641c25cde8c4979a60d02167e9d0a13fad514ae564a5d53a8abd521fa2d05,2012-03,Essex Police,Essex Police,0.466017,51.746110,On or near KINGS ROAD,E01021591,Chelmsford 002E,Defendant found not guilty
+1cc3e5c92e03b264341c686ebbe48655b25bfe9196b043a16bf1483875fdce6c,2012-03,Essex Police,Essex Police,0.452426,51.568286,On or near Petrol Station,E01021318,Basildon 015C,Offender given community sentence
+7c060ef66af3cb437fc35c96415cf84727212707c60ffd919a135f7e133cc8b4,2012-03,Essex Police,Essex Police,0.509230,51.561554,On or near FIELDWAY,E01021310,Basildon 022B,Offender fined
+c010dbc63b2ede8cb0fe83d107b8716cdd04d1649256bc641c320e281923011d,2012-03,Essex Police,Essex Police,0.709094,51.540820,On or near Supermarket,E01015895,Southend-on-Sea 010A,Offender sent to prison
+7907fc0bf4151cf030845587f8c766859dbc0b7137a32de34d9f88a7cfe9d8c8,2012-03,Essex Police,Essex Police,0.850130,51.886451,On or near LANVALLEY ROAD,E01021674,Colchester 009B,Offender given community sentence
+48d2267d62aca51e5271619a7f1b4f10b3b6adaeb29d02f5ab52cb3ac2e42a87,2012-03,Essex Police,Essex Police,0.431942,51.520833,On or near STRATFORD GARDENS,E01015986,Thurrock 003C,Defendant found not guilty
+fd0dbbb5fa37ba622c88f229705d504a164558d20f771e7b9bca43f9784c5af2,2012-03,Essex Police,Essex Police,0.709743,51.544690,On or near Police Station,E01015895,Southend-on-Sea 010A,Defendant found not guilty
+42c847d5dacba570e61ab935d1b44259cb426092a97e9104e0ef2d89310c1e73,2012-03,Essex Police,Essex Police,1.150608,51.788761,On or near JACKSON ROAD,E01022025,Tendring 016B,Offender fined
+68db5eec84fc5c2f84210cc8ad9f125438e683ec14e404300843b46efbda5c89,2012-03,Essex Police,Essex Police,0.701379,51.543022,On or near CLIFF AVENUE,E01015896,Southend-on-Sea 010B,Offender given community sentence
+18e610809d221e8ad64070496d73f39243d1c066836304311fc508dd9d231abd,2012-03,Essex Police,Essex Police,0.715963,51.544987,On or near GREYHOUND WAY,E01015898,Southend-on-Sea 010D,Offender sent to prison
+252802f51e27a8a66034e9e4ce981a854b4d96e1b01ec72f42c21b8c92db19c8,2012-03,Essex Police,Essex Police,1.258589,51.930247,On or near WILLIAM GROOM AVENUE,E01022006,Tendring 002C,Offender fined
+b115c15493ea194b5617405c09f54b396ab86f9762c7fab284a901c25dff4b1d,2012-03,Essex Police,Essex Police,0.902192,51.889423,On or near ST NICHOLAS STREET,E01021649,Colchester 007D,Offender fined
+7d5f1f1ae2fe1832e2252e43967f61e9e15cdbbaa7d75305bd43f89933c995a3,2012-03,Essex Police,Essex Police,0.579766,51.520129,On or near THAMESIDE CRESCENT,E01021485,Castle Point 010A,Offender given conditional discharge
+2bbbd8dbdc98ed444e6839ec62b75073d8ba5dbb9c1e1288a4e019aa5a1454f1,2012-03,Essex Police,Essex Police,0.587079,51.857360,On or near THE CLOSE,E01021380,Braintree 012E,Offender otherwise dealt with
+daa8ee8044aa2d4cac21432a4b27ddc2bac59e336ed578be83549999d89542f3,2012-03,Essex Police,Essex Police,0.617481,51.643493,On or near Queen Elizabeth Way,E01021613,Chelmsford 019C,Offender fined
+f3c31a8136cbc951f86a9e1c6cf8c476d40c3553071e3329d1f9ee728b40c7c6,2012-03,Essex Police,Essex Police,0.900116,51.889231,On or near Shopping Area,E01021649,Colchester 007D,Offender given community sentence
+d784f64b84a9a0acb87c97f742f51b5280dfd54d2beaed2990c216acad1c15df,2012-03,Essex Police,Essex Police,0.093027,51.753436,On or near Supermarket,E01021859,Harlow 010C,Defendant found not guilty
+df734cc31184235d03ee2f55d69cbff0402e29bc108fdcaac824684a4e15efc4,2012-03,Essex Police,Essex Police,0.471884,51.568111,On or near OSBORNE ROAD,E01021295,Basildon 020B,Offender sent to prison
+acb18751221d6474eccb5f73886b83be9e883ab71be584d5007ac2c1d130d451,2012-03,Essex Police,Essex Police,0.684702,51.545167,On or near LONDON ROAD,E01015832,Southend-on-Sea 012F,Offender sent to prison
+c68d45493cc6fdd2181627cc398acce9a6eea99c37756b762aeb05f0a2d81355,2012-03,Essex Police,Essex Police,0.894589,51.886462,On or near Police Station,E01021651,Colchester 013A,Court case unable to proceed
+f4334e6c129957e4b2cb3794b64230679aec6e85f838fce87dfc2c7b592827f9,2012-03,Essex Police,Essex Police,0.319731,51.477969,On or near Parking Area,E01015953,Thurrock 017C,Court case unable to proceed
+4052a0ccaae8e9c496b5772945a257cac1b987f2111072fef7594d70b3639843,2012-03,Essex Police,Essex Police,0.706458,51.549623,On or near ST MARY'S ROAD,E01015861,Southend-on-Sea 004E,Offender given community sentence
+cf607a2974e8b5f8ec993d29d944c9ab5c6a6dedf36c08893e9db473ea8234ed,2012-03,Essex Police,Essex Police,0.899199,51.888534,On or near TRINITY STREET,E01021649,Colchester 007D,Offender fined
+871a8406908a17da2381ee8b40d45d3efd5ae0f6dce9251d76ab714c24e52ec7,2012-03,Essex Police,Essex Police,0.710454,51.540888,On or near QUEENSWAY,E01015895,Southend-on-Sea 010A,Offender sent to prison
+9849c7f1d8d8f586cc19673a70319ca0c29ea433f5b10ef80260670ad2ba5569,2012-03,Essex Police,Essex Police,0.816221,51.629161,On or near QUEENS ROAD,E01021879,Maldon 008D,Court case unable to proceed
+fdcafca7761cf287eb95fc71307e426a8f0dead65068cbc27974676bb36519d1,2012-03,Essex Police,Essex Police,0.333617,51.632168,On or near Petrol Station,E01021447,Brentwood 005A,Offender ordered to pay compensation
+d4cd179e7de00f0e514312aebf143e81177c72c1339555116ecdc829ae432422,2012-03,Essex Police,Essex Police,0.243970,52.011829,On or near HILL TOP LANE,E01022082,Uttlesford 002G,Offender given community sentence
+ffe5abbdc1924988a072f69b3d0396a04bcd3cdaf866b3dd8b58ef74eadbd37c,2012-03,Essex Police,Essex Police,0.740635,51.534547,On or near LIFSTAN WAY,E01015894,Southend-on-Sea 016F,Defendant found not guilty
+1e1fa39b27ca07738fdfb7979639bcb9675258401e8dc98f2aa34d5181b71f96,2012-03,Essex Police,Essex Police,0.056189,51.634208,On or near SUTTON CLOSE,E01021785,Epping Forest 014D,Offender given suspended prison sentence
+2c9c1e0b754811f68dd615b1b43dc360923f3df7a1a10c19fd2af69e79da723d,2012-03,Essex Police,Essex Police,0.624471,51.596822,On or near HOCKLEY ROAD,E01021960,Rochford 005D,Offender given suspended prison sentence
+193e7eea18df071120acd6e05997f4cb67fb47263f9504961c23819a0e58dc3a,2012-03,Essex Police,Essex Police,0.460775,51.569775,On or near Parking Area,E01021318,Basildon 015C,Offender sent to prison
+f239faa88942b801c4dc526a0356db429f5e492218341763c21bc561ed52a765,2012-03,Essex Police,Essex Police,0.549676,51.878069,On or near HIGH STREET,E01021365,Braintree 009D,Offender sent to prison
+b6e5f47c7caa0067a47982ef4efa978349fc3439323bdec6eaccd98c04fb2b3c,2012-03,Essex Police,Essex Police,0.289465,51.501110,On or near CORRAN WAY,E01015930,Thurrock 007D,Offender given conditional discharge
+b5aeb646e0fb19c7b0a4f7ed437c05b3eecab96a828c8b76e41d349b93bd3416,2012-03,Essex Police,Essex Police,0.566098,51.884763,On or near MARLBOROUGH ROAD,E01021353,Braintree 009B,Offender given suspended prison sentence
+ac55a039e8d2ae7205c8d7fbdfceb9ff311960156c975829d2404d7350450b7a,2012-03,Essex Police,Essex Police,0.934305,51.891962,On or near CONIFER CLOSE,E01021697,Colchester 008B,Offender fined
+453f15476d0009d2177ec67d8da4dd37f1bae7fbbe317493aa2e8bb0fe9bf1d5,2012-03,Essex Police,Essex Police,1.153340,51.787393,On or near Nightclub,E01022025,Tendring 016B,Offender given community sentence
+1b24b61f4edee7b49b9a696075395a8d14e5868d3b913297c723530306c6b6de,2012-03,Essex Police,Essex Police,0.909236,51.920151,On or near OXLEY PARKER DRIVE,E01021682,Colchester 004D,Court case unable to proceed
+f4308480e92cebce96366615b208f765649fd135e5b185cd5016b7d460034a1b,2012-03,Essex Police,Essex Police,0.318709,51.478556,On or near SEALLY ROAD,E01015953,Thurrock 017C,Offender sent to prison
+e2eb2df71a74f04c4ec1b2e1828f11c838b9ae34729e68ec6453cef5c08449e8,2012-03,Essex Police,Essex Police,1.157555,51.791462,On or near HIGH STREET,E01022027,Tendring 016D,Offender given community sentence
+ad261d41fe9779ebb961acce952ac35e2b6e74d377e16fa3143cd4e4232e4c30,2012-03,Essex Police,Essex Police,0.901260,51.888708,On or near Shopping Area,E01021649,Colchester 007D,Offender fined
+67b430b27b5fa646742e4c4cd6020838d5b05fe5592140acc3445d9f83218b7a,2012-03,Essex Police,Essex Police,0.470335,51.571490,On or near PRIORS EAST,E01021321,Basildon 015E,Offender given suspended prison sentence
+c7d9e9568b902d8c8117eaf0c4734955ababfd8431da1e0884917d72f0578f72,2012-03,Essex Police,Essex Police,0.475706,51.730411,On or near Parking Area,E01033140,Chelmsford 010F,Offender fined
+b88944d6f6c4559081b6f39ffeb7a30534b5752240ff13c3af2ad48848f7c6e6,2012-03,Essex Police,Essex Police,0.927784,51.882879,On or near HAWKINS ROAD,E01033719,Colchester 008G,Offender otherwise dealt with
+9e9c7fcf72e6e08040c66bb0426074f6f653a7bc583cea587e19b0d9dac26bba,2012-03,Essex Police,Essex Police,0.456169,51.571868,On or near Pedestrian Subway,E01021318,Basildon 015C,Offender sent to prison
+0742b845f4edb7f72b4ef11c4533d8d4d85735c902ecf17737f33c133c3aa7db,2012-03,Essex Police,Essex Police,0.901325,51.890172,On or near GEORGE STREET,E01021649,Colchester 007D,Offender given community sentence
+7be06762fe1f1f7ed0c9d41ce21deac3572113526f7b0bfe645bedd046c5a735,2012-03,Essex Police,Essex Police,0.699875,51.540772,On or near SUMMERCOURT ROAD,E01015896,Southend-on-Sea 010B,Offender sent to prison
+c66ac62490ccd8ae01bac105a9e69a9bcf334e17e06db1ea016154b8ad8e8bfa,2012-03,Essex Police,Essex Police,0.678142,51.736249,On or near Supermarket,E01021890,Maldon 004B,Offender sent to prison
+3f0ec5ff46e640a06ab452862dfa28cf2ec6f899191dd19ebcdb3db328647f1b,2012-03,Essex Police,Essex Police,0.942495,51.781881,On or near WALDEGRAVES LANE,E01021733,Colchester 021C,Offender given community sentence
+1eb34f90ea4bceb97a6e16ca61acc1277223e19d174f79598c73d6300d4bbccf,2012-03,Essex Police,Essex Police,0.522317,51.857580,On or near Supermarket,E01021385,Braintree 013D,Offender given community sentence
+504a7cd4945a8950ccf358089b4d06f56bd3e8fd8941aae95d808a0ba17ce794,2012-03,Essex Police,Essex Police,0.443720,51.579233,On or near Pedestrian Subway,E01021268,Basildon 015B,Offender sent to prison
+210f941f215bb2cbabe089f06bc22f95d9dc44c0ea6fc3422e3454888ff60efc,2012-03,Essex Police,Essex Police,0.636104,51.944376,On or near Supermarket,E01021387,Braintree 004A,Offender sent to prison
+dbae77a4b0ef8578eab42f8ea27842ed5ceff0e77e636b8a8daf465170df67f5,2012-03,Essex Police,Essex Police,0.926682,51.894320,On or near Supermarket,E01021704,Colchester 022F,Offender given community sentence
+b5f17c09daa660b1842583d9e6f6d8f52503dbfb25437f1ca2c14cdf0c488c87,2012-03,Essex Police,Essex Police,0.519420,51.600231,On or near Petrol Station,E01021344,Basildon 008D,Offender sent to prison
+107f683b747c5b481403cf124d3f38ef8302c992fda3a273663174ee278b03f2,2012-03,Essex Police,Essex Police,0.288911,51.606429,On or near HANOVER PLACE,E01033063,Brentwood 007F,Offender given community sentence
+80838fb7911b41c821e894ff8940eadd005c0c1fb85213bde3d7b01c50a569ae,2012-03,Essex Police,Essex Police,1.144282,51.796647,On or near CROFT ROAD,E01021968,Tendring 017A,Offender ordered to pay compensation
+4b30f80137943b746392ff402bb10c323308c0f93066ca6dbc40dba06986e551,2012-03,Essex Police,Essex Police,0.695750,51.596852,On or near CRAVEN CLOSE,E01021931,Rochford 002E,Offender given community sentence
+6d457837930ff1c5fbe6dd8ffc81d8ed7baa240d49022a3db6bb5d67b63b14c8,2012-03,Essex Police,Essex Police,0.522689,51.613867,On or near Supermarket,E01021336,Basildon 005B,Offender sent to prison
+89c0e435ec2441c1972ceda1e236c3eb8652259824ffc8c9d2e9a39dbbaa876c,2012-03,Essex Police,Essex Police,0.897825,51.889081,On or near CULVER STREET WEST,E01021649,Colchester 007D,Offender given conditional discharge
+03e2be4064fe58b2977595eb0b191d5a2b62abde4212dfb4802ffb9a58c63dd0,2012-03,Essex Police,Essex Police,0.910211,51.898578,On or near Shopping Area,E01021647,Colchester 007B,Offender ordered to pay compensation
+4000103b9a2d86178722082522f05b59b942e5a887f4c567c7602a793dc352a5,2012-03,Essex Police,Essex Police,0.934660,51.884246,On or near TIPPETT CLOSE,E01033722,Colchester 008H,Offender given conditional discharge
+f1f4d81d7d7d86f2a5733a45386b936fc2fb69ca2fd2e2ab6437046997c4e782,2012-03,Essex Police,Essex Police,0.455364,51.569789,On or near Shopping Area,E01021318,Basildon 015C,Offender given conditional discharge
+1242a0e484651ce9a39387685b3a5280bf9f7a05cba3789790b3336e327ceb8e,2012-03,Essex Police,Essex Police,0.875889,51.875157,On or near BOADICEA WAY,E01021713,Colchester 015C,Offender sent to prison
+a00594097f34d4fe6340076125774e1acdbb2deebebabd031f6696361e36906a,2012-03,Essex Police,Essex Police,0.896245,51.888706,On or near HEAD STREET,E01021649,Colchester 007D,Offender fined
+8a66ae33b28bf32b4cfb08dd87a7e1d55a0d1a5d2f297d07766f11aadcb1e74c,2012-03,Essex Police,Essex Police,0.621020,51.644196,On or near TYLERS RIDE,E01021613,Chelmsford 019C,Offender given community sentence
+1843085b9fd519ee79838e9d032e3927f8a5060a027e221d7b3e5ae5d7497328,2012-03,Essex Police,Essex Police,0.893214,51.899204,On or near ESSEX HALL ROAD,E01021650,Colchester 007E,Offender given community sentence
+794004cc6fc1dcbf198eade1ba5bfb07015b3fd427fffd169e41936c3dd10bc6,2012-03,Essex Police,Essex Police,0.454654,51.750017,On or near ALAMEIN ROAD,E01021596,Chelmsford 006E,Offender given community sentence
+e0a7584fb928dd2cf005ffea201c883f19e69d9e416af3b7d69569f7d2466f3c,2012-03,Essex Police,Essex Police,0.092759,51.771138,On or near Nightclub,E01021872,Harlow 007E,Offender fined
+8202c127335196e59753d9d28d0100208564172ac81ea45b374d8c8a7ef0bd40,2012-03,Essex Police,Essex Police,0.132511,51.766089,On or near Supermarket,E01021827,Harlow 005D,Offender given community sentence
+4c92acbf9ff7ffad5ca8cc01fa1269e649184a60f565351720c51a9dcb3c88da,2012-03,Essex Police,Essex Police,0.240155,51.480192,On or near WINGROVE DRIVE,E01016013,Thurrock 015D,Offender sent to prison
+b161588c2705cb5d6bf1045812e4a28ba4de342d4880010707ba70ec1aedf976,2012-03,Essex Police,Essex Police,0.688353,51.543969,On or near CROWSTONE CLOSE,E01015831,Southend-on-Sea 012E,Offender given suspended prison sentence
+439d53f8865df3b07da718ff0c7841cd8132dc161c7abee6263f2c0a89569241,2012-03,Essex Police,Essex Police,0.417763,51.628072,On or near TANFIELD DRIVE,E01021253,Basildon 004B,Court case unable to proceed
+7ce0ab5973aada2e1e964ce9ff06985c7646a9c678fc2c4afdb4157107eb933f,2012-03,Essex Police,Essex Police,0.319731,51.477969,On or near Parking Area,E01015953,Thurrock 017C,Offender given community sentence
+682b5a21ab1b507347e1d469f48635ad14eee47c36716a747ab7cea08260aff2,2012-03,Essex Police,Essex Police,0.726847,51.533789,On or near HAWTREE CLOSE,E01015842,Southend-on-Sea 014D,Offender given community sentence
+7833b0755574850f4e22e6df61088f67841cf04dbca8f9d09df4652dd00d99dd,2012-03,Essex Police,Essex Police,0.908856,51.871972,On or near Petrol Station,E01021637,Colchester 018A,Offender sent to prison
+ca0a3d7ce894ae8a6b317b037bbbc07853ac6e5069cf15a0c25d26b1cbde04f7,2012-03,Essex Police,Essex Police,0.124229,51.785708,On or near Petrol Station,E01021848,Harlow 002E,Offender given community sentence
+ff447d6cc2f761ab2c7643424fbf16becbada051f9019f38694be304dff8b6d9,2012-03,Essex Police,Essex Police,0.897808,51.901249,On or near Supermarket,E01021679,Colchester 004A,Offender given community sentence
+13d8836c29bdd62d869ac01abb8d55f4a23824b55b9015dcbe1a2aae7b03a5b5,2012-03,Essex Police,Essex Police,0.897825,51.889081,On or near CULVER STREET WEST,E01021649,Colchester 007D,Offender given community sentence
+7e005528e7fb244a6574ba04df2d295a07c7f269ce3e4a84c50d9ee43100ab54,2012-03,Essex Police,Essex Police,0.899168,51.910173,On or near Hospital,E01021682,Colchester 004D,Offender sent to prison
+0089f25bd31188ceb1112ecaa56740c2dfe14a06104e84bc0bfe64ba21d21f65,2012-03,Essex Police,Essex Police,0.080111,51.620432,On or near COURTLAND DRIVE,E01021750,Epping Forest 016B,Offender sent to prison
+2c7b18abfef888f4e4054a112b9bd38b52ca659c57470d3105690d2a408f6c5c,2012-03,Essex Police,Essex Police,0.509907,51.607090,On or near BERRY CLOSE,E01021332,Basildon 006D,Offender given community sentence
+7cc74d0b164b3708e577a031e755ffb5a7c3caaa07fc1b39a16598005b7ae867,2012-03,Essex Police,Essex Police,0.094895,51.770021,On or near Nightclub,E01021872,Harlow 007E,Offender ordered to pay compensation
+bcd2f305f2f67956692ddf95be759dc3583c94224b20d77da86cd2be317a422d,2012-03,Essex Police,Essex Police,0.117991,51.650869,On or near MARKET PLACE,E01021770,Epping Forest 010A,Court case unable to proceed
+52c9ac4d6b248976cc802d99ac502719203bc266a33c3f335d68544e19314dd2,2012-03,Essex Police,Essex Police,0.500162,51.563276,On or near Petrol Station,E01021310,Basildon 022B,Offender fined
+c4b4fba5ec88fec9de7b5c82a3c7d0b59182515bab4207840329ef026928a8c2,2012-03,Essex Police,Essex Police,0.623200,51.845894,On or near TEMPLE LANE,E01021360,Braintree 012A,Offender given conditional discharge
+89c0e435ec2441c1972ceda1e236c3eb8652259824ffc8c9d2e9a39dbbaa876c,2012-03,Essex Police,Essex Police,0.897825,51.889081,On or near CULVER STREET WEST,E01021649,Colchester 007D,Offender fined
+f2e21e7aba6a2af184e6b2619ec8fc18dc63339960729825cf22254e9e0b4002,2012-03,Essex Police,Essex Police,0.716797,51.541802,On or near COLEMAN STREET,E01015895,Southend-on-Sea 010A,Offender sent to prison
+7a437b35d813ebe281dbff71ad6602a63172d6576c02229aaa8ec04ba91b3722,2012-03,Essex Police,Essex Police,0.907073,51.877224,On or near DUDLEY CLOSE,E01021642,Colchester 018F,Offender given community sentence
+1f03692544e3ef2d7b0ec3330522b0832a8b74540abff1079e19ac62404c14ba,2012-03,Essex Police,Essex Police,0.719697,51.537463,On or near HILLCREST ROAD,E01015841,Southend-on-Sea 014C,Offender sent to prison
+b78de4f7a4eae98c22b777c98e64df405f7a6891184c12a8b1673cf1c728a69a,2012-03,Essex Police,Essex Police,0.487419,51.738276,On or near BROOKHURST CLOSE,E01021626,Chelmsford 007E,Offender given community sentence
+81bfb35f35bb49f127072bdc5395421b19e18819bbd342fd467b0ae11a36dfa6,2012-03,Essex Police,Essex Police,0.420383,51.730143,On or near PURCELL CLOSE,E01021633,Chelmsford 011C,Offender fined
+ea69ff22a237525d16ad325841702c9b629af13b987839efa65003396766ef0c,2012-03,Essex Police,Essex Police,0.634446,51.943649,On or near BRIDGE STREET,E01021387,Braintree 004A,Offender sent to prison
+a056750000b12a8409e38a69631b26c3c14b0d2d51f5813bbaca15dff61f6474,2012-03,Essex Police,Essex Police,0.655495,51.541965,On or near WEST STREET,E01015849,Southend-on-Sea 011E,Offender sent to prison
+27c127863f6058afac480ddc9d4799f2a86d72f50c8d8dfc37aef10092b0c5d7,2012-03,Essex Police,Essex Police,0.706187,51.583436,On or near ROCHE CLOSE,E01021955,Rochford 004D,Offender sent to prison
+69c705e8411434a47e8457a8844059ce919dfe9c6f5e30bb4d157d0e2ece55ab,2012-03,Essex Police,Essex Police,0.634446,51.943649,On or near BRIDGE STREET,E01021387,Braintree 004A,Offender sent to prison
+b01662c6202b8a1fc80cd571996ac9b8022984ed268da8ccd2c4bee78d733785,2012-03,Essex Police,Essex Police,0.500938,51.570832,On or near Pedestrian Subway,E01021305,Basildon 013D,Offender sent to prison
+6edc88bb1a2be782b123e77377faf69bc3fb1c5c49ba76c50a97a5166a4fc666,2012-03,Essex Police,Essex Police,0.474085,51.733089,On or near High Street Chelmsford,E01033140,Chelmsford 010F,Defendant found not guilty
+b5045a5c0b9e78431ba543a32b534968afa6d4c755e6956e248dfcd87a7b11c3,2012-03,Essex Police,Essex Police,0.509816,51.570355,On or near RECTORY ROAD,E01021315,Basildon 018C,Offender given suspended prison sentence
+3f2455e3a0af0371dd9e4188a271b3422357e2b13cc961c95ce57b4337b26b7c,2012-03,Essex Police,Essex Police,0.619447,51.579281,On or near Supermarket,E01021949,Rochford 009D,Offender sent to prison
+4ba610cef86615ca3d6bfa088c468405cc3708bb7b7451f6789013e48f8a4d1d,2012-03,Essex Police,Essex Police,0.322759,51.475778,On or near HIGH STREET,E01015954,Thurrock 017D,Offender sent to prison
+abe7131f7c6fadf75eb5381b629f8c763e5f95700d4ad9a1d637b540ec7c3d89,2012-03,Essex Police,Essex Police,0.458240,51.569324,On or near Supermarket,E01021318,Basildon 015C,Offender given community sentence
+1bb61c5fb9fd439b91820382f18c353b058ab22f2cb77d81dab9ab3bf051fb6d,2012-03,Essex Police,Essex Police,0.490988,51.566232,On or near FEERING ROW,E01021328,Basildon 022E,Offender fined
+db660f5872a2a4fcb35b5791319c250ce4f8f76116d773f38c282cd1482e277d,2012-03,Essex Police,Essex Police,0.893214,51.899204,On or near ESSEX HALL ROAD,E01021650,Colchester 007E,Offender given community sentence
+7f41b0252191afadc18480f53e11a4f2c5caced852a6aeedbee125d4d511241c,2012-03,Essex Police,Essex Police,0.426911,51.514318,On or near THE GREEN,E01015992,Thurrock 005C,Offender given community sentence
+69c705e8411434a47e8457a8844059ce919dfe9c6f5e30bb4d157d0e2ece55ab,2012-03,Essex Police,Essex Police,0.634446,51.943649,On or near BRIDGE STREET,E01021387,Braintree 004A,Offender sent to prison
+bae7818042bfa40b1562311177cb118931ba0d6d6fc779067652d5f43287d99b,2012-03,Essex Police,Essex Police,0.482633,51.563046,On or near DEWSGREEN,E01021323,Basildon 019B,Offender given community sentence
+baa2794a79cdeef6c8be4ca2f705ba7d32dab6c937418a15bb8e7be6e3f3b673,2012-03,Essex Police,Essex Police,0.902272,51.888620,On or near LONG WYRE STREET,E01021649,Colchester 007D,Offender sent to prison
+1a8918bee14398839096f99181e9b1d951bde3329bac480d197f4017efdd46f3,2012-03,Essex Police,Essex Police,0.912484,51.882027,On or near GRANVILLE ROAD,E01021688,Colchester 011F,Offender fined
+78e3cd6f198b3c73c985f7c20c7458a6ad6d78d7aac06c828e26eebfba98f51e,2012-03,Essex Police,Essex Police,0.456959,51.570727,On or near Shopping Area,E01021318,Basildon 015C,Offender given community sentence
+9d4c2343bd0131397ea9e1e2f72167a088932493b00a12468763f37930dd31bd,2012-03,Essex Police,Essex Police,0.092811,51.774150,On or near Supermarket,E01021843,Harlow 004E,Offender fined
+c5312975c4dfc45b7f45859caa37b7ea04722f4cd4c45e36d15e675612efe4e9,2012-03,Essex Police,Essex Police,0.234340,52.011887,On or near MAYPOLE CLOSE,E01022074,Uttlesford 002A,Offender given community sentence
+d1e6e176ee0b001b22ab5f78ad2d0fd154f272f3257a07246939447d6fea4650,2012-03,Essex Police,Essex Police,0.780740,51.539296,On or near Supermarket,E01015882,Southend-on-Sea 013G,Offender given suspended prison sentence
+79ccc0635c325cbf71c53ba153a8b3b8651be2bead7c627c88fb7fa6d2c6b474,2012-03,Essex Police,Essex Police,0.357737,51.464000,On or near ADELAIDE ROAD,E01016006,Thurrock 018D,Offender given community sentence
+9210815232d7f3ef7dc25876600ee79fc32427698ae8fbfb43c2b6925f85c497,2012-03,Essex Police,Essex Police,0.448076,51.743059,On or near HIGHFIELD ROAD,E01021599,Chelmsford 009C,Offender fined
+7edc91130b596b9d41d324a052956ea4f7f9a5588272060d7ba7b0afab480a76,2012-03,Essex Police,Essex Police,0.405073,51.571182,On or near ROWENHALL,E01021277,Basildon 014D,Offender fined
+7ec16be1da6ac87f23866dd76abd69817ff17bd42dddd27baf87b115f256e3cc,2012-03,Essex Police,Essex Police,1.152215,51.788718,On or near Shopping Area,E01022025,Tendring 016B,Offender sent to prison
+fae49b604f365bc2cedc0e1829bfe075e6ab0d8fd5b861c79369cab468d02462,2012-03,Essex Police,Essex Police,0.706187,51.583436,On or near ROCHE CLOSE,E01021955,Rochford 004D,Offender given community sentence
+49b3a2e88fb370de973d7d44aa13561f5e9d82ea1711274535ce816c8c7d1fbf,2012-03,Essex Police,Essex Police,0.782388,51.541487,On or near WEAVERDALE,E01015878,Southend-on-Sea 013C,Offender fined
+ad68a40671273a76b91f2c4525cf2ea076cb779d31844386d630d90cb649ebf3,2012-03,Essex Police,Essex Police,0.706444,51.540387,On or near LONDON ROAD,E01015895,Southend-on-Sea 010A,Offender sent to prison
+7bccbb460f45a15746696fdd583f67a2a12336dfe109b2b864f70c68825aeb3c,2012-03,Essex Police,Essex Police,0.937354,51.891014,On or near HAWTHORN AVENUE,E01021696,Colchester 008A,Offender deprived of property
+4d36af4b88a0a06a0d01235fce8053236cfe17bda3e75aaf13b96512a8c6a801,2012-03,Essex Police,Essex Police,0.261741,51.889938,On or near Airport/Airfield,E01022090,Uttlesford 006B,Offender fined
+49e4fddf8ef5c34b637841e72df58929aef1342f1577d68b0a605df01d064094,2012-03,Essex Police,Essex Police,0.093567,51.769182,On or near Shopping Area,E01021872,Harlow 007E,Offender given conditional discharge
+eecd3540766f2e990725e297dc3c341b1b69fd44722e4182c99460ed183746ce,2012-03,Essex Police,Essex Police,0.742422,51.547240,On or near WHITTINGHAM AVENUE,E01015887,Southend-on-Sea 009E,Offender sent to prison
+3ee799dc224b1f4b3168b178700c8ac2b100a82b1f28bf6ed4ac563f6eb81286,2012-03,Essex Police,Essex Police,0.322355,51.479168,On or near Grays Police Station,E01015956,Thurrock 016B,Offender fined
+1a29d4f65654477b74e946c2d702d1f8cffbb95263324bd4d2a6d4eb3c6a23da,2012-03,Essex Police,Essex Police,0.452040,51.569967,On or near ROUNDACRE,E01021318,Basildon 015C,Offender sent to prison
+f8fe821af34654b7e29ea632dbd148663a95ef684c14c35ba0d7052cff0cad96,2012-03,Essex Police,Essex Police,1.284870,51.942063,On or near ALBERT STREET,E01021998,Tendring 001B,Offender given suspended prison sentence
+43e5c03c0b374c61b734ff1ac88f9214bde5dfdbd1a811b92547201084191115,2012-03,Essex Police,Essex Police,0.553451,51.877250,On or near FAIRFIELD ROAD,E01033459,Braintree 009F,Offender sent to prison
+a6e4b8b90acc33bcb9962409b3b7a66c787eb96e72836b4a1fd0a8ec361d6470,2012-03,Essex Police,Essex Police,0.213890,51.737939,On or near PEDLARS END,E01021796,Epping Forest 003B,Offender given community sentence
+4fb2c48c5b03852a4302c3d7c048fcb95e3aa099b4516895a09e2d0f7941fda3,2012-03,Essex Police,Essex Police,0.715963,51.544987,On or near GREYHOUND WAY,E01015898,Southend-on-Sea 010D,Offender sent to prison
+0688200a9df45fef0c0ceaa1c7987c490128d3f4fc007a1a8ce135111bd38c9d,2012-03,Essex Police,Essex Police,0.900525,51.860603,On or near WILLIAM HARRIS WAY,E01021639,Colchester 018C,Court case unable to proceed
+a533b4a8926888dd7ee176de99e4835c75e2bf18063ef7ba2e83cfc8dbd5528e,2012-03,Essex Police,Essex Police,0.421759,51.485943,On or near COLNE,E01015947,Thurrock 013A,Offender given community sentence
+6045004469eb0d108a57b1ff2a57f83c87cffbb5e08e4bf6f8b09ae8beedbcde,2012-03,Essex Police,Essex Police,0.708633,51.534760,On or near PRITTLEWELL SQUARE,E01015853,Southend-on-Sea 015C,Offender sent to prison
+7956f84f47c2671c3cb2e9efa24374c22bd9b742a86ecd99554c8c94c3d6a6d1,2012-03,Essex Police,Essex Police,0.500162,51.563276,On or near Petrol Station,E01021310,Basildon 022B,Offender fined
+f2a5105e8c463f592f88b9ac1cd5464fb76de63510c5e6bfb5eb6d5fbe4e9f33,2012-03,Essex Police,Essex Police,0.694077,51.540276,On or near Supermarket,E01015855,Southend-on-Sea 015E,Offender sent to prison
+f56524d7f66fe10b2f8ff7dff478ca2308a811e881d08db42ceffc3fb0a5eba4,2012-03,Essex Police,Essex Police,0.897825,51.889081,On or near CULVER STREET WEST,E01021649,Colchester 007D,Offender given suspended prison sentence
+7070b80a5fcd3067e89c65b7b25599f4c0e58e94e01657ab36935acfc56d8126,2012-03,Essex Police,Essex Police,0.095357,51.767783,On or near Shopping Area,E01021872,Harlow 007E,Offender given community sentence
+f86eb548082b4d10fc85605ce6e095cbf4e4a0918248e5d9bb1ce63af8a20ff8,2012-03,Essex Police,Essex Police,0.830358,51.664256,On or near PUMP MEAD CLOSE,E01021905,Maldon 006C,Defendant found not guilty
+c01322f6dcab1280a599d1545693ca00158acf07c2a3be9da530ff4fe6668e82,2012-03,Essex Police,Essex Police,0.709094,51.540820,On or near Supermarket,E01015895,Southend-on-Sea 010A,Offender otherwise dealt with
+853dfe47bf175f59ef1060d2d360a910c56e0ea429981a836993904e016adfa6,2012-03,Essex Police,Essex Police,0.096056,51.768166,On or near SOUTH GATE,E01021868,Harlow 007B,Offender given community sentence
+6d7b10a3ffe028a7e8c27b8952a2db3a5f87ee553a4986b88a1cc1c00768ffb5,2012-03,Essex Police,Essex Police,1.150049,51.812161,On or near Supermarket,E01022039,Tendring 010B,Offender fined
+85bba1c8d444570e2bec20305ffd752e84b4b04bef6a412e8f01800e457858fb,2012-03,Essex Police,Essex Police,1.154724,51.788722,On or near PALLISTER ROAD,E01022025,Tendring 016B,Offender given conditional discharge
+c75f4e97d4202d43bf347a9ed8de14a9e5a603c789e4ca50e08785b116918a99,2012-03,Essex Police,Essex Police,0.529914,51.608199,On or near HORKESLEY WAY,E01021346,Basildon 008E,Offender given conditional discharge
+3bc09ff7884fc5324abde89f0e9f9c809ff2a350d83c21b6e5fe9bf386eb0e06,2012-03,Essex Police,Essex Police,0.095787,51.770176,On or near TERMINUS STREET,E01021872,Harlow 007E,Offender otherwise dealt with
+7e5d7454f71df2393049b967ff1f091d47e514f327e4e988ea82b70d0d8207d8,2012-03,Essex Police,Essex Police,0.868739,51.871024,On or near HEDGE DRIVE,E01021711,Colchester 015A,Offender ordered to pay compensation
+b90fd8a358b125e94a977a46bcad0f5ee558b0b1ac613e133909cce1a4027100,2012-03,Essex Police,Essex Police,0.086144,51.607394,On or near Supermarket,E01021764,Epping Forest 017A,Offender otherwise dealt with
+28cfea8f1e53cfc34d024163c33cad6a77737b7657342e8a3c1ea5b726b9e5ef,2012-03,Essex Police,Essex Police,0.705899,51.543115,On or near BOSTON AVENUE,E01015896,Southend-on-Sea 010B,Offender fined
+969a9edcfbf03b7371c55f56fda6ff78604d1cf0ddbaa1bfbe05956705365331,2012-03,Essex Police,Essex Police,0.022273,51.690065,On or near POPLAR SHAW,E01021814,Epping Forest 007C,Offender fined
+cece0ec7193417b68bdddb12e0e31201542196773d194c10ed9e11b28f299081,2012-03,Essex Police,Essex Police,0.911764,51.861225,On or near SYDNEY STREET,E01021640,Colchester 018D,Offender given community sentence
+e1c34e9c2f007ddf39e7a89ea42824c61a286beb8f050e67f500a9202a78969f,2012-03,Essex Police,Essex Police,0.456512,51.570458,On or near Shopping Area,E01021318,Basildon 015C,Offender otherwise dealt with
+2d5d7e745a8a28358dc1a9a14974b73b09726fa6512a0ba528355a2b83f0dcb1,2012-03,Essex Police,Essex Police,0.463732,51.721418,On or near Petrol Station,E01021556,Chelmsford 012A,Offender fined
+a973a2ea193ddef7355154be762566e3418300ae3fe45aa924f7b34e358bd104,2012-03,Essex Police,Essex Police,0.788085,51.541487,On or near PEREGRINE CLOSE,E01015879,Southend-on-Sea 013D,Offender given community sentence
+9fa590f563bc26adf7b23baaf81f70c40e1c3223608d6f84e6539ebac66ebab4,2012-03,Essex Police,Essex Police,0.323381,51.483770,On or near IRETON PLACE,E01015958,Thurrock 009B,Offender given conditional discharge
+5d741a7002e8436665fa2e6ca4e89da378082c0fd9afbfca0eafe6a9dd1d0ba3,2012-03,Essex Police,Essex Police,0.626792,51.846749,On or near CRITTALL CLOSE,E01021362,Braintree 015A,Offender given community sentence
+c5312975c4dfc45b7f45859caa37b7ea04722f4cd4c45e36d15e675612efe4e9,2012-03,Essex Police,Essex Police,0.234340,52.011887,On or near MAYPOLE CLOSE,E01022074,Uttlesford 002A,Offender given community sentence
+8fd24a69b442a634e118a14a7c37b34fd8a4de1388a11d5655118fe14d1e3961,2012-03,Essex Police,Essex Police,0.080201,51.750211,On or near MILWARDS,E01021864,Harlow 011C,Offender sent to prison
+31a116de3097624be22213816a8577c06f416b3d1e5cf20e7582e87a8f7427b6,2012-03,Essex Police,Essex Police,0.552316,51.877733,On or near Supermarket,E01033459,Braintree 009F,Offender given community sentence
+7aec64a0b5eb2fec431884565b56bd18e76259e8938544ae61dd5a6a24da88e3,2012-03,Essex Police,Essex Police,0.712905,51.573343,On or near BROOK CLOSE,E01021956,Rochford 007E,Offender given community sentence
+35fce145600b66daa300f1adb7290e8acd5f446eb31d8b5533fbeff5c765ead5,2012-03,Essex Police,Essex Police,0.715320,51.534677,On or near Shopping Area,E01015852,Southend-on-Sea 015B,Offender sent to prison
+53e9ecf6796753ae1f9d0bcc5463aae7f2f77c86ecc73076ea1bfce2f636803a,2012-03,Essex Police,Essex Police,0.248852,51.484558,On or near NORTH ROAD,E01015921,Thurrock 015A,Offender ordered to pay compensation
+0ffed5680fff1ec0295fd6e8e515c77895ec0078ae8d66b44959272fb1e6db50,2012-03,Essex Police,Essex Police,0.451553,51.729146,On or near CHARNWOOD AVENUE,E01021631,Chelmsford 009E,Offender fined
+239207c6a231359e4aaeba14f75f8b7feea30136f71f1e6afbf84bcbb23997ac,2012-03,Essex Police,Essex Police,0.714143,51.536234,On or near Shopping Area,E01015852,Southend-on-Sea 015B,Offender given conditional discharge
+462966622691f9c0dc98a63cf0f90d63e7c0a00536ca853b5a1b3345e7629bbe,2012-03,Essex Police,Essex Police,1.160885,51.795321,On or near WALTON ROAD,E01022049,Tendring 014D,Offender fined
+168f658fc2adcd746727015ffeedc7583bc56b883338476aa338d401e3560495,2012-03,Essex Police,Essex Police,0.926501,51.872524,On or near Bus/Coach Station,E01021666,Colchester 016E,Offender fined
+dd5c0a1d2f67dd820fb49dd3245f37ec4325659e4f879eb7d2fd965d224204e1,2012-03,Essex Police,Essex Police,0.455025,51.557871,On or near FOBBING FARM CLOSE,E01021297,Basildon 020D,Offender fined
+19f21dff343c2a3d3e66d18a26c9f14e23279145153c5e52915dd4b0bf4bd985,2012-03,Essex Police,Essex Police,0.900413,51.887074,On or near WHITEWELL ROAD,E01021649,Colchester 007D,Offender fined
+7393bb9dbf18d07699cc380d7ea7c9512b7969702374daf4b953fa632ed03dc3,2012-03,Essex Police,Essex Police,0.093027,51.753436,On or near Supermarket,E01021859,Harlow 010C,Offender fined
+238a9537ccf95c65b8dbd84cb89cee6a43557ecf80132bc6db83138118cd475a,2012-03,Essex Police,Essex Police,0.630927,51.548617,On or near Parking Area,E01015913,Southend-on-Sea 008F,Offender sent to prison
+5bdcd46b75854053fd95ef4761e41152df15899e0b979d0219674fb390d7a995,2012-03,Essex Police,Essex Police,0.426960,51.586235,On or near HIGH ROAD NORTH,E01021263,Basildon 010C,Offender given conditional discharge
+d8aa2bb2768920084bb3210543dd1aa2a85306e2766f7bef6e65865c4e5038e5,2012-03,Essex Police,Essex Police,1.036959,51.794965,On or near OAKMEAD ROAD,E01022046,Tendring 011E,Defendant found not guilty
+1f4bb97b4bb1508c72cd9dd6c4cc4ff294c939ca15674386d7bcb54ec2e674c6,2012-03,Essex Police,Essex Police,0.243726,51.480177,On or near OAKHILL ROAD,E01016013,Thurrock 015D,Offender ordered to pay compensation
+16b16741ff9b4a7bfd2b4341d622528169c04ce50dbaaf42dde1ad6b8919e82f,2012-03,Essex Police,Essex Police,0.553765,51.889465,On or near BOLEYNS AVENUE,E01021359,Braintree 008D,Offender given community sentence
+2bd5747447c8ab875279d40ff24fc87b96acc968822aab0966577f6fd9c3da01,2012-03,Essex Police,Essex Police,0.919727,51.910133,On or near Supermarket,E01021671,Colchester 002D,Offender given community sentence
+045000a9f4ebd212aac9e706b50f3fb860ce5edca670285f709f37dc20948749,2012-03,Essex Police,Essex Police,0.095526,51.751396,On or near LONG BANKS,E01021859,Harlow 010C,Offender fined
+84dc2673c2c6593a2f2fb0111e6abb492d48c4eb44afc8ecd7b22e40c0f3048e,2012-03,Essex Police,Essex Police,0.305190,51.622145,On or near Nightclub,E01021433,Brentwood 007A,Offender given community sentence
+1c6a93f54a5084ddedff151d3ebe11fa2eaf7135b91d3cb83f84d2dc975fadf1,2012-03,Essex Police,Essex Police,0.239557,52.022677,On or near GEORGE STREET,E01022076,Uttlesford 002B,Offender fined
+6b1efbbbae754f0766c28a78ffe9faff2eee7755897a86104faa8e4b980d855f,2012-03,Essex Police,Essex Police,0.641684,51.564734,On or near Petrol Station,E01015816,Southend-on-Sea 003C,Offender given conditional discharge
+4dcbfd20fe5e98eb8dcacd398c0d5f2a5a712ad3a11b4125c47814d206e512d3,2012-03,Essex Police,Essex Police,0.066527,51.641004,On or near BARNCROFT GREEN,E01021783,Epping Forest 013D,Court case unable to proceed
+82da3187839a90ceb9474f248b55649af23a4404ebfd3156e6b28a66277da953,2012-03,Essex Police,Essex Police,0.425319,51.636991,On or near FERN CLOSE,E01021250,Basildon 001D,Offender sent to prison
+0a9d5a8c10220118858092ba31370726745c1fbdb6499f27dfd125f5dd71f912,2012-03,Essex Police,Essex Police,0.472257,51.733569,On or near Shopping Area,E01033141,Chelmsford 010G,Offender given community sentence
+ec19010376aaacdad9b81379aacea9975342db7e36a1640ed7423f5c00b0ca38,2012-03,Essex Police,Essex Police,0.655050,51.548451,On or near Supermarket,E01015814,Southend-on-Sea 003A,Offender sent to prison
+d55b551c8207c2ecc093c8b9996e5e9fe4f53490c4336aeef2ecdc22662bc6c3,2012-03,Essex Police,Essex Police,0.299670,51.518060,On or near NORDMANN PLACE,E01015975,Thurrock 006F,Offender given community sentence
+87cddebfd263591d328560b7329076a4371a3b617a57a4480f17b675445f2104,2012-03,Essex Police,Essex Police,0.715320,51.534677,On or near Shopping Area,E01015852,Southend-on-Sea 015B,Offender sent to prison
+e8a1b191d7c8d0bea783f6ec0e2b8091469a75099bac9a951a187f72e05a5892,2012-03,Essex Police,Essex Police,0.456169,51.571868,On or near Pedestrian Subway,E01021318,Basildon 015C,Offender ordered to pay compensation
+b7343c7b329b11d076923aacbefdedbd93d0d234bdbda1609f35fb437e7ce35f,2012-03,Essex Police,Essex Police,0.094895,51.770021,On or near Nightclub,E01021872,Harlow 007E,Offender given conditional discharge
+d867981ac560dc14067aee0a8c025245b4c803b3b083ba5f89cdc5a61ac589d7,2012-03,Essex Police,Essex Police,0.374017,51.487782,On or near TASKER ROAD,E01015936,Thurrock 012D,Defendant found not guilty
+7f500cd1797401b21e7b69f168ec2b835563c875812a4dd3f115727c11358053,2012-03,Essex Police,Essex Police,0.277113,51.898482,On or near SCHOOL LANE,E01022090,Uttlesford 006B,Court case unable to proceed
+5ba66ae74a880fb2e1b4dbe372693a8a6c1456caa52f8774b07ee2fba7afba98,2012-03,Essex Police,Essex Police,0.500162,51.563276,On or near Petrol Station,E01021310,Basildon 022B,Offender given community sentence
+eedce5e1fa99d27f51bc96e518d1309851952d1a8d540741da7319bacda3d052,2012-03,Essex Police,Essex Police,0.794193,51.530054,On or near HINGUAR STREET,E01015877,Southend-on-Sea 013B,Offender given community sentence
+67843b8be0fb2854527f6d78c93b847b5cb5f7f3fddcd0994cd32d73be0f5786,2012-03,Essex Police,Essex Police,0.926788,51.867543,On or near CHEVELING ROAD,E01021667,Colchester 016F,Defendant found not guilty
+ca918e08ba79b7e1548adfa93ced93a1e5157cd2a6e81ff35d677793a5944b46,2012-03,Essex Police,Essex Police,0.897934,51.888970,On or near Shopping Area,E01021649,Colchester 007D,Offender given community sentence
+17315e0a89a1bceed80239e1cf5486bf630fdb7de133168135e668f40631016f,2012-03,Essex Police,Essex Police,0.780740,51.539296,On or near Supermarket,E01015882,Southend-on-Sea 013G,Offender given community sentence
+2ec4dc56573c0bebae2dc7907c7d43f9b3ecbe354b552b792041f86e4920a4e0,2012-03,Essex Police,Essex Police,0.548875,51.879067,On or near Shopping Area,E01021365,Braintree 009D,Offender given community sentence
+54f919e4d2dfe624ce9c2c53069a8c8930c18cec7f97558a48c0a5b30cbe2753,2012-03,Essex Police,Essex Police,0.790408,51.541495,On or near WATKINS WAY,E01015879,Southend-on-Sea 013D,Offender fined
+ac98efe2151953fcb0ec360b69643311a8fe05238bd63bf4e115202205e32303,2012-03,Essex Police,Essex Police,0.093567,51.769182,On or near Shopping Area,E01021872,Harlow 007E,Offender sent to prison
+d703f0203d3929f69803b011175efcc5bc9bc2538b48dad61beae2d395b0edd5,2012-03,Essex Police,Essex Police,1.156340,51.787978,On or near MARINE PARADE EAST,E01022025,Tendring 016B,Offender fined
+1ba783f9d417bd10621d99279706742627e716fa2ecc17f6df2868ea7cc41e1b,2012-03,Essex Police,Essex Police,0.579603,51.562896,On or near DUBARRY CLOSE,E01021512,Castle Point 004D,Offender given suspended prison sentence
+79066f99e7db3a7a6589922196dd11d17d671fbdf8b74df5b35cc34631b1d8d6,2012-03,Essex Police,Essex Police,0.897825,51.889081,On or near CULVER STREET WEST,E01021649,Colchester 007D,Offender given suspended prison sentence
+099e6fdee60a8aa2d81b532f60eca8cf44dc49ee389bc6a2ac5c67fb80472fcd,2012-03,Essex Police,Essex Police,1.153869,51.789780,On or near Nightclub,E01022025,Tendring 016B,Offender given community sentence
+19699617535135f68729bc11b43b4b299280fd7905c90eeafe8ac0daf2359939,2012-03,Essex Police,Essex Police,0.923482,51.883985,On or near VEGA CLOSE,E01021685,Colchester 011C,Offender given conditional discharge
+0af61454b2fbe375c7c9d59b64ab89d67bc5384f5ffc1f3ba21e57c4f32e468d,2012-03,Essex Police,Essex Police,0.516750,51.604695,On or near KERSHAWS CLOSE,E01021342,Basildon 008B,Court case unable to proceed
+3a431ef21e40a503cde79dfe356174465ca1b04bb8970a4cd8244445225ab6bb,2012-03,Essex Police,Essex Police,0.248851,51.508533,On or near Parking Area,E01015924,Thurrock 008C,Offender given community sentence
+fae49b604f365bc2cedc0e1829bfe075e6ab0d8fd5b861c79369cab468d02462,2012-03,Essex Police,Essex Police,0.706187,51.583436,On or near ROCHE CLOSE,E01021955,Rochford 004D,Offender given community sentence
+cfe3b5c906d7bead5789951901662e2e3e7c47dad47c53009174dbc42c86c9d3,2012-03,Essex Police,Essex Police,0.487419,51.738276,On or near BROOKHURST CLOSE,E01021626,Chelmsford 007E,Offender fined
+627887ca147051e7f57be330e20c364059d1d718b25559290bb57e720df44edd,2012-03,Essex Police,Essex Police,0.688353,51.543969,On or near CROWSTONE CLOSE,E01015831,Southend-on-Sea 012E,Offender fined
+d4367cfc67d292f6c2321327eff0838b8fed152ac7945dbea96c80cfe24a7802,2012-03,Essex Police,Essex Police,0.595583,51.991834,On or near PRIORY WOOD,E01021400,Braintree 003D,Offender given community sentence
+119d0c0c94aa81ba81f3b87b67f61cfc65784898b41aadb5fea9334a2f940f0f,2012-03,Essex Police,Essex Police,0.300242,51.620299,On or near Nightclub,E01021433,Brentwood 007A,Offender given community sentence
+a95ae221ff1fe94de492ea2e118974ed14f013dd793bd84b9a8c37fd390396fe,2012-03,Essex Police,Essex Police,0.193109,51.872201,On or near DUNMOW ROAD,E01022087,Uttlesford 005F,Offender given community sentence
+f06405645b49d9cd8cdf0241e4f48110d4b41418965eb09280ab9477c3929bea,2012-03,Essex Police,Essex Police,0.552410,51.879134,On or near Tofts Walk,E01021365,Braintree 009D,Offender fined
+0cb770d84491541377e447220531c290c4e1df4738926e12f7b2e8c54ab61148,2012-03,Essex Police,Essex Police,0.490430,51.723742,On or near Parking Area,E01021563,Chelmsford 014B,Offender fined
+aadf1efcfff48c2d106ff13817cfb9f14f4b61e326fd015611366238a7afaf2c,2012-03,Essex Police,Essex Police,0.213059,51.979889,On or near Petrol Station,E01022072,Uttlesford 003C,Offender given community sentence
+4b01e06513f9ab24b24222724ed3d7bb9b732511383ec44a5e4a855bb183860f,2012-03,Essex Police,Essex Police,0.897825,51.889081,On or near CULVER STREET WEST,E01021649,Colchester 007D,Offender sent to prison
+cb279a91c60c8fe78dd194e5a357c77165d6efdea449de27a346bca6f59c2636,2012-03,Essex Police,Essex Police,0.095357,51.767783,On or near Shopping Area,E01021872,Harlow 007E,Offender ordered to pay compensation
+0a28ccb4f06bbb7dce6f5734d535460f4e45eeb7f21427c379eede3dbdbd89a9,2012-03,Essex Police,Essex Police,0.431942,51.520833,On or near STRATFORD GARDENS,E01015986,Thurrock 003C,Defendant found not guilty
+54090f808a5e8f725d1c2cdb67b69a11998387750f8a6e35cb6a74d6e8e001aa,2012-03,Essex Police,Essex Police,0.570617,51.881444,On or near POSTMILL DRIVE,E01021353,Braintree 009B,Offender fined
+5d2928140411ad12567bced920633631f72cd584eaed4627fbfeaef66bbfb051,2012-03,Essex Police,Essex Police,0.745097,51.819665,On or near CHESTNUT WAY,E01021726,Colchester 020D,Offender given community sentence
+ee2bc1c3353a62f94b6181d1e8edeae95899386067762eb33c7517a19e724815,2012-03,Essex Police,Essex Police,0.743713,51.816963,On or near STORES ROAD,E01021727,Colchester 020E,Offender sent to prison
+4cbc310c2cd63a4744e14bb6b98d622493d9383a7292f9510ab0ee5b3dab146f,2012-03,Essex Police,Essex Police,0.640820,51.808078,On or near Petrol Station,E01021416,Braintree 017B,Offender sent to prison
+58bbe4813a11f9848fed1960ed8bca248ccaacc9e030cc8593adbddef3a61589,2012-03,Essex Police,Essex Police,0.111105,51.699284,On or near Nightclub,E01021762,Epping Forest 005C,Offender sent to prison
+4666526f947b55dabb042ed3a658b1022616a79d28a5704c5b562ae01a5ec04d,2012-03,Essex Police,Essex Police,0.474190,51.732359,On or near Shopping Area,E01033140,Chelmsford 010F,Offender given community sentence
+ed834e9dbbabab6a39bd308081c595fdfd7456fb31a1b3b3609dd8c3bedcd2d5,2012-03,Essex Police,Essex Police,0.727306,51.549904,On or near NORWICH AVENUE,E01015875,Southend-on-Sea 006G,Offender sent to prison
+5afee249dd8f94c758c8704c118d95a32c904fa2383f39f8b6101d5eef974501,2012-03,Essex Police,Essex Police,0.430399,51.570066,On or near ORCHID PLACE,E01021288,Basildon 016B,Offender given conditional discharge
+ede33d03df559972c0efced9d5b3ef9d584c22878c2ea9adbc3c55ebd2bba563,2012-03,Essex Police,Essex Police,0.413811,51.637453,On or near Supermarket,E01021252,Basildon 002E,Court case unable to proceed
+d0f20d0b0c10160af2db24f2ec799761600c087a1f8fbec70130c0b8838e795a,2012-03,Essex Police,Essex Police,0.727306,51.549904,On or near NORWICH AVENUE,E01015875,Southend-on-Sea 006G,Offender sent to prison
+697ffdc76e3408d0f54c810e54086e11f7877f0961271768acd80113a143443b,2012-03,Essex Police,Essex Police,0.249141,52.015849,On or near PEASLANDS ROAD,E01022081,Uttlesford 002F,Offender fined
+29a0b21a5a68ac2c72bfdaf55060c225c5ab4116d64eb801bb0bae025d50419f,2012-03,Essex Police,Essex Police,1.145785,51.794898,On or near WARWICK ROAD,E01021970,Tendring 016A,Offender given suspended prison sentence
+8cb14783a2a486026c5dfd38b824e0c127d024e42d499310223744bef33eb86e,2012-03,Essex Police,Essex Police,0.495691,51.571214,On or near PITSEA ROAD,E01021306,Basildon 013E,Offender given conditional discharge
+7c572498b6419507cadfcc7c57a34e28c297a64e768b42c178abe44b5a9e6384,2012-03,Essex Police,Essex Police,0.268305,51.599536,On or near M25,E01002296,Havering 007C,Offender otherwise dealt with
+6d6b973cca4f404e2eca913fb60e5944cdefb6c728e5d38b97e453ea38c5b686,2012-03,Essex Police,Essex Police,0.290985,51.483436,On or near PLYMOUTH ROAD,E01033613,Thurrock 019D,Offender fined
+287bf722c194a0bbe4381bc235f3aaf9e8d29b30a56af4a30e5839fccd3244f4,2012-03,Essex Police,Essex Police,0.270445,51.486039,On or near Parking Area,E01016012,Thurrock 015C,Offender sent to prison
+7e9e86a8674ef247b37893425db044049903f1293d8bd86e8f9251e0a56ea8cc,2012-03,Essex Police,Essex Police,0.507961,51.574405,On or near EASTBROOKS,E01021304,Basildon 013C,Offender given community sentence
+794f8d49d4fde501b13c8e1b3c574dc9e424bcbe7f8ecb9ce92b8d6abf1e36a3,2012-03,Essex Police,Essex Police,0.617481,51.643493,On or near Queen Elizabeth Way,E01021613,Chelmsford 019C,Offender fined
+3adbfcbdec40390b5745b4da672222c1e3d7168e5962439d09f18ac5597255f8,2012-03,Essex Police,Essex Police,0.646057,51.548348,On or near LONDON ROAD,E01015909,Southend-on-Sea 008B,Offender sent to prison
+cd8f6f8d6a08fb75a991e9a82669770c598d93085a4ed8ad89e95e01ebf45874,2012-03,Essex Police,Essex Police,0.891763,51.887710,On or near CROUCH STREET,E01021649,Colchester 007D,Offender fined
+099e916d59de6543eafb411b55d0e1bbb91742c5d1bacfe3e1f3e86807e42bd6,2012-03,Essex Police,Essex Police,0.634446,51.943649,On or near BRIDGE STREET,E01021387,Braintree 004A,Offender sent to prison
+a19905c6a8bbbee6d4412c2ce15079a3d5b229bdf5bdb48fdc4483e662701f5a,2012-03,Essex Police,Essex Police,0.893012,51.922080,On or near BOXTED ROAD,E01021680,Colchester 004B,Offender given conditional discharge
+990b5448b7a030c9c4a95a42e018cfa3f58807438fb9c9db567067d2c35e9c13,2012-03,Essex Police,Essex Police,0.898356,51.887395,On or near Parking Area,E01021649,Colchester 007D,Defendant found not guilty
+c6c9c0cdc1e442822633a3740a229c979bb043638e4ec3a310d41fbfaaa0b891,2012-03,Essex Police,Essex Police,1.148823,51.795195,On or near Supermarket,E01022026,Tendring 016C,Offender sent to prison
+8e20d971890035ee1a5c20f7c195508153d876ae7003d83b7591ae1705434b5b,2012-03,Essex Police,Essex Police,0.919670,51.912158,On or near TALLY HO,E01021668,Colchester 002A,Offender given community sentence
+9d77b280977d772a661a2eea358c3c7f974d65619a58a5b977419bdfdce5639c,2012-03,Essex Police,Essex Police,0.895674,51.887964,On or near CHURCH WALK,E01021649,Colchester 007D,Offender ordered to pay compensation
+ae0177ea206d7509e4e414fc9c4f48bb52d715a23f011ee2767a7f7c475348a2,2012-03,Essex Police,Essex Police,0.426911,51.514318,On or near THE GREEN,E01015992,Thurrock 005C,Offender given community sentence
+07c4f267205b7e3f1150d98f1297b082285688428abe88838fd8f6a313085f67,2012-03,Essex Police,Essex Police,1.167180,51.808759,On or near GREENVIEW PARK,E01022041,Tendring 010D,Offender fined
+5fe9ac0d072937357f947716b979b20ef56144277c6fcd642bb2bb3d42a88a41,2012-03,Essex Police,Essex Police,0.897825,51.889081,On or near CULVER STREET WEST,E01021649,Colchester 007D,Offender given suspended prison sentence
+cd23de1433d6044c7e22ef64473d22485c36fd683eefc1c8adb64b85f54e6a82,2012-03,Essex Police,Essex Police,1.143590,51.812757,On or near A133,E01022039,Tendring 010B,Offender given community sentence
+eb90d60c33972feb025ac94bfd7a1d6b3b280fc325ff8154d734f34ed7e97f4b,2012-03,Essex Police,Essex Police,0.720074,51.535817,On or near ST LEONARD'S ROAD,E01015841,Southend-on-Sea 014C,Offender given conditional discharge
+3c31466d187437ca822c5592330545109344fd007c537f62d2f5251c7eae1506,2012-03,Essex Police,Essex Police,0.893012,51.922080,On or near BOXTED ROAD,E01021680,Colchester 004B,Offender given conditional discharge
+9ca113822c045c8d42c8b664d84dfdfe39f135ae099c5b1b36425740f7444431,2012-03,Essex Police,Essex Police,1.184913,51.804259,On or near Parking Area,E01022033,Tendring 012B,Offender sent to prison
+066c28c2314aa7b2bd19cfbe3933b225c6d23764b4dbccdf70fa061808229339,2012-03,Essex Police,Essex Police,0.452040,51.569967,On or near ROUNDACRE,E01021318,Basildon 015C,Offender sent to prison
+2e76e3e636cb452122c4c166d742f544542eb61b60e71b5ea81c0647f4c1feb1,2012-03,Essex Police,Essex Police,0.284143,51.486609,On or near Shopping Area,E01016011,Thurrock 015B,Offender given community sentence
+13f8d2bf8d0cf16d1ce8f1d907855b0fe5427b47e43ee15c8968b82e81e63c8b,2012-03,Essex Police,Essex Police,0.694218,51.536567,On or near STATION ROAD,E01015851,Southend-on-Sea 015A,Offender given community sentence
+d1047984a700ba98687b2082dfde64488379aafbbf5db7ef087230ffda41e6ef,2012-03,Essex Police,Essex Police,0.715320,51.534677,On or near Shopping Area,E01015852,Southend-on-Sea 015B,Offender given conditional discharge
+db5750f51a208feb088543add5c6a87529cb15151ccdcc5940de09b91433db4f,2012-03,Essex Police,Essex Police,0.292499,51.475142,On or near PORTER CLOSE,E01016011,Thurrock 015B,Offender sent to prison
+63c0127853bf7a0fbd058503be1a09688e20e95a35bae0215f2d0351faa39d23,2012-03,Essex Police,Essex Police,0.684702,51.545167,On or near LONDON ROAD,E01015832,Southend-on-Sea 012F,Offender given conditional discharge
+28a2c9db7436fab71720f7ee83a6c3edf751a0418440992f56e31e01e52fccf5,2012-03,Essex Police,Essex Police,0.480242,51.567099,On or near ST JAMES ROAD,E01021324,Basildon 019C,Offender fined
+c5312975c4dfc45b7f45859caa37b7ea04722f4cd4c45e36d15e675612efe4e9,2012-03,Essex Police,Essex Police,0.234340,52.011887,On or near MAYPOLE CLOSE,E01022074,Uttlesford 002A,Offender given community sentence
+ac0c875a6c96c3cd0dd91a9e5e7e4edfca8a397b105698ebeae98a09cf93ba9f,2012-03,Essex Police,Essex Police,0.910211,51.898578,On or near Shopping Area,E01021647,Colchester 007B,Offender given community sentence
+eabf89722dee53202ddc0b78e05e25d75c2a818ff65aeb646c334671a45b8956,2012-03,Essex Police,Essex Police,0.260608,52.022446,On or near Petrol Station,E01022081,Uttlesford 002F,Offender fined
+a7ad12ce565a74ad49f65469a8ce07eee1895e400778af97c93e52e3f00218b7,2012-03,Essex Police,Essex Police,0.090424,51.774561,On or near MORLEY GROVE,E01021843,Harlow 004E,Offender sent to prison
+ffbc520655a85d964c080e3cddb2607542a6e8f5d4f13713e8886b0633e07737,2012-03,Essex Police,Essex Police,0.266696,51.893386,On or near Parking Area,E01022090,Uttlesford 006B,Offender given community sentence
+803f0c985baffd72d17f08966705cf4386aed2d62d7ed2e8bb90127c8c96b80b,2012-03,Essex Police,Essex Police,0.760006,51.874796,On or near HONYWOOD CLOSE,E01021678,Colchester 010E,Court case unable to proceed
+c93cd0ee96604d1521665c1430f4d825f6ca6fbb64b3bf9f879cf3c85624277b,2012-03,Essex Police,Essex Police,0.343201,51.953909,On or near STONY LANE,E01022092,Uttlesford 004A,Offender given conditional discharge
+8bb5801992dada220ed971ca6a067594ad25251a08764dfe6c0655ccf8ed3a8a,2012-03,Essex Police,Essex Police,0.684702,51.545167,On or near LONDON ROAD,E01015832,Southend-on-Sea 012F,Offender given suspended prison sentence
+625594172713f97819199ce018e266f3a4e94098e977182d084cce1ad8153d60,2012-03,Essex Police,Essex Police,0.285222,51.484852,On or near Parking Area,E01016011,Thurrock 015B,Offender given community sentence
+85d3eda9de95b06688a3ec12bee79061310ed6e66a346a820f7f977acc6e07b2,2012-03,Essex Police,Essex Police,0.127685,51.760539,On or near CAMPBELL CLOSE,E01021836,Harlow 008D,Offender given community sentence
+d1dca3cc986001950a3a8479cccdad98268f9acc5c0628fa22987a32c64be811,2012-03,Essex Police,Essex Police,0.468394,51.576944,On or near FALKENHAM END,E01021268,Basildon 015B,Offender given conditional discharge
+8f7c692d24f8d83f75fd4975e5314e6bd0709d9953f3c323fa4730f9549d60fd,2012-03,Essex Police,Essex Police,0.635806,51.940291,On or near PARK DRIVE,E01021393,Braintree 004E,Offender given community sentence
+d57b27b3ec3ca4761a725d9376ea7f18bce3fef99cd44be36af1e8acb2b8c3a5,2012-03,Essex Police,Essex Police,0.089752,51.777585,On or near RIVERMILL,E01021843,Harlow 004E,Offender given conditional discharge
+f5c722e2783349cf0e10edf0f8f99bc1b562a71c98bf6af62b1e9f2310f77c4a,2012-03,Essex Police,Essex Police,0.304262,51.620364,On or near MOORES PLACE,E01021436,Brentwood 007B,Offender given conditional discharge
+6c47fa3690ae07d85358bb2a20fc73d45b8e1a7d73758f3fc8b3627535b77264,2012-03,Essex Police,Essex Police,0.780740,51.539296,On or near Supermarket,E01015882,Southend-on-Sea 013G,Offender sent to prison
+041c0ac7bfb5c59fcc80984b0840a2fd2e757e38ee8db9a255eee20ac39b1548,2012-03,Essex Police,Essex Police,0.146664,51.765328,On or near HEATHCOTE GARDENS,E01021824,Harlow 005A,Court case unable to proceed
+ba56c4e7688978fa4c4d11cdecbb04a3921a42336dc78cdb5fcacead42cbe3ca,2012-03,Essex Police,Essex Police,0.897825,51.889081,On or near CULVER STREET WEST,E01021649,Colchester 007D,Offender given community sentence
+25b3de70e6fea0ba3505fed9aefb8902a2159285d71369cf3114eaae63219226,2012-03,Essex Police,Essex Police,0.284143,51.486609,On or near Shopping Area,E01016011,Thurrock 015B,Offender given community sentence
+c70a4d82d3d9d54bc844ddabf9b7038836131052615f71455ac842e8530ca60e,2012-03,Essex Police,Essex Police,0.092811,51.774150,On or near Supermarket,E01021843,Harlow 004E,Offender given conditional discharge
+c41220a140ab8ac0b7a86bc6a7bedd1d8eb70db9695e742ba78d399c61e7af9e,2012-03,Essex Police,Essex Police,0.124229,51.785708,On or near Petrol Station,E01021848,Harlow 002E,Offender given conditional discharge
+f373b4830e49e0487128cb218f73d7f272ff4520e3bdbdc55e576b3bb18aa3d6,2012-03,Essex Police,Essex Police,0.509230,51.561554,On or near FIELDWAY,E01021310,Basildon 022B,Offender fined
+7a991b084408f191d18aae598ba26be825ecdf4ed238e71666fe5071402dedb0,2012-03,Essex Police,Essex Police,0.619447,51.579281,On or near Supermarket,E01021949,Rochford 009D,Offender sent to prison
+121bc91505d06facf87fd7a5d58e2154756d4e3a3b3150acc29f2509437c7e5f,2012-03,Essex Police,Essex Police,0.483487,51.566284,On or near Parking Area,E01021327,Basildon 019E,Offender otherwise dealt with
+9783e518e2531c783caf6091d2af1faf017023ab9b6224beabc2957da3799308,2012-03,Essex Police,Essex Police,0.095779,51.754044,On or near CHARTERS CROSS,E01021871,Harlow 007D,Offender given community sentence
+459c68d73c07079b517bf94437bfcc42553273f14b25f69ba88adc2d4bdbb421,2012-03,Essex Police,Essex Police,0.730218,51.539755,On or near BELLEVUE AVENUE,E01015839,Southend-on-Sea 014A,Offender given suspended prison sentence
+55b39cf036ba8d54ee21f959dcfdfb3397417a77116ceb5eee2d7cd9645207a2,2012-03,Essex Police,Essex Police,0.596066,51.561094,On or near PARKFIELDS,E01021529,Castle Point 006D,Offender fined
+82f5a212bfecd6eb95568ec1a889839b83763fbd12772c16b6feaf799af45110,2012-03,Essex Police,Essex Police,0.095357,51.767783,On or near Shopping Area,E01021872,Harlow 007E,Offender given community sentence
+671bb18698cd3802720ed1f616b94f170b777acbe7c644319b0e30b904f1679e,2012-03,Essex Police,Essex Police,0.452426,51.568286,On or near Petrol Station,E01021318,Basildon 015C,Offender sent to prison
+d7446882b247c80ab0201664b09316ca777ead3fe5978ebe5d9ba3a2c38d9004,2012-03,Essex Police,Essex Police,0.456959,51.570727,On or near Shopping Area,E01021318,Basildon 015C,Offender sent to prison
+d710626c43170d3a905334ebf7db8cc79178a9fc6d1f1628626fff146b7a37dc,2012-03,Essex Police,Essex Police,0.684702,51.545167,On or near LONDON ROAD,E01015832,Southend-on-Sea 012F,Offender fined
+91118d7233ef1c84f294745a85c209cc3b89c9dd388b8cbc2661df6835194369,2012-03,Essex Police,Essex Police,0.070517,51.643893,On or near PARKMEAD,E01021773,Epping Forest 013C,Offender otherwise dealt with
+8684f7420962870cfcf2427d53da046d81d42f07f798c86e5c1b2a113805f620,2012-03,Essex Police,Essex Police,0.076258,51.656282,On or near PYRLES LANE,E01021779,Epping Forest 011F,Defendant found not guilty
+ad401382ae3b3194a3b02a238db28913d71e4a7063d71e862c64fbd5bc2e57c5,2012-03,Essex Police,Essex Police,0.109402,51.778358,On or near ALTHAM GROVE,E01021853,Harlow 003E,Offender given community sentence
+d060154c73e877917653e5c081997315075918d63a052ac17c8d0f30814411ed,2012-03,Essex Police,Essex Police,0.500879,51.590268,On or near Cricketers Retail Park,E01021307,Basildon 011C,Offender sent to prison
+725a11c3011d87494f58585c78b6e6bef3aec788346986e604598302daf8befb,2012-03,Essex Police,Essex Police,0.743673,51.819887,On or near ELM CLOSE,E01021726,Colchester 020D,Offender fined
+08897a23a67ee0ad4c9ed77d03c940aa955bc52fcac6d424ba86c3d559f0afa7,2012-03,Essex Police,Essex Police,0.471839,51.572348,On or near THISTLEDOWN,E01021318,Basildon 015C,Offender fined
+1147b8e2faea3b36bdba84521c153910b8d165f49fbc3bd33c8a6084e40b7cb7,2012-03,Essex Police,Essex Police,0.900116,51.889231,On or near Shopping Area,E01021649,Colchester 007D,Offender fined
+85da820fd5d294c6e07ab37da92897f733fb75e5b3b5339d49a332928e8db2ec,2012-03,Essex Police,Essex Police,0.452426,51.568286,On or near Petrol Station,E01021318,Basildon 015C,Offender sent to prison
+9ff842f073440c48ba880d55f8848a326f1ee6cd5aa67b196bca324febff38c8,2012-03,Essex Police,Essex Police,0.667256,51.559092,On or near THISTLEY CLOSE,E01015825,Southend-on-Sea 005F,Offender given community sentence
+ad261d41fe9779ebb961acce952ac35e2b6e74d377e16fa3143cd4e4232e4c30,2012-03,Essex Police,Essex Police,0.901260,51.888708,On or near Shopping Area,E01021649,Colchester 007D,Offender given conditional discharge
+a51e4773359e88a7022592e8a07c7b3acea97e84a2119abe5f78b283de47f62c,2012-03,Essex Police,Essex Police,0.894589,51.886462,On or near Police Station,E01021651,Colchester 013A,Offender sent to prison
+287e30a22367fc89dd78ff5876e73da7323f01b7dcf0d53b5228d41166abe33f,2012-03,Essex Police,Essex Police,1.153340,51.787393,On or near Nightclub,E01022025,Tendring 016B,Offender ordered to pay compensation
+ca0a3d7ce894ae8a6b317b037bbbc07853ac6e5069cf15a0c25d26b1cbde04f7,2012-03,Essex Police,Essex Police,0.124229,51.785708,On or near Petrol Station,E01021848,Harlow 002E,Offender sent to prison
+bfd16845a25978b5fd2cb98e673ea11258674b364671ac092f579203ecc53944,2012-03,Essex Police,Essex Police,0.905583,51.879797,On or near Supermarket,E01021684,Colchester 011B,Offender ordered to pay compensation
+a94c55b271846600ab2e1d26d61a4021dda8322e34e691b770a475353fa831ba,2012-03,Essex Police,Essex Police,0.095357,51.767783,On or near Shopping Area,E01021872,Harlow 007E,Offender given community sentence
+0bfb10a60fdf78b689e6ff87b4aa75caeace8cca30e9135ac1790671bd18de06,2012-03,Essex Police,Essex Police,0.713241,51.549916,On or near OAKHURST ROAD,E01015897,Southend-on-Sea 010C,Offender given community sentence
+b5abff5a50e1b6b86a42cd1d6dcd17d54e90d83a53da5b9f02706ca427672d75,2012-03,Essex Police,Essex Police,0.694218,51.536567,On or near STATION ROAD,E01015851,Southend-on-Sea 015A,Offender given community sentence
+99764188a4c2f877cb497a263ac2b6b6cb4a7adeaff4d3a9af3e91af74c8a9eb,2012-03,Essex Police,Essex Police,0.095357,51.767783,On or near Shopping Area,E01021872,Harlow 007E,Offender fined
+7df408a146c4d50adeb8b3ee53a117676bf1f6f28b34ac7cd147e1a3ba6a614b,2012-03,Essex Police,Essex Police,0.900116,51.889231,On or near Shopping Area,E01021649,Colchester 007D,Offender sent to prison
+4345b8d44ec8afce697be3e635b4e9ee6c099ff410db28df786a937dbdf1dcaa,2012-03,Essex Police,Essex Police,0.713596,51.539394,On or near Nightclub,E01015852,Southend-on-Sea 015B,Offender given community sentence
+fe86a0455ae269994d52dd5549f272d48bb401654d2f37e1d253458d4546c364,2012-03,Essex Police,Essex Police,0.565320,51.518566,On or near BROOKLANDS SQUARE,E01021501,Castle Point 011D,Offender given community sentence
+ccde697b3330e874296492c8cb11f7ce342b5cacd22dcd4aba8b9d29a4491355,2012-03,Essex Police,Essex Police,1.080553,51.773584,On or near CLUB PARADE,E01022045,Tendring 018D,Offender sent to prison
+41a9ae7f7a64b7e5457e712235b235491e7cfc8a7fe0390a6fe381b3f6912c77,2012-03,Essex Police,Essex Police,0.268305,51.599536,On or near M25,E01002296,Havering 007C,Offender otherwise dealt with
+31a1ae36d44573f8034c693436dcf0872037ec4423ae274e3c93134842d96b76,2012-03,Essex Police,Essex Police,1.150152,51.794503,On or near ST ANDREW'S ROAD,E01022026,Tendring 016C,Offender sent to prison
+a4919a8787f0f9c6144be370a9daae90ec6b1af4ee6899a12bf1a2de2b3b41ae,2012-03,Essex Police,Essex Police,0.709743,51.544690,On or near Police Station,E01015895,Southend-on-Sea 010A,Offender given conditional discharge
+1f214a13ea238daaa1d3d88585e36a53e102ac2ce1a5ca766c78f9e54fe8799e,2012-03,Essex Police,Essex Police,0.425778,51.584380,On or near WALNUT CLOSE,E01021263,Basildon 010C,Offender given community sentence
+b103be6d6da19e495e47b6a472567ab9067b60b018a445c569649f99d9dfac6c,2012-03,Essex Police,Essex Police,0.076258,51.656282,On or near PYRLES LANE,E01021779,Epping Forest 011F,Defendant found not guilty
+6d457837930ff1c5fbe6dd8ffc81d8ed7baa240d49022a3db6bb5d67b63b14c8,2012-03,Essex Police,Essex Police,0.522689,51.613867,On or near Supermarket,E01021336,Basildon 005B,Offender sent to prison
+a9248a328525e76cb7d141a09475c25a94cd68ecd72ebad6f09d42bb38000c19,2012-03,Essex Police,Essex Police,0.056189,51.634208,On or near SUTTON CLOSE,E01021785,Epping Forest 014D,Offender given suspended prison sentence
+1058143463aa7cf51d3b710071b38f17ae900c155c9c6681f9fb47b02efa9ed5,2012-03,Essex Police,Essex Police,0.709094,51.540820,On or near Supermarket,E01015895,Southend-on-Sea 010A,Offender given community sentence
+4c92acbf9ff7ffad5ca8cc01fa1269e649184a60f565351720c51a9dcb3c88da,2012-03,Essex Police,Essex Police,0.240155,51.480192,On or near WINGROVE DRIVE,E01016013,Thurrock 015D,Offender sent to prison
+31da27d19902e9bec69fe3e0d6dc8e6cad1658d120873584dc1d088a80fb0e57,2012-03,Essex Police,Essex Police,0.465864,51.736383,On or near Theatre/Concert Hall,E01021574,Chelmsford 010A,Offender given community sentence
+a468025a2e209f80f64fe9342ddf7d3bd56193f8b966be2adcc906b8302fd412,2012-03,Essex Police,Essex Police,0.631574,51.937355,On or near JUNIPER CLOSE,E01021391,Braintree 004C,Offender given suspended prison sentence
+df8d6f4053f4628fb998c7bde558f69955abdf40212fe1c060ea5b54698e6a34,2012-03,Essex Police,Essex Police,0.268305,51.599536,On or near M25,E01002296,Havering 007C,Offender otherwise dealt with
+27bc28eda9356e4b9dd1b669c202c8345a8cf965bab40540b3735dbd70edfd1d,2012-03,Essex Police,Essex Police,0.095357,51.767783,On or near Shopping Area,E01021872,Harlow 007E,Defendant found not guilty
+80d3bdd6dfe86e81e31fa9047fb31b7455f787c8ea980ab5c4eab8f4cdbac9c1,2012-03,Essex Police,Essex Police,0.452040,51.569967,On or near ROUNDACRE,E01021318,Basildon 015C,Offender sent to prison
+b9e46d416d8de8d870a1171ecc69baf79cdfa60ec35664bae96bfb2e4de56b67,2012-03,Essex Police,Essex Police,0.693976,51.539541,On or near HAMLET COURT ROAD,E01015855,Southend-on-Sea 015E,Offender sent to prison
+efbab7031a631e952c2e73a5fc0d46bca19e3f1f9aa5dbe26b40e47b6030a25e,2012-03,Essex Police,Essex Police,0.456169,51.571868,On or near Pedestrian Subway,E01021318,Basildon 015C,Offender otherwise dealt with
+7bc6da8bc8736f6b5f75156ae479f7ed51636a7c70d9cc287465d2c68f1e2f3b,2012-03,Essex Police,Essex Police,0.364120,51.870956,On or near HIGH STREET,E01022067,Uttlesford 007B,Offender given community sentence
+2df4e30286d0d7b5f6b4b6fa06d38c507b23e3d2ff0b81a31bc7cee3c897a718,2012-03,Essex Police,Essex Police,0.509907,51.607090,On or near BERRY CLOSE,E01021332,Basildon 006D,Offender given community sentence
+ac4caf3769077293918ae45c4ad6d3a16d1b72d8a4ae66d8413d3b9c9c5c65fb,2012-03,Essex Police,Essex Police,0.713197,51.546994,On or near BIRCHAM ROAD,E01015897,Southend-on-Sea 010C,Offender given community sentence
+55ccc6fe1096a44486c2e1c0e2213898f7f1810be88ef2c499b7168e9c3164d8,2012-03,Essex Police,Essex Police,0.909651,51.884966,On or near Petrol Station,E01021686,Colchester 011D,Court case unable to proceed
+02cc9fbc529d84f1c5ab8e98d5201fda15d7d04239e3d8e8d34bd0b1cd434e68,2012-03,Essex Police,Essex Police,0.462457,51.585127,On or near Nightclub,E01021268,Basildon 015B,Offender given suspended prison sentence
+62589d0963f37b7abe657804b062258b1a72147cddb6e0f55681aff130fb7d89,2012-03,Essex Police,Essex Police,0.417398,51.625283,On or near HIGH STREET,E01021240,Basildon 003B,Offender given absolute discharge
+20a1523a684b3c38f693014a858d668762c3954c45c2be9f063e3d8be65bac4f,2012-03,Essex Police,Essex Police,0.760241,51.877452,On or near COGGESHALL ROAD,E01021677,Colchester 010D,Offender fined
+4ff6947c079a84d96234dc4a84d05922f9e88eb26e1bd4467237862357315996,2012-03,Essex Police,Essex Police,0.469426,51.728916,On or near GEORGE STREET,E01033140,Chelmsford 010F,Offender sent to prison
+770c583a499a4f637b306d9602572560f111ea5d815b736848ebf498f82da736,2012-03,Essex Police,Essex Police,0.424041,51.569380,On or near Pedestrian Subway,E01021286,Basildon 016A,Offender sent to prison
+e35a9820ea2e44fd2982b9ec354ce46175bf58a3e11ab35f722627807daded68,2012-03,Essex Police,Essex Police,0.268305,51.599536,On or near M25,E01002296,Havering 007C,Offender otherwise dealt with
+4796cec0af691dd7bd763bdb49108981ee9da50917b56001999017cc0250359d,2012-03,Essex Police,Essex Police,0.695186,51.547076,On or near INVERNESS AVENUE,E01015906,Southend-on-Sea 007F,Defendant found not guilty
+91f77d189c7a44836edd7e6a143d0ee07788869554e74dab0d363a474902e8a9,2012-03,Essex Police,Essex Police,0.695131,51.540296,On or near Shopping Area,E01015855,Southend-on-Sea 015E,Offender given suspended prison sentence
+e8cd36587d9b3b2ff69bc7756cca01e0fb205b44266bfce00f6aad93687d9db6,2012-03,Essex Police,Essex Police,0.073263,51.753103,On or near A1169,E01021864,Harlow 011C,Offender fined
+c9323dc19f4b768e283da0697066b19312adc9d645000f655aa389dd861697c0,2012-03,Essex Police,Essex Police,0.357737,51.464000,On or near ADELAIDE ROAD,E01016006,Thurrock 018D,Offender given community sentence
+5c07b530e0c1f3684a6de1734dcc607a76c716d3b3cb40cb38f2300635cbc1c1,2012-03,Essex Police,Essex Police,1.028956,51.813402,On or near RECREATION WAY,E01021981,Tendring 011C,Court case unable to proceed
+931a4429bdd592783719509bd2c8c99be49808af8c499758c84bb9faef8d8009,2012-03,Essex Police,Essex Police,0.600356,51.556628,On or near Petrol Station,E01021520,Castle Point 006C,Offender given community sentence
+e246d8e4c1a161f98359af2bf3f91b929c21cfbb5c3f1fca2bf692c5a6137934,2012-03,Essex Police,Essex Police,0.328649,51.630261,On or near Supermarket,E01021465,Brentwood 005D,Offender given community sentence
+7e7749203fd7fcc69b6afddf62d9c06872a0af972aa175bf94e21cf5e0c597e6,2012-03,Essex Police,Essex Police,0.290659,51.627375,On or near UPPER RYLE,E01021432,Brentwood 004B,Offender given suspended prison sentence
+269da0365fb63e32a77e6d8dc427214e00c9f8a4d3a8af60c0a45d74956ae636,2012-03,Essex Police,Essex Police,0.600356,51.556628,On or near Petrol Station,E01021520,Castle Point 006C,Offender given community sentence
+2c9c1e0b754811f68dd615b1b43dc360923f3df7a1a10c19fd2af69e79da723d,2012-03,Essex Police,Essex Police,0.624471,51.596822,On or near HOCKLEY ROAD,E01021960,Rochford 005D,Offender given suspended prison sentence
+58310a47c4e0bcc86c65316685ef3afbe9d325283d89ba21a050e95f68da56ef,2012-03,Essex Police,Essex Police,0.297322,51.628261,On or near ROBIN HOOD ROAD,E01021431,Brentwood 004A,Offender fined
+6dca955dcaf06e91d4dfe46a81a88db349986f10ae0e9a445d44507f5986179e,2012-03,Essex Police,Essex Police,0.505195,51.560327,On or near Parking Area,E01021310,Basildon 022B,Court case unable to proceed
+1e0f28f7ce0bf874983c2f4d5eefdbb58acafdeadf46b2b2a089a97a69f348d7,2012-03,Essex Police,Essex Police,0.261741,51.889938,On or near Airport/Airfield,E01022090,Uttlesford 006B,Offender fined
+dc96527e4b60c9d8c607253df48f9672aa27cad60a1881e171518d6d95c3f2ee,2012-03,Essex Police,Essex Police,0.534258,51.608653,On or near RUSSELL GARDENS,E01021340,Basildon 007C,Offender fined
+6b3169f41bf41868ce425858ef0419b64ddeb43f98f22061d283cc4b725fc790,2012-03,Essex Police,Essex Police,0.902706,51.887692,On or near VINEYARD STREET,E01021649,Colchester 007D,Offender fined
+d3797aac9a3be594abfbfee84f88c2fb1fa81ee21db8270f92b18c28a4e483c6,2012-03,Essex Police,Essex Police,0.677696,51.545723,On or near SOUTHBOURNE GROVE,E01015905,Southend-on-Sea 007E,Offender fined
+e730e3ed3fed4826410c02469fdfd5dfcde9b4c2624868b6ef8a8e3c154fe8c0,2012-03,Essex Police,Essex Police,0.447985,51.562974,On or near GERNONS,E01021294,Basildon 020A,Offender sent to prison
+99d14ee0e9a09c04984cfb451fd6483ed3faeb3e577536193662785ecdd9ffb4,2012-03,Essex Police,Essex Police,0.671282,51.570917,On or near Supermarket,E01015863,Southend-on-Sea 002A,Offender sent to prison
+41e48ecb786c37b2e5a9721891bcd1ebe4b636b371b32a8ab1a91a1aab7bfab8,2012-03,Essex Police,Essex Police,0.895640,51.896024,On or near NORTH STATION ROAD,E01021650,Colchester 007E,Offender given community sentence
+780781cda1fdc4709f9e723895cb0bce3897a247ab70ffc9a76718cb21e1c8c9,2012-03,Essex Police,Essex Police,0.090994,51.771224,On or near Petrol Station,E01021872,Harlow 007E,Offender deprived of property
+65fff2d3ab1e3e0cb7d944ff54c4113d9b79c4565357b5a4b71447e615629a7e,2012-03,Essex Police,Essex Police,0.372573,51.461345,On or near MOORE AVENUE,E01016005,Thurrock 018C,Offender given community sentence
+f54a4ce5a9ee1ebc6fd97619f85c5daa5800a9057c968bb1f371e306d87068df,2012-03,Essex Police,Essex Police,0.261741,51.889938,On or near Airport/Airfield,E01022090,Uttlesford 006B,Offender sent to prison
+a60bdc45fa7ee285a0cc15fccf6c58f29c478f8795484b42721b58a874cbbe2d,2012-03,Essex Police,Essex Police,0.328178,51.472460,On or near CONWAY GARDENS,E01015952,Thurrock 017B,Offender sent to prison
+ec4e7320ddfbe484b4199e46a5020224f6a115de679d337be6fa5dca6c38f835,2012-03,Essex Police,Essex Police,0.281698,51.489840,On or near Parking Area,E01016011,Thurrock 015B,Offender given conditional discharge
+79f29ac14a5f85146ffa758ebc14dfe1d99b37e829d435edf2b2c10cfe50d986,2012-03,Essex Police,Essex Police,0.581944,51.530612,On or near THE RIDINGS,E01021504,Castle Point 008C,Offender given community sentence
+95e5f2d3645d490901e498198097ae04f6371e8aa5c9e7c9a8155b9f7c448888,2012-03,Essex Police,Essex Police,1.152215,51.788718,On or near Shopping Area,E01022025,Tendring 016B,Offender fined
+b253229d22f8b01f2bbae284a5ba3a3052f5d937f23d051730ae672e173a62ca,2012-03,Essex Police,Essex Police,0.484654,51.736715,On or near Prison,E01021627,Chelmsford 010E,Offender given community sentence
+0020c3de70484989055e1b254d4804421ac5e1388090725c4e54e759e8b87d53,2012-03,Essex Police,Essex Police,0.072575,51.656365,On or near HILLYFIELDS,E01021779,Epping Forest 011F,Offender given community sentence
+b1d712d9dc1b7375ea94ef702501d761ec32c9c2cabdff94002ec64259651f74,2012-03,Essex Police,Essex Police,0.720616,51.537397,On or near HASTINGS ROAD,E01015841,Southend-on-Sea 014C,Offender sent to prison
+cf8c9288a7ffae77d0126ca17a02dc09faec95e6b420b59772a0f002a3fd28bc,2012-03,Essex Police,Essex Police,0.735048,51.536126,On or near SANDRINGHAM ROAD,E01015892,Southend-on-Sea 016D,Offender fined
+753bf6a8bffcd3d4439d38c54cb2c7363872cbbc8a753cd5398120b734bf16b4,2012-03,Essex Police,Essex Police,0.482378,51.737204,On or near TURKEY OAKS,E01021627,Chelmsford 010E,Offender given conditional discharge
+6b3f9bcfacb4ff23e0487c7b91a0d3e73c23b00595d264e0e7fa439299c23bf2,2012-03,Essex Police,Essex Police,0.694218,51.536567,On or near STATION ROAD,E01015851,Southend-on-Sea 015A,Offender given community sentence
+7f19c411d00e1374dc54ef2d60eb57d35a39894911a21e4c6a2949e504cd5e32,2012-03,Essex Police,Essex Police,0.548621,51.896672,On or near BLENHEIM CLOSE,E01021354,Braintree 008A,Offender given community sentence
+c02cd584e9dbc5f523cfb61366cf8bd5d0a5d266d32e0c26838c60f1c5210f18,2012-03,Essex Police,Essex Police,0.322008,51.478851,On or near QUARRY HILL,E01015956,Thurrock 016B,Offender given conditional discharge
+34184726bcd695212e33d104a727197732745e0c03b001659f7c175b8a83d444,2012-03,Essex Police,Essex Police,0.371146,51.484927,On or near PHILIPPA WAY,E01015934,Thurrock 012B,Defendant found not guilty
+b2c7dc414ec956b3a021b97822cb48fe6a06c08e9a471006ea355f43fed7e80b,2012-03,Essex Police,Essex Police,0.718800,51.547826,On or near SYCAMORE GROVE,E01015898,Southend-on-Sea 010D,Offender sent to prison
+d7b090e806c0bf4084aadf2530f327312e158088460d8660f1cacf8b6f1cd143,2012-03,Essex Police,Essex Police,0.085955,51.751206,On or near BROCKLES MEAD,E01021863,Harlow 011B,Offender sent to prison
+27556166c551d98adc75cb1317b69849aa288c6866639661df3d005f66f07e09,2012-03,Essex Police,Essex Police,0.213059,51.979889,On or near Petrol Station,E01022072,Uttlesford 003C,Offender given community sentence
+52efd04d91109ec846337a68c183a87c2c54809da563615a687717afad9ddf54,2012-03,Essex Police,Essex Police,0.295987,51.481513,On or near SANTIAGO WAY,E01033610,Thurrock 019B,Court case unable to proceed
+1e3f0720f3c2a3cafa0e107ce763f3283bc45c3d0ce8e9c49f53e347a1e57833,2012-03,Essex Police,Essex Police,0.833138,51.661769,On or near STATION ROAD,E01021906,Maldon 006D,Offender given conditional discharge
+2c081a041dfcc3c8061df2259ade2b400916bab682b901a121f7cda2f347058a,2012-03,Essex Police,Essex Police,0.754627,51.814846,On or near TEW CLOSE,E01021643,Colchester 019A,Court case unable to proceed
+2165c2b9cadc46ec0b79a488c5cbaffd6e0e38015097ad541312edbc7e840ff0,2012-03,Essex Police,Essex Police,1.148823,51.795195,On or near Supermarket,E01022026,Tendring 016C,Offender given suspended prison sentence
+c5312975c4dfc45b7f45859caa37b7ea04722f4cd4c45e36d15e675612efe4e9,2012-03,Essex Police,Essex Police,0.234340,52.011887,On or near MAYPOLE CLOSE,E01022074,Uttlesford 002A,Offender given community sentence
+05f2b7ac6293c85ce2f872831bc8f1779aaca9c53ec6bc914256bee8357dd972,2012-03,Essex Police,Essex Police,0.302120,51.618869,On or near Supermarket,E01021436,Brentwood 007B,Offender given conditional discharge
+40ff2fc5cc705394e5b88670c0ea7d566ba6a0c70889d2a3a1d7d55739b904de,2012-03,Essex Police,Essex Police,0.462713,51.570912,On or near Parking Area,E01021318,Basildon 015C,Offender sent to prison
+da0d13a4f33d4cd23091fea5864ca6704f35faad398d3974cdaffa91726ade02,2012-03,Essex Police,Essex Police,0.582766,51.869793,On or near Petrol Station,E01021380,Braintree 012E,Offender given conditional discharge
+f5bd696bfe24b0b5a15e39d824c07c4418133c539b9dc4d14a5113852a49c5c7,2012-03,Essex Police,Essex Police,0.522317,51.857580,On or near Supermarket,E01021385,Braintree 013D,Offender fined
+3e8eaca734b0506c3ea54b600c7dce9060311a17791890a6f2a303a0636e9f1e,2012-03,Essex Police,Essex Police,0.890986,51.879689,On or near CIRCULAR ROAD WEST,E01021651,Colchester 013A,Offender fined
+03499fae7e403d20ad74e01393318605aa93b4d5cfad531112b092b33067d93a,2012-03,Essex Police,Essex Police,0.001939,51.685341,On or near Supermarket,E01021818,Epping Forest 009C,Offender sent to prison
+3d49c17197f60eab9cc457d2123e832aa9c85469cd2fe9fbe8d050dc60ff397d,2012-03,Essex Police,Essex Police,0.808631,51.553300,On or near Supermarket,E01021923,Rochford 010D,Offender sent to prison
+7ce32adc8def7b26b07dc79e9921b3c229754e8961eee0100dacb19c35f55655,2012-03,Essex Police,Essex Police,0.430399,51.570066,On or near ORCHID PLACE,E01021288,Basildon 016B,Offender given conditional discharge
+50a1035f557497116d2c64b15d7453ebd4803e60f6a27b5a60a73de81d40fcf5,2012-03,Essex Police,Essex Police,0.899168,51.910173,On or near Hospital,E01021682,Colchester 004D,Offender given community sentence
+816a440bc36e23f048985b3e6a494c5688e0e5e9146f5bbaa3ae91bca4727e68,2012-03,Essex Police,Essex Police,0.893532,51.917264,On or near Parking Area,E01021680,Colchester 004B,Offender ordered to pay compensation
+b5355a475a3e1984d59cd5a32b9203304530870e0abf16e992343079cf61bac9,2012-03,Essex Police,Essex Police,0.712013,51.538486,On or near Nightclub,E01015852,Southend-on-Sea 015B,Offender sent to prison
+9777839c52e1aaf1fb7dbea26c56d4d8b754a05eabd864aea38edff815f65cb2,2012-03,Essex Police,Essex Police,0.907243,51.883911,On or near MILL STREET,E01021686,Colchester 011D,Offender sent to prison
+d98b2d60e358f5795924e684f3f51df47d0bb75599d13cb8ef01547ec80b5fed,2012-03,Essex Police,Essex Police,0.691346,51.537254,On or near Parking Area,E01015851,Southend-on-Sea 015A,Defendant found not guilty
+d4cd179e7de00f0e514312aebf143e81177c72c1339555116ecdc829ae432422,2012-03,Essex Police,Essex Police,0.243970,52.011829,On or near HILL TOP LANE,E01022082,Uttlesford 002G,Offender given community sentence
+884f1c8f3f62c8d029e74f72f73145a254e203167c06aa45814f82b287ba2921,2012-03,Essex Police,Essex Police,1.154883,51.790382,On or near HIGH STREET,E01022025,Tendring 016B,Offender sent to prison
+87735fd463c73efac3b151fbf8e3c897a9e639c5a871bfcc8abcf409cf37ed6d,2012-03,Essex Police,Essex Police,1.262339,51.846154,On or near BUTCHERS LANE,E01022055,Tendring 006D,Defendant found not guilty
+a986089f1b597e261a58963aaa47b4b0b69fcae1ef66ef778349987fecde70c0,2012-03,Essex Police,Essex Police,0.793316,51.539519,On or near Parking Area,E01015880,Southend-on-Sea 013E,Offender sent to prison
+2f58e63e9e2b5d728e2847a5177426f0966025a95292d77ee9d7edc3e4552520,2012-03,Essex Police,Essex Police,0.893012,51.922080,On or near BOXTED ROAD,E01021680,Colchester 004B,Offender given conditional discharge
+e6a4ac1fc03b876cebcd9b614c512d08fcb2ae88b760184539d3b65adbf37927,2012-03,Essex Police,Essex Police,0.900116,51.889231,On or near Shopping Area,E01021649,Colchester 007D,Offender sent to prison
+95ab237730c321a12118c6c9842232299bb8966ac9ff2a200a1822be25c96f03,2012-03,Essex Police,Essex Police,0.093567,51.769182,On or near Shopping Area,E01021872,Harlow 007E,Offender fined
+4b564e9b2d5435d7b7928ddd84c7c8025bf0859d8a46de78de69526d7eedba8d,2012-03,Essex Police,Essex Police,0.775746,51.534971,On or near LONGSANDS,E01015917,Southend-on-Sea 017D,Offender sent to prison
+6afdb85b1f5e34b2c1951851bbf53ee48103a9478d9b05def6e5b75e36211179,2012-03,Essex Police,Essex Police,0.786680,51.536187,On or near ANSON CHASE,E01015882,Southend-on-Sea 013G,Offender sent to prison
+1a8b8438cffe268232029ae6a5b7b384f53529585d47cce947bba29b51557b3e,2012-03,Essex Police,Essex Police,0.584890,51.549766,On or near ROUND HILL ROAD,E01021483,Castle Point 004C,Offender sent to prison
+0c3c7983bf3384d99b33f25943268202902094d2a2cfdd02f467e578b1c91782,2012-03,Essex Police,Essex Police,0.724923,51.532971,On or near Supermarket,E01015842,Southend-on-Sea 014D,Court case unable to proceed
+91ad4ba6c44f282af7a0608c69dcfaddc669da890a98bae8c7431000cbb73535,2012-03,Essex Police,Essex Police,0.335461,51.484807,On or near Petrol Station,E01015960,Thurrock 014A,Offender otherwise dealt with
+cc4dd4230abeb74393a502aa8c129a05a668ab00faf525a8d3ac268928a0ffb3,2012-03,Essex Police,Essex Police,0.634375,51.936987,On or near RONALD ROAD,E01021391,Braintree 004C,Offender given community sentence
+5d81b06ebb25ff42aa1b7f4ef7026a6dcd6bc464cf16aa757e5f9e9b2d777a67,2012-03,Essex Police,Essex Police,1.184913,51.804259,On or near Parking Area,E01022033,Tendring 012B,Offender given suspended prison sentence
+d6afebeef2b2501387f5cb7cd179404a3f65a5e95efab7ebe0f1354f4e320112,2012-03,Essex Police,Essex Police,0.744988,51.548646,On or near WICKMEAD CLOSE,E01015887,Southend-on-Sea 009E,Offender given community sentence
+024f31545fe60571be038629fc55cb874868a055caccd3b95e403f9fd76e6013,2012-03,Essex Police,Essex Police,0.899119,52.165534,On or near BRETTENHAM ROAD,E01030063,Mid Suffolk 009A,Offender given community sentence
+7676842ec844151dfbf93e52ae8916104ba713b93fe9aca2662b59682979d1dd,2012-03,Essex Police,Essex Police,0.093027,51.753436,On or near Supermarket,E01021859,Harlow 010C,Court case unable to proceed
+8e156cd499a8cf231028d9b2286be392a2ee4143da64c82febc55238a41bbca9,2012-03,Essex Police,Essex Police,0.632757,51.936933,On or near LOCK ROAD,E01021391,Braintree 004C,Offender given community sentence
+2ff03066452dcd81a1d69f8c5413781b05893e18ac137e9b57f711d16ec3e650,2012-03,Essex Police,Essex Police,0.686001,51.556937,On or near ROCHESTER MEWS,E01015859,Southend-on-Sea 004C,Offender given community sentence
+58e5f3d051ab90371483f808334821e981753a3c2503b516e89b47ae476118b6,2012-03,Essex Police,Essex Police,0.899199,51.888534,On or near TRINITY STREET,E01021649,Colchester 007D,Offender sent to prison
+b88944d6f6c4559081b6f39ffeb7a30534b5752240ff13c3af2ad48848f7c6e6,2012-03,Essex Police,Essex Police,0.927784,51.882879,On or near HAWKINS ROAD,E01033719,Colchester 008G,Offender given community sentence
+b89d5670504608784ee390f5e965549187efba46e756b7668989377c1ec59599,2012-03,Essex Police,Essex Police,0.082951,51.645552,On or near Parking Area,E01021776,Epping Forest 011C,Offender given community sentence
+95ddab228e8b4c029adbff210cd1016320382fea05c4ddcc9f5b0dc637b4ac2e,2012-03,Essex Police,Essex Police,0.056189,51.634208,On or near SUTTON CLOSE,E01021785,Epping Forest 014D,Offender given conditional discharge
+ae8b502fab383deee05afe07f174a5f8b8069131c2f02592e73d6ef89259fcbc,2012-03,Essex Police,Essex Police,0.451553,51.729146,On or near CHARNWOOD AVENUE,E01021631,Chelmsford 009E,Offender sent to prison
+329014ac376d07a4c9ccfaf56ba8e3769fd1892ba6a233c0326cde11f8b85cda,2012-03,Essex Police,Essex Police,0.462186,51.721478,On or near Petrol Station,E01021556,Chelmsford 012A,Offender fined
+5faf1f78b5182a1360310e3464054d448e15febc8ab193ac3eb82fda8ff1dacc,2012-03,Essex Police,Essex Police,0.701065,51.539917,On or near NORTH ROAD,E01015856,Southend-on-Sea 015F,Offender given community sentence
+5973f66f1b148afaa87d682cf6de1d8b618f9685e078677902cabc923ad2e316,2012-03,Essex Police,Essex Police,0.113519,51.768429,On or near LONG LEY,E01021852,Harlow 003D,Offender given community sentence
+69c705e8411434a47e8457a8844059ce919dfe9c6f5e30bb4d157d0e2ece55ab,2012-03,Essex Police,Essex Police,0.634446,51.943649,On or near BRIDGE STREET,E01021387,Braintree 004A,Offender sent to prison
+c8338aad1034ed8fd6928c848f9e807bb8861ebaccc6fa93d44092a47418597c,2012-03,Essex Police,Essex Police,0.688475,51.872577,On or near CHURCH STREET,E01021378,Braintree 014B,Offender fined
+71938116551e7c057393f197869407749344bf677b3d46a128d0708a6191f6f2,2012-03,Essex Police,Essex Police,0.291281,51.625942,On or near THE RETREAT,E01021432,Brentwood 004B,Offender given suspended prison sentence
+aa24f01ff76e1326ecc9ca7b5b6aca8f6fc0a3466f852f0bd23b5017b61b3ede,2012-03,Essex Police,Essex Police,0.472270,51.734594,On or near TINDAL STREET,E01033141,Chelmsford 010G,Offender given community sentence
+170a531c8f5fd327f47b5b42c177dfb66765edfe02aaa2f81196bda1890dbb64,2012-03,Essex Police,Essex Police,0.696507,51.588417,On or near SANDON CLOSE,E01021930,Rochford 007A,Offender sent to prison
+ebbc4d3b4635d304423632054ec7a8f22e00f61f88130386f312e687f2c84da6,2012-03,Essex Police,Essex Police,0.070826,51.752094,On or near SYCAMORE FIELD,E01021865,Harlow 009E,Offender fined
+c5122a88c45650525c721cee2edab747faf98a595d73cc73cca2bd8dc4a5a2e5,2012-03,Essex Police,Essex Police,1.148823,51.795195,On or near Supermarket,E01022026,Tendring 016C,Offender sent to prison
+d013f26dd8c033ad04da2a63e5234e8146d8fed1bcf67fdf5034687bff76bdbb,2012-03,Essex Police,Essex Police,1.287088,51.945122,On or near GEORGE STREET,E01021997,Tendring 001A,Offender given conditional discharge
+632385ddaa9c0f21903d9a7b34da864482ffe580e2d86fd7a30b5cb0772b35a4,2012-03,Essex Police,Essex Police,0.559416,51.623738,On or near A1245,E01021594,Chelmsford 021B,Offender sent to prison
+bd3bb3c01eb0c6f679adc6a75eb66459bab18cbc2c59646b04fe53c0a0cba9d1,2012-03,Essex Police,Essex Police,0.648950,51.945815,On or near HAUBOURDIN COURT,E01021388,Braintree 004B,Offender given absolute discharge
+1cc79db221e5b22400067f74bbaa98a0cc3dcb000607ac4badc97dc4ed94e1a0,2012-03,Essex Police,Essex Police,0.463490,51.569268,On or near Supermarket,E01021318,Basildon 015C,Offender fined
+f72c60fbd723a74cef50384fc958a9d5b1da354d318fb7ae2c3023500ded2135,2012-03,Essex Police,Essex Police,0.482637,51.565249,On or near RAVENSCOURT DRIVE,E01021327,Basildon 019E,Defendant found not guilty
+63057b735e66d64c8df305329d498827f436875afa473064938448c44ad40291,2012-03,Essex Police,Essex Police,0.899707,51.884681,On or near FLAGSTAFF ROAD,E01021683,Colchester 011A,Offender sent to prison
+a61af69880cb11ce48f168465b488deca0cd07fa3498f6ef3ff47f4939af88ea,2012-03,Essex Police,Essex Police,0.090994,51.771224,On or near Petrol Station,E01021872,Harlow 007E,Offender ordered to pay compensation
+153d29c784aab9e39b2b9b7df9eb6a81628de1e6b4f2796b18100cc15211f3eb,2012-03,Essex Police,Essex Police,0.449290,51.521470,On or near WARBURTONS,E01015983,Thurrock 002B,Offender fined
+a95ba60e5c0ba85d540068e9e43b2e45099131a5aeba0673390e579e3808a926,2012-03,Essex Police,Essex Police,0.456959,51.570727,On or near Shopping Area,E01021318,Basildon 015C,Court case unable to proceed
+6690c9a6ae3f7dcc4aa023934fb6bc80f14e1ebe85c680fed03d9fdea11ee33a,2012-03,Essex Police,Essex Police,0.900435,51.889439,On or near Shopping Area,E01021649,Colchester 007D,Offender given community sentence
+5e4d7f2f58ceb40649151d74424dbe9f24e9a4ea3bd3761e1a92e640242c4114,2012-03,Essex Police,Essex Police,0.739689,51.550722,On or near LINCOLN CLOSE,E01015886,Southend-on-Sea 009D,Offender sent to prison
+a2f31303fb340b5fbbb1d2cc9e543a0506dc241d5b566760d0b5ed6f6bd5ac40,2012-03,Essex Police,Essex Police,0.579404,51.532611,On or near ELSINOR AVENUE,E01021504,Castle Point 008C,Court case unable to proceed
+12e97eaf8379ef839b70957c35f3ab54a3dd3826807900b4513ce992d82b6270,2012-03,Essex Police,Essex Police,0.469663,51.575056,On or near GIPPESWYCK,E01021266,Basildon 015A,Offender given community sentence
+f2a5105e8c463f592f88b9ac1cd5464fb76de63510c5e6bfb5eb6d5fbe4e9f33,2012-03,Essex Police,Essex Police,0.694077,51.540276,On or near Supermarket,E01015855,Southend-on-Sea 015E,Offender given suspended prison sentence
+3adf50290212251dd80b0e1ac6bc734e415f5a054f5869fd96f8700935654d37,2012-03,Essex Police,Essex Police,0.634446,51.943649,On or near BRIDGE STREET,E01021387,Braintree 004A,Offender sent to prison
+8064ffb4ab64dd65d3576b52fc80db373a3e1dc14d81ee8bad09a9b393db0066,2012-03,Essex Police,Essex Police,0.863500,51.881405,On or near PLOUGH DRIVE,E01021693,Colchester 014E,Offender given community sentence
+c65936e45056be020780d666870c02ac83e3e96cf21b3e861d8c69fc42ac71a9,2012-03,Essex Police,Essex Police,0.897825,51.889081,On or near CULVER STREET WEST,E01021649,Colchester 007D,Offender given suspended prison sentence
+9af3d4d6d045bc192e4e181c46be37e7bd0dbc95dbc8cbf31bc39ced306b7d7c,2012-03,Essex Police,Essex Police,0.889018,51.866445,On or near BERECHURCH ROAD,E01033723,Colchester 015G,Offender sent to prison
+03bb8273300745de36067d7fae894a982149e6511fdb22b6adf4985bf1948136,2012-03,Essex Police,Essex Police,0.717558,51.548278,On or near CHESTNUT GROVE,E01015897,Southend-on-Sea 010C,Offender fined
+6c47fa3690ae07d85358bb2a20fc73d45b8e1a7d73758f3fc8b3627535b77264,2012-03,Essex Police,Essex Police,0.780740,51.539296,On or near Supermarket,E01015882,Southend-on-Sea 013G,Offender given conditional discharge
+3a9e3cc55b1d6350a176511ca393b322cdd81e4f3d411e1c1709d9a946cef1b0,2012-03,Essex Police,Essex Police,0.737702,51.536136,On or near HUNTINGDON ROAD,E01015894,Southend-on-Sea 016F,Defendant found not guilty
+197c38e9b02daa5db1c33c208b754775e6a0e67d485d13db96b7b34d130de5b7,2012-03,Essex Police,Essex Police,0.495881,51.732790,On or near Shopping Area,E01021547,Chelmsford 008D,Offender fined
+c2d5b61a4b9610723d3fe1db0a79d4312865a488fab67f4506b3b9a4dd9421f6,2012-03,Essex Police,Essex Police,0.639707,51.799461,On or near Newland Street,E01021416,Braintree 017B,Offender given suspended prison sentence
+13d5639cb4f52cafae3efd8bd79006c34ecee58c76e4857173109f5a0ec2a423,2012-03,Essex Police,Essex Police,0.579766,51.520129,On or near THAMESIDE CRESCENT,E01021485,Castle Point 010A,Offender given conditional discharge
+2ace8e3010bc5bd03f0f2f135e62aab55cdfee41113545b894da21c08bcbd986,2012-03,Essex Police,Essex Police,0.362142,51.873127,On or near MARKET PLACE,E01022069,Uttlesford 008D,Court case unable to proceed
+182ac3c9c803db98ed5b80d2f1b01876abffbb808dc02dfdd794a11deaf4454c,2012-03,Essex Police,Essex Police,0.711264,51.538980,On or near Parking Area,E01015854,Southend-on-Sea 015D,Offender ordered to pay compensation
+3a9e3cc55b1d6350a176511ca393b322cdd81e4f3d411e1c1709d9a946cef1b0,2012-03,Essex Police,Essex Police,0.737702,51.536136,On or near HUNTINGDON ROAD,E01015894,Southend-on-Sea 016F,Offender fined
+2f294b48d212215ac6311f719d94622c6990678fed94d327262e234aab266a9d,2012-03,Essex Police,Essex Police,0.634446,51.943649,On or near BRIDGE STREET,E01021387,Braintree 004A,Offender sent to prison
+1009c8364c34a967fe9988f69a6144ef03b6b80b76851ddcd0773d3e53418438,2012-03,Essex Police,Essex Police,0.681655,51.548295,On or near FAIRMEAD AVENUE,E01015903,Southend-on-Sea 007C,Offender given conditional discharge
+ce4321666a16deb49a9b5eb2488bf0077513fd2b7465292a7c3df2f38e0e2502,2012-03,Essex Police,Essex Police,0.896245,51.888706,On or near HEAD STREET,E01021649,Colchester 007D,Offender fined
+430f01330632c4b920cf94a8172c25d3eb0877c0248b78d57113808de708a81f,2012-03,Essex Police,Essex Police,0.891763,51.887710,On or near CROUCH STREET,E01021649,Colchester 007D,Offender sent to prison
+5fa29201d7e7dde50e374e65e62659908090007db43327ac7757468f901244c6,2012-03,Essex Police,Essex Police,1.284054,51.941438,On or near ALEXANDRA STREET,E01021998,Tendring 001B,Defendant found not guilty
+ae0bf671e37453cb3ea26daed4b26cc30cccc2cec8aa76f029b8bd0b50d3d286,2012-03,Essex Police,Essex Police,0.508821,51.568281,On or near CORFE CLOSE,E01021316,Basildon 018D,Offender given community sentence
+d6643a69f483e7ec5fe785150488dfdae545eca1f9468110fceaa782a3234912,2012-03,Essex Police,Essex Police,0.475387,51.732801,On or near Shopping Area,E01033140,Chelmsford 010F,Offender given community sentence
+6d209a35e7f5605a2d99c4d079f46cfda498a158d0a88106913be65903298da8,2012-03,Essex Police,Essex Police,0.818683,51.625297,On or near HIGH STREET,E01021880,Maldon 008E,Defendant found not guilty
+35e5327fed37b57a2e78aeb8f562ef139a949678ca3e448a7887e34dea94336f,2012-03,Essex Police,Essex Police,1.281904,51.938314,On or near VICTORIA STREET,E01022001,Tendring 001D,Defendant found not guilty
+e5f0dfd01241a67c19a49ceee85a13b46c451c7e5f97bfd36e923ddd9fd1c3e3,2012-03,Essex Police,Essex Police,0.455364,51.569789,On or near Shopping Area,E01021318,Basildon 015C,Offender deprived of property
+931a4429bdd592783719509bd2c8c99be49808af8c499758c84bb9faef8d8009,2012-03,Essex Police,Essex Police,0.600356,51.556628,On or near Petrol Station,E01021520,Castle Point 006C,Offender given community sentence
+73f8abc4878b02f48b54d6d90449835bf58d6aaf60abe768ec380692cb62e8ea,2012-03,Essex Police,Essex Police,0.683177,51.725882,On or near HORTON CLOSE,E01021889,Maldon 004A,Offender given suspended prison sentence
+57e0b96843cf6c544e41bccbd53bfc171078b182f9aa8f383e243798fa6d1652,2012-03,Essex Police,Essex Police,0.693976,51.539541,On or near HAMLET COURT ROAD,E01015855,Southend-on-Sea 015E,Offender sent to prison
+fefc593555b2732652913421601a9424ce4bb9dd24dad4370fce6ecf22eb3919,2012-03,Essex Police,Essex Police,0.442166,51.663522,On or near BACK LANE,E01033143,Chelmsford 018E,Offender given conditional discharge
+37bb950df58f6864dc91cd2914178cae37a68fec27b2747afeb920f763309741,2012-03,Essex Police,Essex Police,0.322759,51.475778,On or near HIGH STREET,E01015954,Thurrock 017D,Offender sent to prison
+488da9ad3df565b545a665b45407fe6360e2ea69f8839e9dc3d3c0bdac7a6ea5,2012-03,Essex Police,Essex Police,0.300242,51.620299,On or near Nightclub,E01021433,Brentwood 007A,Offender fined
+00422a5160ecb91d751962a069ad2e3c3d6e5e82ffed50cb8c0c28fa5be50feb,2012-03,Essex Police,Essex Police,0.897825,51.889081,On or near CULVER STREET WEST,E01021649,Colchester 007D,Court case unable to proceed
+914da08bd8505fa6121a02213ee26815b1eb984110088af1eca0c7a1ed1d3dea,2012-03,Essex Police,Essex Police,0.053305,51.643628,On or near OLD STATION ROAD,E01021781,Epping Forest 014B,Offender given suspended prison sentence
+81a940fb7cb00d6b4ee14376096308102075a91bb674c91ac23c3d2f2d681229,2012-03,Essex Police,Essex Police,0.369893,51.482974,On or near MARISCO CLOSE,E01015934,Thurrock 012B,Offender fined
+eed44beae00faf0770ffed3efd8f7bc81051e4b1efdac30f1e3f0ca6167233d3,2012-03,Essex Police,Essex Police,0.911734,51.880985,On or near MYRTLE GROVE,E01021688,Colchester 011F,Offender otherwise dealt with
+4f32bd1392a9c1a96c4205de2a76c04eb2d916179456b3eff5f8f9e5004cc4c6,2012-03,Essex Police,Essex Police,0.468148,51.728322,On or near ANCHOR STREET,E01021582,Chelmsford 010D,Offender given suspended prison sentence
+67c0fd65b127112e676d095add36452125b5f95045fc575c58050f11a21f82d5,2012-03,Essex Police,Essex Police,0.580263,51.531728,On or near SOMNES AVENUE,E01021504,Castle Point 008C,Defendant found not guilty
+10eaf182ef4641e9add132a1a43d626fb5df5c94dc113905c56974cbfd4da093,2012-03,Essex Police,Essex Police,0.456959,51.570727,On or near Shopping Area,E01021318,Basildon 015C,Offender fined
+b2d4562e57e8a0bb89534039623a8be4b1d187bcfb2881f641da3a517c59b89a,2012-03,Essex Police,Essex Police,1.184913,51.804259,On or near Parking Area,E01022033,Tendring 012B,Offender given suspended prison sentence
+7e872f678aad3d697c1f6fa7f0275af229f88275ec5e6f4df6e8cd7acdef8ac6,2012-03,Essex Police,Essex Police,0.095357,51.767783,On or near Shopping Area,E01021872,Harlow 007E,Offender fined
+acc9ac5c416877d0f0ecc69857d49b77a490725688bb9dd4739f20c64a85adac,2012-03,Essex Police,Essex Police,0.427778,51.569896,On or near IRIS MEWS,E01021286,Basildon 016A,Offender given community sentence
+5c7fcabe8b2c9b32367a010fa990f00d358da1f0ce87762fb2d85310a018d9a7,2012-03,Essex Police,Essex Police,0.900435,51.889439,On or near Shopping Area,E01021649,Colchester 007D,Offender fined
+cba9fcde589e7a6d9c35e814e127de04d7a06737043fadcaa8298d1d61a938fc,2012-03,Essex Police,Essex Police,0.096056,51.768166,On or near SOUTH GATE,E01021868,Harlow 007B,Offender given community sentence
+ee2bc1c3353a62f94b6181d1e8edeae95899386067762eb33c7517a19e724815,2012-03,Essex Police,Essex Police,0.743713,51.816963,On or near STORES ROAD,E01021727,Colchester 020E,Offender sent to prison
+210f941f215bb2cbabe089f06bc22f95d9dc44c0ea6fc3422e3454888ff60efc,2012-03,Essex Police,Essex Police,0.636104,51.944376,On or near Supermarket,E01021387,Braintree 004A,Offender sent to prison
+085ef7744cea9448348fac7354ce0f05e1943777a8106f912f3ca3536d4d845e,2012-03,Essex Police,Essex Police,0.300242,51.620299,On or near Nightclub,E01021433,Brentwood 007A,Offender fined
+961d839bb9b47748a788f991f75d21bb6251fc3546cd24ce9cebfba0eb16d2ea,2012-03,Essex Police,Essex Police,0.452040,51.569967,On or near ROUNDACRE,E01021318,Basildon 015C,Offender sent to prison
+210f941f215bb2cbabe089f06bc22f95d9dc44c0ea6fc3422e3454888ff60efc,2012-03,Essex Police,Essex Police,0.636104,51.944376,On or near Supermarket,E01021387,Braintree 004A,Offender sent to prison
+7109bef083a898cf79f8a7b8c37a9ec4ddce9e45efe222c5208809170da49750,2012-03,Essex Police,Essex Police,0.361679,51.461709,On or near CALCUTTA ROAD,E01016009,Thurrock 018G,Offender given community sentence
+3902d5914641fe5dd89bc9a08fc4011cca4f213b8033a08034c66f68d345d5c1,2012-03,Essex Police,Essex Police,0.713041,51.540981,On or near Parking Area,E01015895,Southend-on-Sea 010A,Offender given community sentence
+f97f0cc109ad19edc1d2074cc8e107a24acaa755a129a3be4da5ebd3b8356464,2012-03,Essex Police,Essex Police,0.204718,51.645577,On or near MURTHERING LANE,E01021443,Brentwood 001C,Offender given community sentence
+5f3a2cb1bb1e4260c550e8489fd7ddfd929df9cf9e086f3aaa978002018cb353,2012-03,Essex Police,Essex Police,0.471839,51.572348,On or near THISTLEDOWN,E01021318,Basildon 015C,Court case unable to proceed
+65cdfb1a91586995ec19e9e721890dc00d60d65f63afda1fdbd0597af282c769,2012-03,Essex Police,Essex Police,0.628246,51.810896,On or near LARKSPUR CLOSE,E01021426,Braintree 015E,Offender given community sentence
+ff996f4294616464bf79b04271c89fa98921b4de9667f7cdab50af2417f703a9,2012-03,Essex Police,Essex Police,0.362613,51.464738,On or near SOUTH VIEW AVENUE,E01016010,Thurrock 018H,Offender sent to prison
+ab7892a9902f70cd19b6dadc20ab0be21ad4f2121e8bb5f4e92ae6e0df04b6ba,2012-03,Essex Police,Essex Police,0.357310,51.461302,On or near DOCK ROAD,E01016003,Thurrock 018A,Offender fined
+63e79da1ac8434bebaddf392553cd94910e6eb1ad69994d2e2b14b179146b822,2012-03,Essex Police,Essex Police,0.161240,51.814394,On or near STATION ROAD,E01021795,Epping Forest 001B,Offender given conditional discharge
+ded789b8f08ee7c0260aa1452e656bf418e18d5e90bd68bca9edce9e73684b60,2012-03,Essex Police,Essex Police,0.268305,51.599536,On or near M25,E01002296,Havering 007C,Offender given community sentence
+81f028c617f8e74d6bbd328cada95609ea048d6f5804e7ca0ee9d2ef83a9e4db,2012-03,Essex Police,Essex Police,0.504899,51.577250,On or near MALYONS MEWS,E01021302,Basildon 013B,Offender sent to prison
+3a6f6e549f4ad830e87e1c98f39c04676410136123451a0bab1f83af15a236c3,2012-03,Essex Police,Essex Police,0.684100,51.561163,On or near Supermarket,E01015868,Southend-on-Sea 002F,Offender sent to prison
+0a7adc1ad447fa9e47ae5b49a5ccc69d01a5415ba1f570d2ce3773563f9cd62e,2012-03,Essex Police,Essex Police,0.605828,51.585708,On or near Shopping Area,E01021962,Rochford 008C,Offender sent to prison
+b676bb6dbbe8da529fe72e4eb6bde8f901076f42fffd2c467c41c1828075503b,2012-03,Essex Police,Essex Police,1.113477,51.774407,On or near YEW WAY,E01021988,Tendring 018A,Offender fined
+f6807a9e1e46351df172956981a4b25bb6dc688d9f94daa84286ea322a953a12,2012-03,Essex Police,Essex Police,0.586713,51.591545,On or near LATCHINGDON CLOSE,E01021958,Rochford 006D,Court case unable to proceed
+9300e42d5159b998cb22f480804b378631f525210d38348327d0c7bb01ae6b57,2012-03,Essex Police,Essex Police,0.735950,51.551879,On or near HAMSTEL ROAD,E01015875,Southend-on-Sea 006G,Offender otherwise dealt with
+15e5d5db055ceb2a00fee54c710313d42f5b2be92f749b723262e5375a006284,2012-03,Essex Police,Essex Police,0.635700,51.934016,On or near TIDINGS HILL,E01021382,Braintree 003A,Offender given community sentence
+d1b69fbbe3ddf4cd19a63bdcc5bf653aa1fb4bff0b53d9fedcc91537a68f3066,2012-03,Essex Police,Essex Police,0.132511,51.766089,On or near Supermarket,E01021827,Harlow 005D,Offender sent to prison
+814ef40a339513e1df87d45479defc4e70c5d4c638277b505f696947b334a18b,2012-03,Essex Police,Essex Police,0.905583,51.879797,On or near Supermarket,E01021684,Colchester 011B,Offender sent to prison
+d5b97917a0a16c62c2521197c1cc17ee3a4774a64bb224c5d2820c1a80f383f7,2012-03,Essex Police,Essex Police,0.336191,51.475134,On or near CHURCH STREET,E01015962,Thurrock 016E,Offender given suspended prison sentence
+494fd743e0f74c9826f4b97f260276bcbeccb075126deee174a8d0acd4b7b84b,2012-03,Essex Police,Essex Police,0.005685,51.685637,On or near HOWARD CLOSE,E01021818,Epping Forest 009C,Court case unable to proceed
+9a97d5cd742f3253e8c30cf72e51e250acd281e7239be7cb6e200f55caa4b197,2012-03,Essex Police,Essex Police,0.474190,51.732359,On or near Shopping Area,E01033140,Chelmsford 010F,Offender fined
+160a89b91f6ad90866bf4709099d010cd3c6289c98960b2e42c72f210f920a09,2012-03,Essex Police,Essex Police,0.299874,51.605585,On or near TYRELL RISE,E01021472,Brentwood 008C,Offender sent to prison
+8440679dc6848814b011a96d599d574c0b71412c1b1ef9e57f6aa4f8ab514d96,2012-03,Essex Police,Essex Police,0.323992,51.477085,On or near Shopping Area,E01015954,Thurrock 017D,Offender fined
+ce27fe62378c4564cc4e37b2fc1293c32301889afa1adf6a969c81d14c98f408,2012-03,Essex Police,Essex Police,0.094895,51.770021,On or near Nightclub,E01021872,Harlow 007E,Offender given community sentence
+3d5ac76088524eac7b7a9c0cb649c2540b122607de27c98afd1580ccc0073e19,2012-03,Essex Police,Essex Police,0.452426,51.568286,On or near Petrol Station,E01021318,Basildon 015C,Offender given community sentence
+349cfae8cfcab47081d6e3e20fd4c8e6fd4694627bdd63d7493c5e5be309389e,2012-03,Essex Police,Essex Police,0.683177,51.725882,On or near HORTON CLOSE,E01021889,Maldon 004A,Offender fined
+0677fc11789318544d4c66e8a906db2a91204b13e8e9d660df44674f274fba0e,2012-03,Essex Police,Essex Police,0.900116,51.889231,On or near Shopping Area,E01021649,Colchester 007D,Offender given community sentence
+3750627831598664016334474f70ba1d1760292c4d0c643b3c88aa9a5fb7c734,2012-03,Essex Police,Essex Police,1.159236,51.793926,On or near SKELMERSDALE ROAD,E01022049,Tendring 014D,Offender fined
+c5782656bbff73aee9a3ab37608f3ab78e532694b21a179c8e1a066d9b057141,2012-03,Essex Police,Essex Police,0.095357,51.767783,On or near Shopping Area,E01021872,Harlow 007E,Offender given community sentence
+2345df8de089b0d86edd29e1bad38c55bd47965697601343a819e4d7e3b31bca,2012-03,Essex Police,Essex Police,0.905583,51.879797,On or near Supermarket,E01021684,Colchester 011B,Offender sent to prison
+8e20d971890035ee1a5c20f7c195508153d876ae7003d83b7591ae1705434b5b,2012-03,Essex Police,Essex Police,0.919670,51.912158,On or near TALLY HO,E01021668,Colchester 002A,Offender given community sentence
+68db5eec84fc5c2f84210cc8ad9f125438e683ec14e404300843b46efbda5c89,2012-03,Essex Police,Essex Police,0.701379,51.543022,On or near CLIFF AVENUE,E01015896,Southend-on-Sea 010B,Court case unable to proceed
+88fce5206245f4c09dcf0dc6f2db22da604ea7ddb8c57e753d2cf6315c2e8904,2012-03,Essex Police,Essex Police,0.095787,51.770176,On or near TERMINUS STREET,E01021872,Harlow 007E,Defendant found not guilty
+d9f331b2257c126e9ee5e5e35b86adb697cac18a031b1aaac785907d1cc2470c,2012-03,Essex Police,Essex Police,0.934897,51.889888,On or near VERONICA WALK,E01021699,Colchester 008D,Offender fined
+5a6639429da3f0ed856e0dd7bf6e65ace9e41fc966fa2eb3f084f773ce89ab16,2012-03,Essex Police,Essex Police,0.903944,51.886600,On or near BRITANNIA WAY,E01021683,Colchester 011A,Offender fined
+b62c016639d313a001e16bedc8c1234e5ee9076640b5434657567a9c22fd66b3,2012-03,Essex Police,Essex Police,0.830150,51.888121,On or near ESSEX YEOMANRY WAY,E01021718,Colchester 012A,Offender given community sentence
+f2295329078cf3e1860eb0d4b82ccb736a270557f8eb87460aaa3d988cf0200c,2012-03,Essex Police,Essex Police,0.454862,51.747720,On or near ANDERSON AVENUE,E01021596,Chelmsford 006E,Offender sent to prison
+677af14efd7d02f8d55da5cf5839bb1395764bf2a8c5bc9bd94a74cfb3d05534,2012-03,Essex Police,Essex Police,0.366870,51.466883,On or near GAINSBOROUGH AVENUE,E01016010,Thurrock 018H,Offender sent to prison
+d4cd179e7de00f0e514312aebf143e81177c72c1339555116ecdc829ae432422,2012-03,Essex Police,Essex Police,0.243970,52.011829,On or near HILL TOP LANE,E01022082,Uttlesford 002G,Offender given community sentence
+e507adb64a82155501a5e8f05f8362dc17c64505cd070d9d5a74461b28d05c99,2012-03,Essex Police,Essex Police,0.472504,51.567568,On or near MISTLEY SIDE,E01021295,Basildon 020B,Offender given community sentence
+85ddfdde7b0f1c79aa3b0b2a6e57f8e122f6553b813f39297350cfbcdb024428,2012-03,Essex Police,Essex Police,0.477535,51.737369,On or near ECKERSLEY ROAD,E01033141,Chelmsford 010G,Offender sent to prison
+d4cd179e7de00f0e514312aebf143e81177c72c1339555116ecdc829ae432422,2012-03,Essex Police,Essex Police,0.243970,52.011829,On or near HILL TOP LANE,E01022082,Uttlesford 002G,Offender given community sentence
+5931c27c23d7b366f0682786d360cd8a380d38aca8ab0c8e1630b1239b388d99,2012-03,Essex Police,Essex Police,0.113519,51.768429,On or near LONG LEY,E01021852,Harlow 003D,Offender fined
+f4bbfc7eee7571522ccaa754a8ed345f6f1b802f10359ee39db077f3aa3dc4d9,2012-03,Essex Police,Essex Police,0.509914,51.574499,On or near Pedestrian Subway,E01021304,Basildon 013C,Defendant found not guilty
+a940506d35b9bc556152f5adc2a01bcd29a3aa760bf6e28de603ca0a0e4cc059,2012-03,Essex Police,Essex Police,0.706444,51.540387,On or near LONDON ROAD,E01015895,Southend-on-Sea 010A,Offender sent to prison
+140951f21f7abf33c72b9daefefdb1d5706c37688ad5605ab0cde1689941fa41,2012-03,Essex Police,Essex Police,0.684702,51.545167,On or near LONDON ROAD,E01015832,Southend-on-Sea 012F,Offender given suspended prison sentence
+3f14e2a9484236d354a58f83f19d0398c339959fe107226ee88b1cfd800a59eb,2012-03,Essex Police,Essex Police,0.713596,51.539394,On or near Nightclub,E01015852,Southend-on-Sea 015B,Offender sent to prison
+ea288c65cf846435d70f398425a3756d5af3d930cea090d2db6ec4f5afac0952,2012-03,Essex Police,Essex Police,0.104799,51.699352,On or near UPPER SWAINES,E01021763,Epping Forest 005D,Offender sent to prison
+34517f08638ca47ee1feccb62796cdfd25c0ed0ccc41c8ede121797c03e189b7,2012-03,Essex Police,Essex Police,0.439330,51.571374,On or near MYNCHENS,E01021292,Basildon 017B,Offender given community sentence
+b215a5e783b5c9f28a113cdd11974411b195aaf7c83067d11a34f20a62bcd706,2012-03,Essex Police,Essex Police,0.236875,51.486163,On or near ST CLEMENTS COURT,E01016013,Thurrock 015D,Offender given community sentence
+430f01330632c4b920cf94a8172c25d3eb0877c0248b78d57113808de708a81f,2012-03,Essex Police,Essex Police,0.891763,51.887710,On or near CROUCH STREET,E01021649,Colchester 007D,Offender sent to prison
+8b9401fbb392cbeb30949d8b6100ef7c7b743ea8503bbc5118549918aab0993d,2012-03,Essex Police,Essex Police,0.701155,51.546310,On or near AVEBURY ROAD,E01015900,Southend-on-Sea 010F,Offender given community sentence
+c715575f5bfec2eae16720b280993ea44e8166dee7007dc3f1e689a9b56e2542,2012-03,Essex Police,Essex Police,0.055328,51.648719,On or near Parking Area,E01021791,Epping Forest 012F,Offender given suspended prison sentence
+8029629905da70ed58efd63e370bd2066782fd8ac9ff325f4078080db8663d10,2012-03,Essex Police,Essex Police,1.273639,51.932923,On or near ELMHURST ROAD,E01021999,Tendring 001C,Offender given community sentence
+d74545030072130171231eff74ff4602c6a4eb7c796713b6af3dabd66240df96,2012-03,Essex Police,Essex Police,0.295639,51.522744,On or near CANTERBURY PARADE,E01015971,Thurrock 006B,Offender given conditional discharge
+3c50463671f1ce4b21d89edc9da44abe09bcae6aab9ade1cf12359419a05f139,2012-03,Essex Police,Essex Police,0.052255,51.645661,On or near Parking Area,E01021781,Epping Forest 014B,Offender fined
+590ebedc2603275c9c074a8668345fa726b41afbe6a99c0d0b80a5f12fc67eb3,2012-03,Essex Police,Essex Police,0.938915,51.926266,On or near A12,E01021655,Colchester 001A,Offender given conditional discharge
+677f396cbc0b485ea7fbccfefacacdc1d6f7ce3147e8621aef9fcbca80fd6189,2012-03,Essex Police,Essex Police,0.699414,51.535665,On or near TRINITY AVENUE,E01015853,Southend-on-Sea 015C,Offender given community sentence
+53e84296596c1ff62b8586237749c9f6f6cd58cbf04449669c9e1833e81d43dd,2012-03,Essex Police,Essex Police,0.082125,51.646763,On or near Petrol Station,E01021776,Epping Forest 011C,Offender fined
+d0ca7b0e0f9360aaf1fe0cc3bb33dd5c00a3a1fd081239af4b1a1b3b396d631e,2012-03,Essex Police,Essex Police,0.731189,51.542016,On or near ILFRACOMBE ROAD,E01015839,Southend-on-Sea 014A,Offender given conditional discharge

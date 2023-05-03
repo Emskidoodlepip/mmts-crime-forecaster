@@ -1,0 +1,155 @@
+Crime ID,Month,Reported by,Falls within,Longitude,Latitude,Location,LSOA code,LSOA name,Outcome type
+64df17e0b452b70dc76c4cd243d2e1d7176e148ed9884df7732937022e6d9f13,2012-01,Sussex Police,Sussex Police,-0.371484,50.814897,On or near CHAPEL ROAD,E01031787,Worthing 011A,Defendant found not guilty
+a37f8194ed83c6ccc75c6dfab1efab16882b378070b19dfac2c95f33a63332ca,2012-01,Sussex Police,Sussex Police,-0.139091,50.823698,On or near Theatre/Concert Hall,E01016969,Brighton and Hove 027E,Offender given conditional discharge
+e31367f8eaf32ce55debda529e380b4e7f3dc978c094250710673645d7876f9b,2012-01,Sussex Police,Sussex Police,0.294766,50.773500,On or near SHEEN ROAD,E01020910,Eastbourne 010A,Offender sent to prison
+1a485c24f542ff3b5467288756b72af07cbc983359adc511d45eb05d960e03d8,2012-01,Sussex Police,Sussex Police,0.282757,50.768933,On or near Theme/Adventure Park,E01020911,Eastbourne 010B,Offender sent to prison
+5a9f1334c403bec59176905932dc54e6fd64a9a213f25f490fc6b20e39bb3360,2012-01,Sussex Police,Sussex Police,0.558903,50.863522,On or near Supermarket,E01020990,Hastings 008C,Offender given conditional discharge
+c3ea88f869d15820d70540e093fa0660d3b966fbf301793fb7a4061c9342b497,2012-01,Sussex Police,Sussex Police,-0.409149,50.813529,On or near SHAFTESBURY AVENUE,E01031804,Worthing 013C,Offender fined
+6830c8756170119906361ef9ce156fb23c37a03449fbfe28ea415fe427a3c5aa,2012-01,Sussex Police,Sussex Police,0.561981,50.860558,On or near Petrol Station,E01020992,Hastings 008E,Offender sent to prison
+23d9e47d508483200ec965110797134d5f13aec4079a288dd68ca48f99657778,2012-01,Sussex Police,Sussex Police,-0.185129,51.115893,On or near Shopping Area,E01031585,Crawley 004C,Offender fined
+518ff771ab132255362dfe258a4ac703706aac3de1ac66f275ac790c40885601,2012-01,Sussex Police,Sussex Police,-0.141214,50.823156,On or near NORTH STREET,E01016952,Brighton and Hove 027A,Offender given community sentence
+52b89867e1c1d904e6551c6873ed5aee0b2cb612db821fd6a6f5a609f9881468,2012-01,Sussex Police,Sussex Police,0.574832,50.855472,On or near CAMBRIDGE ROAD,E01020979,Hastings 009B,Offender given conditional discharge
+b7d156f39bdb5c337efa1d7f8cb6ca17a0b899bc0cb1b87a64e38407d95375bd,2012-01,Sussex Police,Sussex Police,0.580198,50.855120,On or near HAROLD PLACE,E01020978,Hastings 009A,Offender fined
+3d831537195945ff7c6e1217793adc9b8a0155af86863a63a7f5389513d0a93e,2012-01,Sussex Police,Sussex Police,0.585886,50.858016,On or near WELLINGTON ROAD,E01020978,Hastings 009A,Offender given conditional discharge
+1405503ce027ec3ba45d900ef7fb755fbca2d54d89c3a007b166937c6241ce26,2012-01,Sussex Police,Sussex Police,0.552823,50.888263,On or near Petrol Station,E01020971,Hastings 001C,Offender sent to prison
+f62bd1a4037c562f2d58749b2f6795736c15772e159c4a011b8f48094038968b,2012-01,Sussex Police,Sussex Police,0.580198,50.855120,On or near HAROLD PLACE,E01020978,Hastings 009A,Offender given community sentence
+5b42bb587dc532d2aeef83da49b859bc750a4cec853b0cc8d7a133b517c16537,2012-01,Sussex Police,Sussex Police,-0.316671,50.833176,On or near SHADWELLS CLOSE,E01031358,Adur 007A,Offender given community sentence
+11fe4e3381aed2045ac66eaeecd7e38b0c14901e54e7d316d312e265b07836c5,2012-01,Sussex Police,Sussex Police,0.319909,50.794588,On or near HEREWARD ROAD,E01032832,Eastbourne 014C,Offender given community sentence
+b1b6f29d893946d7fe72f6ad81d575fc31af210d0372039e8fba9546c88e73ed,2012-01,Sussex Police,Sussex Police,0.297195,50.774424,On or near HANOVER ROAD,E01020910,Eastbourne 010A,Offender given community sentence
+71fad53caf2a4e2bde26cbe3d2a9ab06723ca2e87ad9d327b08a848dd6e6a6dc,2012-01,Sussex Police,Sussex Police,0.294885,50.808367,On or near Supermarket,E01020925,Eastbourne 001B,Offender given conditional discharge
+1921920899a405503cbf5e2892a7274856c21f1bbe06a4c39af419b2d1dc4511,2012-01,Sussex Police,Sussex Police,0.592565,50.856491,On or near EAST BOURNE STREET,E01021003,Hastings 007D,Offender fined
+efd794d92d1c35c18dd2be4066a7a2ed66b7f166edab52cd55742cea3fe5ecf3,2012-01,Sussex Police,Sussex Police,0.558328,50.872483,On or near SEDLESCOMBE ROAD NORTH,E01021010,Hastings 006A,Offender given community sentence
+b845f78fe393a314243b30207c5ad5d70102ddaab87287d246177b83cd1f9e7e,2012-01,Sussex Police,Sussex Police,-0.893579,50.782626,On or near SUMMERFIELD ROAD,E01031540,Chichester 013E,Offender given conditional discharge
+9459fca0356ca8902af76532ecf7171be3bd2447cbddc14b54c0e02740675ce0,2012-01,Sussex Police,Sussex Police,-0.371484,50.814897,On or near CHAPEL ROAD,E01031787,Worthing 011A,Offender given community sentence
+7b36e42997dffdc22453a8edb1df5936dfc27ad32781cc606ea0a0fcc3841679,2012-01,Sussex Police,Sussex Police,0.556201,50.867907,On or near Supermarket,E01021011,Hastings 006B,Offender given community sentence
+2e397e92479de9d9531a06eed1e8f34e1ee0fe52ac632db811122a40a82dbc80,2012-01,Sussex Police,Sussex Police,-0.815342,50.844007,On or near CASPIAN CLOSE,E01031505,Chichester 011D,Offender given community sentence
+a660a5a75be19cb4042145443411bfb25a341a3771f5ef24bb1cd9034ca36611,2012-01,Sussex Police,Sussex Police,-0.138907,50.832976,On or near ELDER PLACE,E01016964,Brighton and Hove 027C,Offender fined
+bb37863d7d30eba2048bbc526eb6726b215c8f6527b6db576edfe474547c9baa,2012-01,Sussex Police,Sussex Police,0.471761,50.840514,On or near Supermarket,E01021092,Rother 011C,Defendant found not guilty
+1326c33d641774ab0bece31c38360d88591d741b32dc62fd69a239bfea8bd63c,2012-01,Sussex Police,Sussex Police,0.474613,50.986328,On or near HIGH STREET,E01021133,Rother 001B,Offender fined
+fc770e012dc65ce198204b00ce4da99a6113f622e0fe37b88e1e7d984cef4370,2012-01,Sussex Police,Sussex Police,-0.170115,50.827327,On or near ALBERT MEWS,E01016856,Brighton and Hove 026E,Offender fined
+879dcd0fa45a490c163b5fefa76fb7a60153d3cabed4d5454f694321b133d307,2012-01,Sussex Police,Sussex Police,-0.138907,50.832976,On or near ELDER PLACE,E01016964,Brighton and Hove 027C,Offender fined
+8c433e0e4e977d872622bae86739cd37b43c5064e016c69e8f095ad1bc4c788b,2012-01,Sussex Police,Sussex Police,-0.209900,51.093811,On or near Pedestrian Subway,E01031553,Crawley 012C,Offender given community sentence
+ce3b5196844e44618329c3269c12cbe211266dd570084e132466e75743ba344c,2012-01,Sussex Police,Sussex Police,-0.694838,50.790491,On or near ARUN ROAD,E01031451,Arun 016D,Offender sent to prison
+c29bc13527e7d7a1174d1a264e04b5436464b120502a07a3f64ab1836d944948,2012-01,Sussex Police,Sussex Police,0.581518,50.857672,On or near Shopping Area,E01020979,Hastings 009B,Offender given community sentence
+de3c12ea01465564d4e07edf5da9a93f3533c89ab2bec1e5766b4fcb3e619b51,2012-01,Sussex Police,Sussex Police,0.582012,50.855547,On or near ALBERT ROAD,E01020978,Hastings 009A,Offender given conditional discharge
+63c128168c53edff2c0030ae5a2e75c2954fd2e1b1dad3febcfc76f973ff4272,2012-01,Sussex Police,Sussex Police,-0.212371,51.123426,On or near LANCING CLOSE,E01031571,Crawley 003B,Offender fined
+0e3f2e21c6f7a48bcc11578ba247ef795d351c1074ba6eaf2dd77cf1287cddb6,2012-01,Sussex Police,Sussex Police,-0.759595,50.838014,On or near LEATHERBOTTLE LANE,E01031482,Chichester 008A,Offender given community sentence
+cf9154c0abec5ab75794585bc1601790d1a5f3175de1444f76e640f3c0e4f230,2012-01,Sussex Police,Sussex Police,0.293501,50.769091,On or near COLONNADE ROAD,E01020912,Eastbourne 010C,Offender fined
+3f22b537eaef071748f272900b7055b8c36cfb282a7ee436299bca7562d432ee,2012-01,Sussex Police,Sussex Police,-0.911482,50.849107,On or near MANOR WAY,E01031533,Chichester 007D,Offender given conditional discharge
+10c7a408e3e892b16c8b305b504d9585ba02326f400cb9c5c74698ebc2bc1a8c,2012-01,Sussex Police,Sussex Police,-0.371932,50.811819,On or near LIVERPOOL GARDENS,E01031787,Worthing 011A,Offender given community sentence
+5b42bb587dc532d2aeef83da49b859bc750a4cec853b0cc8d7a133b517c16537,2012-01,Sussex Police,Sussex Police,-0.316671,50.833176,On or near SHADWELLS CLOSE,E01031358,Adur 007A,Offender given community sentence
+edc31860d243cd5591a078c93885a60f0b2bb3b4c0e242bad8d2f44b4fe2b821,2012-01,Sussex Police,Sussex Police,0.582132,50.860042,On or near Supermarket,E01020978,Hastings 009A,Offender given suspended prison sentence
+1991d21cf0539278b233c110e721eb1ad3c4d9deb188afc80531ea112b947519,2012-01,Sussex Police,Sussex Police,0.161960,51.059842,On or near HIGH STREET,E01021160,Wealden 004B,Offender given community sentence
+cce46f061c4b0a8e20e6eebc14c824937679e433a61d9d748daaf8c46f5d90e9,2012-01,Sussex Police,Sussex Police,0.309127,50.790908,On or near THE CIRCUS,E01020951,Eastbourne 013B,Offender sent to prison
+07b7694122e5be0c8acf3dac73ea9d28e128e43482a263bf964c37c50fbe8c8d,2012-01,Sussex Police,Sussex Police,-0.005890,51.113126,On or near NEWTON AVENUE,E01031737,Mid Sussex 004B,Offender given suspended prison sentence
+25bf09e12548886289aff484f32f0e57d63d08e69076b4be67b80e5b001c503f,2012-01,Sussex Police,Sussex Police,-0.691467,50.791784,On or near FRITH ROAD,E01031451,Arun 016D,Offender otherwise dealt with
+50505d803e5fa18bb4078c13cb466ac36041e81dabf4b40b9b355d79a4b18181,2012-01,Sussex Police,Sussex Police,-0.738687,50.987566,On or near Supermarket,E01032717,Chichester 004F,Offender given community sentence
+62aecafcca50fa74783f1933f9b1fb889b0a932d2d7bf20e765ddc5ff14d7124,2012-01,Sussex Police,Sussex Police,-0.106510,50.999561,On or near THE BROADWAY,E01031761,Mid Sussex 009C,Offender fined
+767a3a7b7f8cad5db90c94c65c52416cff2d951d77447bed3a20a1724d6a08de,2012-01,Sussex Police,Sussex Police,0.577411,50.857151,On or near CORNWALLIS TERRACE,E01020979,Hastings 009B,Offender given conditional discharge
+1315ee05909706b8d32265146b5a64f52475034fdfe44c567be747b1a5a0a833,2012-01,Sussex Police,Sussex Police,0.577555,50.856401,On or near PRIORY STREET,E01020979,Hastings 009B,Court case unable to proceed
+8b4ba90495f7985b4d864e46c0e720fb068771c6e399c3a50f390629e9dde504,2012-01,Sussex Police,Sussex Police,-0.146543,50.824482,On or near REGENT HILL,E01016952,Brighton and Hove 027A,Offender given suspended prison sentence
+8a327a4b44f281cb0827c1660cdd2b7ca2dcc958d687105183d2a4ac03b3529e,2012-01,Sussex Police,Sussex Police,-0.911482,50.849107,On or near MANOR WAY,E01031533,Chichester 007D,Offender given conditional discharge
+104d494a75756f4cc923ccb7dde91bbf8f8931f90990e7935fb86a6395103225,2012-01,Sussex Police,Sussex Police,-0.129644,50.956235,On or near CYPRUS ROAD,E01031709,Mid Sussex 014D,Offender given community sentence
+e854e12e3131eeb0694a7f2cad2f3980f5ad76dae8c5e32fa473504d4cc8a1a4,2012-01,Sussex Police,Sussex Police,-0.371335,50.812233,On or near LIVERPOOL ROAD,E01031789,Worthing 011C,Offender given community sentence
+b197ffb37a5f0c4698ecd22fa4b8d6d3dd26c6d8d016b41d3fe367589bd87324,2012-01,Sussex Police,Sussex Police,0.561981,50.860558,On or near Petrol Station,E01020992,Hastings 008E,Offender given conditional discharge
+4d2de8520c1e4d751c1258165750a33ba9e496f0476ba1ef0730e938e632eed9,2012-01,Sussex Police,Sussex Police,0.485250,50.916272,On or near Supermarket,E01021084,Rother 006A,Offender given community sentence
+6fcfe761252e3b941f4a85f16ee26de0df6569f11d34aebe5eb7877f0a377b21,2012-01,Sussex Police,Sussex Police,-0.151374,50.838786,On or near HIGHCROFT VILLAS,E01016935,Brighton and Hove 014C,Offender given suspended prison sentence
+9f2d9f6d0d34efc68681fe57172b64ee7e0d00479604e4c98536d7b1410c1794,2012-01,Sussex Police,Sussex Police,-0.136783,50.831746,On or near LONDON ROAD,E01016964,Brighton and Hove 027C,Offender given community sentence
+9e29fae323f413cf7fa831270e7c447e07d190e412be85aa7ef39f228cafad86,2012-01,Sussex Police,Sussex Police,-0.212828,51.122318,On or near Supermarket,E01031571,Crawley 003B,Offender fined
+06c96ed185761db41a52915dd35e18a6f48c4d0c1b8924cda3f63da1fbeacb47,2012-01,Sussex Police,Sussex Police,0.471418,50.843696,On or near AMHERST ROAD,E01021092,Rother 011C,Offender given community sentence
+5491f79c508706f0307be6e42df2f89888465a1dd29aaa810c328d246e94debd,2012-01,Sussex Police,Sussex Police,0.270734,50.807077,On or near BYLAND CLOSE,E01020917,Eastbourne 002A,Offender given suspended prison sentence
+b25fa47f89469ecd0b87e85d65a77f48dd10ad00d39cd096eb2379fd42e1e522,2012-01,Sussex Police,Sussex Police,-0.371651,50.809675,On or near MONTAGUE PLACE,E01031789,Worthing 011C,Offender given community sentence
+26a871c8eb3e00d77a35c786833d4acaf94e02e573efccda41eae89e283650d1,2012-01,Sussex Police,Sussex Police,-0.371218,50.822961,On or near FAIRLAWN DRIVE,E01031798,Worthing 005E,Offender sent to prison
+f03564633e85460d1e693c9c76094ee8c7c0585e9a5ed6bc1875e07ad68ff4bd,2012-01,Sussex Police,Sussex Police,-0.679280,50.792276,On or near DORSET ROAD,E01031442,Arun 014E,Offender given conditional discharge
+fecc2d7a0f0a9732fd75f866b8a754028ebccd80ee4ea847e9821856bfa4203b,2012-01,Sussex Police,Sussex Police,0.556674,50.864344,On or near ST MATTHEW'S DRIVE,E01021012,Hastings 006C,Offender otherwise dealt with
+136247edb00d1e2c3cde5b2491c3a0769ff7ba45de3d7741816b02914b0548a7,2012-01,Sussex Police,Sussex Police,0.253399,50.783679,On or near DOWNS AVENUE,E01020947,Eastbourne 006E,Offender sent to prison
+20426760d693c4595dfecdab1e398d383bbfbf4847ecfcb9d5263da503eeaa2f,2012-01,Sussex Police,Sussex Police,-0.137886,50.830451,On or near NEW ENGLAND STREET,E01016964,Brighton and Hove 027C,Offender sent to prison
+1d17631f4a68bc8362efa25a7108658f43f5260b7a75004d4aa55416653192e7,2012-01,Sussex Police,Sussex Police,-0.691037,50.783308,On or near RICHMOND AVENUE WEST,E01031435,Arun 017C,Offender fined
+1a27f2864811ea046700a75f51a6390e94bcff72d0f368736af7edef080f9871,2012-01,Sussex Police,Sussex Police,0.099148,50.771727,On or near Supermarket,E01021071,Lewes 013B,Offender given conditional discharge
+69ad7631afab1c3522e603b76b5ec201953e79de85c833970cf30d64765b19f5,2012-01,Sussex Police,Sussex Police,-0.398085,50.817838,On or near TARRING ROAD,E01031816,Worthing 012E,Court case unable to proceed
+c19fcac20e918ff58bc68a4a02d1a1b506cc77304c6491865e9345e1c21d9289,2012-01,Sussex Police,Sussex Police,-0.138907,50.832976,On or near ELDER PLACE,E01016964,Brighton and Hove 027C,Offender given conditional discharge
+3a59d707c8f021144233ed2d754966a86160f70203570ef3c95ec45d3374d5d5,2012-01,Sussex Police,Sussex Police,-0.385164,50.812956,On or near HEENE ROAD,E01031807,Worthing 010B,Offender sent to prison
+057a009f07ac983295261527cd070b76ac3bde22388137d6c29c33fa755f18d2,2012-01,Sussex Police,Sussex Police,-0.140732,50.820999,On or near Nightclub,E01016952,Brighton and Hove 027A,Offender sent to prison
+2941ab7b4c563234ffc429463d721669433038b17b201c39e59fc706c03f082f,2012-01,Sussex Police,Sussex Police,-0.137137,50.862105,On or near SUNNYDALE AVENUE,E01016927,Brighton and Hove 001C,Offender given community sentence
+8289a8c359c00247105bf8fa962de2ceed8d03d6c22716dfa894b7fb8039fad7,2012-01,Sussex Police,Sussex Police,0.542315,50.870513,On or near FORD ROAD,E01021020,Hastings 006D,Offender given community sentence
+15a22de3ecbd79bde66cb49f85f2728c6e9cec419d01ec8e2736c457449cc8b2,2012-01,Sussex Police,Sussex Police,0.489609,50.914776,On or near Petrol Station,E01021084,Rother 006A,Offender given community sentence
+beb99ec99a0130b087ab535056346a84fad90390cfd1591b26261bee9ed7d5c9,2012-01,Sussex Police,Sussex Police,-0.173865,50.830930,On or near Supermarket,E01016860,Brighton and Hove 019A,Offender sent to prison
+1dff313c5df6328482b0e9fb3ebe0810d6b3d43e687f827464dee8b3eecc7789,2012-01,Sussex Police,Sussex Police,0.485250,50.916272,On or near Supermarket,E01021084,Rother 006A,Offender sent to prison
+71954836fbf5f00dd5fa8e920a968f6cb9c507ba537044b53e15cba134a89611,2012-01,Sussex Police,Sussex Police,-0.675840,50.785987,On or near STATION ROAD,E01031436,Arun 017D,Offender given conditional discharge
+5380bcc8b893e6069eb9ad75e6f65fd37050bdc6cd3589a150ec117c475d654a,2012-01,Sussex Police,Sussex Police,-0.402147,50.980678,On or near SAUCELANDS LANE,E01031611,Horsham 010A,Offender fined
+bfd33ce21d2749dfd4e49a2e19db2db14958f44daa79e3efaebcd16e86e4bbaa,2012-01,Sussex Police,Sussex Police,-0.010399,51.130875,On or near ST JOHN'S ROAD,E01031741,Mid Sussex 001E,Offender given community sentence
+c5f6828d188dfb5ba43250f9a8bf3f81f6c5920a0b25001198546f2cdd51c3a4,2012-01,Sussex Police,Sussex Police,-0.392962,50.817363,On or near VALENCIA ROAD,E01031810,Worthing 010D,Offender given suspended prison sentence
+3811b0d2e2169cf5025cb564afa87ea37802b1391370d191d5c1f7c63dc48d8c,2012-01,Sussex Police,Sussex Police,-0.162498,51.123786,On or near BYCROFT WAY,E01031603,Crawley 005E,Offender fined
+bbb2bf57cf1baa578e1015d145fa8b4a1def67d1e43d3ca08acd5d29fe6b95fa,2012-01,Sussex Police,Sussex Police,0.248182,50.964223,On or near GEERS WOOD,E01021193,Wealden 010D,Offender given conditional discharge
+9459fca0356ca8902af76532ecf7171be3bd2447cbddc14b54c0e02740675ce0,2012-01,Sussex Police,Sussex Police,-0.371484,50.814897,On or near CHAPEL ROAD,E01031787,Worthing 011A,Offender given conditional discharge
+b0b44958131fe800a39a29b90b922fdb4776dbde2db6f5fdb7ef1defe9273be0,2012-01,Sussex Police,Sussex Police,0.556104,50.869771,On or near DUKE MEWS,E01021011,Hastings 006B,Offender given community sentence
+0ddb833f7f28a2acd0c8e566fdcb1669f12430a4b038b113d9b8b7d5bb1c1ef1,2012-01,Sussex Police,Sussex Police,0.288932,50.767301,On or near Supermarket,E01020935,Eastbourne 011A,Offender fined
+a4daaaa738629a73c25a50a249a0118af54b7ab110dc17533f9acc7bfd84800b,2012-01,Sussex Police,Sussex Police,0.016883,50.877756,On or near BROOKS ROAD,E01021034,Lewes 003B,Offender fined
+b47d0fb6e2e4bf1dd363602e8d564f86e9ed7e584f09a93e04be386e322fbdc1,2012-01,Sussex Police,Sussex Police,-0.184298,50.831434,On or near RUTLAND GARDENS,E01016987,Brighton and Hove 023A,Offender fined
+a47ba5116df76fa5ea6c19cbf7fd55facd5328288011d74f6f5501cbecfd4bec,2012-01,Sussex Police,Sussex Police,-0.212828,51.122318,On or near Supermarket,E01031571,Crawley 003B,Offender otherwise dealt with
+002d7a9c244ec630f73ce9b519bc47a1f37ba097db58e99caafa87cd4335f761,2012-01,Sussex Police,Sussex Police,0.252410,50.809753,On or near OXENDEAN GARDENS,E01021233,Wealden 021B,Offender given community sentence
+f12287ef53b9985bd6db35c4defb32ae68d381988b39b2884b045dc9de037e71,2012-01,Sussex Police,Sussex Police,0.280667,50.769999,On or near Shopping Area,E01020968,Eastbourne 011D,Offender sent to prison
+613135c97016d7f46aee5e264ed0c867feec88ba885c6816f7508131b444e2d3,2012-01,Sussex Police,Sussex Police,-0.371425,50.822298,On or near CECILIAN AVENUE,E01031798,Worthing 005E,Offender sent to prison
+6abc9ac1ba4f2fb98f60cf2ab950619dd0cf4bd3d94fc564604c6a766836e82a,2012-01,Sussex Police,Sussex Police,0.285107,50.769130,On or near Eastbourne Arndale Centre,E01020911,Eastbourne 010B,Offender given conditional discharge
+3063a7fa93a171305675383b7024e3737ee1e8142c73e0aeb8ecffde104a7ba0,2012-01,Sussex Police,Sussex Police,-0.161016,50.829783,On or near Police Station,E01016874,Brighton and Hove 020B,Offender fined
+389d0c561777d05456624ea607781721e0fb7b60de9b2b3c17aa2aad503c6b3b,2012-01,Sussex Police,Sussex Police,-0.327977,50.827961,On or near SOMPTING ROAD,E01031343,Adur 008C,Offender given community sentence
+346435f77019d7541d36015a2e2dfd2e02555051823b25f1ea33103fdaccd7aa,2012-01,Sussex Police,Sussex Police,-0.144630,50.824029,On or near DYKE ROAD,E01016969,Brighton and Hove 027E,Offender sent to prison
+fa31e354e97c7e83761596ce21637ae9c61749e488e13cd98b3711f298c5b0cc,2012-01,Sussex Police,Sussex Police,0.553068,50.855564,On or near KENILWORTH ROAD,E01020998,Hastings 010B,Offender otherwise dealt with
+549214cbceb869c1408abf900c48d38cd0a1f23b4a42dfe743a11310a5730878,2012-01,Sussex Police,Sussex Police,-0.166219,50.826745,On or near QUEEN'S PLACE,E01016849,Brighton and Hove 026A,Offender fined
+1a342d4839278886356d7f781bcb5b46d1f322de1536e35ab2673df5cc0bfe6f,2012-01,Sussex Police,Sussex Police,-0.138654,50.821497,On or near Shopping Area,E01016952,Brighton and Hove 027A,Offender given suspended prison sentence
+d6e45103b9e5ddaec351d9f34a8fa3af6c7d67801181fc7c4425cd454dcfc512,2012-01,Sussex Police,Sussex Police,-0.402226,50.813407,On or near GORING ROAD,E01031813,Worthing 012B,Offender given community sentence
+698c12b4d80d263915267e91139e70d53d4d6ac4f224173bec5c77adc6f3a7a1,2012-01,Sussex Police,Sussex Police,0.497759,50.844556,On or near BRETT DRIVE,E01021120,Rother 008B,Offender given community sentence
+6d1d8842be93a4c708333c66a28d63191cd4bca149e38a1ae0136abad87d53d4,2012-01,Sussex Police,Sussex Police,0.610947,50.873674,On or near MANHATTAN GARDENS,E01021004,Hastings 004A,Offender ordered to pay compensation
+3811b0d2e2169cf5025cb564afa87ea37802b1391370d191d5c1f7c63dc48d8c,2012-01,Sussex Police,Sussex Police,-0.162498,51.123786,On or near BYCROFT WAY,E01031603,Crawley 005E,Offender sent to prison
+ec57e1866b6cc93a3f117b4460ea5bf2fd6c53e12e5a354706c608eb1c15b4f2,2012-01,Sussex Police,Sussex Police,-0.219796,51.104609,On or near ARNE CLOSE,E01031548,Crawley 010B,Offender given community sentence
+d641eaf2a71b653797063fa1fa8b84ea31139de0d30dc12c3b95181f7468c906,2012-01,Sussex Police,Sussex Police,0.255823,50.967016,On or near UPPER STATION ROAD,E01021194,Wealden 010E,Offender sent to prison
+64c0fffc3fca813535bfca2444a1d44ff048ef7cb49ebbf39f1e4bcc1c5b252d,2012-01,Sussex Police,Sussex Police,-0.145690,50.823075,On or near Shopping Area,E01016952,Brighton and Hove 027A,Offender given suspended prison sentence
+6a391dc4be2c5abefd00378944f90d359d85f614dc33e855fe885baf2fdd7f70,2012-01,Sussex Police,Sussex Police,-0.371484,50.814897,On or near CHAPEL ROAD,E01031787,Worthing 011A,Offender given community sentence
+e2bc8a5a13ecb7bf095784121853a67565a81aeb2d75f298097dc5de82017df6,2012-01,Sussex Police,Sussex Police,0.011794,50.871486,On or near Parking Area,E01021035,Lewes 003C,Offender deprived of property
+abf84bb898f9e8097bf4c7b59b3d8b9b0f7fdfc5d8eb75d253dbdfa12bfdda0b,2012-01,Sussex Police,Sussex Police,-0.378480,50.818241,On or near SOUTH FARM ROAD,E01031791,Worthing 008A,Offender sent to prison
+5895d687866b31c7d085ebf597a3f87271ce5d8e86eaa9a17b84d58229e664b2,2012-01,Sussex Police,Sussex Police,0.294108,50.775114,On or near BELTRING ROAD,E01020914,Eastbourne 007A,Offender given community sentence
+dd6fc27b932850b4a35bc96e58a60e08264541e929af7f12de35a4124c5e7f16,2012-01,Sussex Police,Sussex Police,-0.269990,50.833213,On or near SURRY STREET,E01031364,Adur 005C,Offender given community sentence
+7fe7cccfb44796dbaaf5d4ba3b7c4147a3b359a8c4edc790fa56cde235f85636,2012-01,Sussex Police,Sussex Police,-0.371651,50.809675,On or near MONTAGUE PLACE,E01031789,Worthing 011C,Offender given community sentence
+31b8d2149e1af5d117125cf7d162bb054770864aa699d54f1e0fb1156ba6a976,2012-01,Sussex Police,Sussex Police,-0.212828,51.122318,On or near Supermarket,E01031571,Crawley 003B,Offender sent to prison
+45193b3aa3a8d3e8f3fcea115eec413e36dada5bb606b71d42d49138d4cefc4f,2012-01,Sussex Police,Sussex Police,-0.324749,50.827294,On or near ROSECROFT CLOSE,E01031341,Adur 008A,Court case unable to proceed
+70e0344d36ef3c1fabb92d589c20e3ed34a6bae6a2e209b901a4b481dd99da7f,2012-01,Sussex Police,Sussex Police,-0.773283,50.828887,On or near EXTON ROAD,E01031492,Chichester 012B,Offender given community sentence
+184f92e74ac7d687600ae42bf7cbc3bad5db1034b2b263638e2292a891c227b9,2012-01,Sussex Police,Sussex Police,0.553719,50.867224,On or near PONSWOOD ROAD,E01021021,Hastings 006E,Offender given community sentence
+697df53c2b8612e7fea0018d0a01e148936b659bc0466598909f129b7b478902,2012-01,Sussex Police,Sussex Police,0.271292,50.799853,On or near BINSTED CLOSE,E01020921,Eastbourne 004B,Defendant found not guilty
+cf26c3a7e89e834deb4510c454551cf10837183881613a461b9c247a76873069,2012-01,Sussex Police,Sussex Police,-0.381449,50.810387,On or near NURSERY LANE,E01031808,Worthing 011D,Offender given community sentence
+6377fa6812d01ed942388f405da46271d066319cfa109b021bb230ef5d6530fc,2012-01,Sussex Police,Sussex Police,-0.138338,50.826222,On or near KENSINGTON STREET,E01033328,Brighton and Hove 027F,Offender given community sentence
+9930b6a622d0aa6f7b7e82ebc8d47d9700a7899726d8afcf35e8f8d89a661797,2012-01,Sussex Police,Sussex Police,-0.349576,50.818232,On or near MEADOW CRESCENT,E01031834,Worthing 009E,Offender ordered to pay compensation
+ef9283ad10c9cd0504be55c4bbab99b76c10ece04c4c2570f43cf3a64b584104,2012-01,Sussex Police,Sussex Police,-0.149914,50.826496,On or near MONTPELIER STREET,E01016953,Brighton and Hove 027B,Offender given community sentence
+38d1bfa6e58ba8a51098a1ba522f975e6bd31cbdbbb91ccbd947963d53aac8da,2012-01,Sussex Police,Sussex Police,-0.183915,51.115506,On or near QUEENSWAY,E01031585,Crawley 004C,Offender given conditional discharge
+4e7730a85734d81623379374f3d2c5b89524e16cf8afeb2238ea6a59ae560ad9,2012-01,Sussex Police,Sussex Police,0.103180,50.771825,On or near Supermarket,E01021079,Lewes 013C,Offender given community sentence
+3290e88b31dcd77e8d1e03a0ec0dc22f9a6dfb90a55475e8f4e6c256efea8c12,2012-01,Sussex Police,Sussex Police,-0.655318,50.786256,On or near CANNING ROAD,E01031419,Arun 015C,Offender given community sentence
+9e0daa7e86daf5ae5b529a0672d24e62cf2fc41b558a0e93b653b730dea8be57,2012-01,Sussex Police,Sussex Police,-0.411778,50.835598,On or near Supermarket,E01031792,Worthing 003A,Offender ordered to pay compensation
+35e10aa05ef5bb6b33f1b968ec0b23ce4f869a4385dc4a836ad634e6c80578f2,2012-01,Sussex Police,Sussex Police,-0.385164,50.812956,On or near HEENE ROAD,E01031807,Worthing 010B,Offender fined
+242b207954a55c02ee81dfc77599d0d1bedc19a58fe668cc437dc6ed8cfbf29a,2012-01,Sussex Police,Sussex Police,-0.087076,50.835313,On or near CHANNEL VIEW ROAD,E01017008,Brighton and Hove 017B,Offender given conditional discharge
+7e95cde70a9875dbed4a67340edcd37c6ccb140d31e26a25cb8466f7ad415c7d,2012-01,Sussex Police,Sussex Police,-0.022964,51.133849,On or near DORSET GARDENS,E01031733,Mid Sussex 001C,Offender sent to prison
+f7f724bc7f90688e3711fcee5ac8f65c9d01743310014d26f4ecf995f314d665,2012-01,Sussex Police,Sussex Police,-0.118177,50.819459,On or near Hospital,E01016862,Brighton and Hove 031B,Offender fined
+4085b8709fa026e5334bb4afbdd31acd15fa8b980b80c0550b5a02ae511a9dfc,2012-01,Sussex Police,Sussex Police,-0.105361,50.813757,On or near Parking Area,E01016957,Brighton and Hove 032C,Offender sent to prison
+2acf658f9fe6eb169fb699c04ed22f416e305b167ac73ab921498a7c8913f375,2012-01,Sussex Police,Sussex Police,0.303395,50.786011,On or near Supermarket,E01020951,Eastbourne 013B,Offender given community sentence
+17f9fae42834a3c05e52f1e10f2be35179861c1fdd5efdc02257889299dc778f,2012-01,Sussex Police,Sussex Police,-0.003790,50.873003,On or near NEVILL ROAD,E01021040,Lewes 005B,Offender sent to prison
+f6ca98f0d9424275a8f76ef552a1bfd5247edb0b187a0295402ad3449df7cdb8,2012-01,Sussex Police,Sussex Police,-0.130170,50.953429,On or near QUEENS CRESCENT,E01031708,Mid Sussex 014C,Offender given suspended prison sentence
+d20b51d7a8cced8da3ff7e881cf024cff7bc9d55e0efd17ac71183b2706aa4b9,2012-01,Sussex Police,Sussex Police,-0.189277,51.123089,On or near ST GEORGES COURT,E01031610,Crawley 003E,Offender fined
+2874661319b3335884dfaf59e069401a109ed1b88f9b0bd459dd68d7c61f7346,2012-01,Sussex Police,Sussex Police,-0.780143,50.838105,On or near CHAPEL STREET,E01031490,Chichester 010D,Offender deprived of property
+e15665e993809bfebc9da5d68d2f23b78ff7f8a9d49995562b6150745784968f,2012-01,Sussex Police,Sussex Police,-0.375803,50.817251,On or near TEVILLE ROAD,E01031790,Worthing 010A,Offender given community sentence
+ea27b9ac453a9b71262da84e0b1742b1940b9dc6828e5ee7a735a47485923245,2012-01,Sussex Police,Sussex Police,0.271210,50.801960,On or near HENFIELD ROAD,E01020921,Eastbourne 004B,Offender fined
+c7370b0be0d01a9036ddad3bd439f5ae5820424cfaf0449d0071bffa1525471f,2012-01,Sussex Police,Sussex Police,-0.697845,50.789490,On or near WEST MEADS DRIVE,E01031451,Arun 016D,Offender sent to prison
+151c5f10619f35ff7c28e7ddd57d87f6363ce60b9d68ed998fc931e48eeed310,2012-01,Sussex Police,Sussex Police,-0.683822,50.789674,On or near HIGHLAND AVENUE,E01031452,Arun 016E,Offender fined
+6387e97ce77c753b17d5f2d0b6394262cf8adc8682eddff7162891739851a92c,2012-01,Sussex Police,Sussex Police,0.331902,50.795473,On or near SILVER STRAND EAST,E01032831,Eastbourne 014B,Offender given community sentence
+e008136290f6d16a4bd7a789f0f5884bd5d1532d5258a6050eb5fca1f62d3022,2012-01,Sussex Police,Sussex Police,0.300294,50.780344,On or near Supermarket,E01020952,Eastbourne 007C,Offender given community sentence
+86d61ee785e1a94f883dbd88e920f282dded58cccef99f83ab04a7a6e7ac85dd,2012-01,Sussex Police,Sussex Police,0.285171,50.769272,On or near Shopping Area,E01020911,Eastbourne 010B,Offender sent to prison
+f6942b1d0b84b62983fde3ab175f77793ed19935914a1ed12e479603c9265231,2012-01,Sussex Police,Sussex Police,0.580198,50.855120,On or near HAROLD PLACE,E01020978,Hastings 009A,Defendant sent to Crown Court
+8e45901168d2698724afadbe4b4cdbeb926bdebb65212075aff81fb0500129af,2012-01,Sussex Police,Sussex Police,-0.204945,51.097485,On or near Parking Area,E01031552,Crawley 013A,Offender given community sentence
+d9c3347fbec887f8121b359a66c27ba1ad0ef026b2a3af186363a514750d0f40,2012-01,Sussex Police,Sussex Police,-0.533644,50.812453,On or near DORSET CLOSE,E01031455,Arun 009D,Offender given conditional discharge
+5a4998834e96d94501e6c6e17809d0c022b56144cadf528ecc1ef9b61d5b9dcf,2012-01,Sussex Police,Sussex Police,-0.150074,50.824952,On or near HAMPTON STREET,E01016955,Brighton and Hove 029E,Offender given suspended prison sentence
+d1a18dde037e1e7dd169d6dc7fabcc8134fd0de4b19db4c319c7bcb0703240bb,2012-01,Sussex Police,Sussex Police,-0.089537,50.869978,On or near PARK VILLAGE ROAD,E01016899,Brighton and Hove 002B,Offender sent to prison
+e0c07afadc7ecc28813e3adc286d26945fbca1e98b227d24148e314bdce87105,2012-01,Sussex Police,Sussex Police,0.288932,50.767301,On or near Supermarket,E01020935,Eastbourne 011A,Offender given suspended prison sentence
+98d71576a5554082db046b950719c62a23877ac10cab2f7e79ee71dbc94bd708,2012-01,Sussex Police,Sussex Police,0.469754,50.846339,On or near SALISBURY ROAD,E01021131,Rother 007C,Offender given community sentence
+7aac5f52a525a2c9e507755add2ee5d37b19df66f2169fa68bb82fc75827e2c7,2012-01,Sussex Police,Sussex Police,-0.365855,50.817975,On or near Sports/Recreation Area,E01031788,Worthing 011B,Offender fined
+104d494a75756f4cc923ccb7dde91bbf8f8931f90990e7935fb86a6395103225,2012-01,Sussex Police,Sussex Police,-0.129644,50.956235,On or near CYPRUS ROAD,E01031709,Mid Sussex 014D,Offender given community sentence
+b9e428b8e01d2ef0635d51ef599cd841d2a6f1b18713fbf83186c854aab216a8,2012-01,Sussex Police,Sussex Police,-0.138338,50.826222,On or near KENSINGTON STREET,E01033328,Brighton and Hove 027F,Offender given community sentence
+25ec19327d4253ef4ef4e91cda84cad82cf49b726ff4e11fde2b50ed44140492,2012-01,Sussex Police,Sussex Police,0.577980,50.855088,On or near ROBERTSON PASSAGE,E01020978,Hastings 009A,Offender given conditional discharge
+062716c2945fca0e389710b183580c3ca0dca85e58d8d762bc802695fbbae4b7,2012-01,Sussex Police,Sussex Police,-0.187442,51.121028,On or near THE BROOK,E01031585,Crawley 004C,Offender given conditional discharge
+e2a2929d7de2e17cfb28bbfd8a6ad7e574c7dece724630f36b8c851c89f16f2c,2012-01,Sussex Police,Sussex Police,0.583954,50.865991,On or near HUGHENDEN PLACE,E01020977,Hastings 005C,Court case unable to proceed
