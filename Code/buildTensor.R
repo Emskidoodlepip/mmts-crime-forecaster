@@ -16,7 +16,7 @@ library(tseries)
 
 ## preprocessing
 # read in from CSVs
-crimes <- list.files("/Users/emily/Documents/Work/Dissertation/Data/Crime", full.names = T, recursive = T, pattern = "*west-yorkshire-street.csv") %>% ldply(read.csv, header=T)
+crimes <- list.files("Data/Crime", full.names = T, recursive = T, pattern = "*west-yorkshire-street.csv") %>% ldply(read.csv, header=T)
 
 # ditch unnecessary columns
 crimes <- crimes %>% select(Crime.ID, Month, Longitude, Latitude)
@@ -37,7 +37,7 @@ sf_use_s2(F)
 crimes <- st_as_sf(x = crimes, coords = c("Longitude", "Latitude")) %>% st_set_crs(value = 4326)
 
 # import 2021 LSOA boundaries as geoJSON
-lsoas <- st_read("/Users/emily/Documents/Work/Dissertation/Data/Boundaries/LSOA-2021-EW-BFE.geojson")
+lsoas <- st_read("Data/Boundaries/LSOA-2021-EW-BFE.geojson")
 
 # infer LSOA information from boundaries, first omitting external unmatched records
 crimes <- crimes[lengths(st_intersects(crimes$geometry, lsoas$geometry, prepared = T)) != 0,]
@@ -63,7 +63,7 @@ lsoaDomain <- crimes$LSOA21CD
 
 
 # load mean house price data
-housePrices <- read_xls("/Users/emily/Documents/Work/Dissertation/Data/Mean House Price/HPSSA47.xls", sheet="Data")
+housePrices <- read_xls("Data/Mean House Price/HPSSA47.xls", sheet="Data")
 
 # remove unnecessary rows and columns
 housePrices <- housePrices[-c(1:2, 4:68, 113)][-c(1:4),]
@@ -121,8 +121,8 @@ rm(tempHousePrices)
 
 # age/sex processing
 # load in age/sex data
-ageSexPop <- list.files("/Users/emily/Documents/Work/Dissertation/Data/Age & Sex", full.names = T, pattern = "*.xls*") %>% lapply(read_excel, sheet = 4)
-ageSexFem <- list.files("/Users/emily/Documents/Work/Dissertation/Data/Age & Sex", full.names = T, pattern = "*.xls*") %>% lapply(read_excel, sheet = 6)
+ageSexPop <- list.files("Data/Age & Sex", full.names = T, pattern = "*.xls*") %>% lapply(read_excel, sheet = 4)
+ageSexFem <- list.files("Data/Age & Sex", full.names = T, pattern = "*.xls*") %>% lapply(read_excel, sheet = 6)
 
 # match together population data from each file
 ageSexMonths <- c("2012-06", "2013-06", "2014-06", "2015-06", "2016-06", "2017-06", "2018-06", "2019-06", "2020-06")
@@ -211,7 +211,7 @@ dimnames(mts)[[3]][-c(1:2)] = c("population", "femProportion", "ythProportion")
 
 # let's now process number of pubs per lsoa
 # import CSVs, storing month data
-pubs <- list.files("/Users/emily/Documents/Work/Dissertation/Data/Pubs", full.names = T, pattern = "*.csv")
+pubs <- list.files("Data/Pubs", full.names = T, pattern = "*.csv")
 names(pubs) <- paste(pubs)
 pubs <- ldply(pubs, read.csv, header=T)
 pubs$.id <- pubs$.id %>% substr(62,68)
@@ -228,7 +228,7 @@ pubs$longitude <- as.numeric(pubs$longitude)
 pubs$latitude <- as.numeric(pubs$latitude)
 
 # look up co-ordinates from 2016 postcodes for those missing them
-postcodes <- ldply("/Users/emily/Documents/Work/Dissertation/Data/Boundaries/Postcode Lookup 2023-03.csv", read.csv, header=T)
+postcodes <- ldply("Data/Boundaries/Postcode Lookup 2023-03.csv", read.csv, header=T)
 postcodes <- postcodes %>% select(Postcode.3, Longitude, Latitude)
 colnames(postcodes) <- c("postcode", "longitude", "latitude")
 pubsLost <- pubs[is.na(pubs$longitude),] %>% inner_join(postcodes, by="postcode") %>% select(.id, postcode, longitude.y, latitude.y)
@@ -377,4 +377,4 @@ mts[,,"pubs"] <- sliceDetrend(mtsOld[,,"pubs"], differences = 1)[,-1]
 
 # export data by LSOA as CSV
 dimnames(mts)[[2]] <- dimnames(mts)[[2]] %>% lapply(ym)
-for (lsoa in dimnames(mts)[[1]]) { write.csv(mts[lsoa,,], paste0(paste0("/Users/emily/Documents/Work/Dissertation/Data/Out/", lsoa), ".csv")) }
+for (lsoa in dimnames(mts)[[1]]) { write.csv(mts[lsoa,,], paste0(paste0("Data/Out/", lsoa), ".csv")) }

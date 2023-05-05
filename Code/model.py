@@ -13,7 +13,7 @@ import torchvision
 
 
 
-DATA_PATH = "/Users/emily/Documents/Work/Dissertation/Data/Out/"
+DATA_PATH = "Data/Out/"
 CRIMES_MEAN = 12.50395
 CRIMES_SD = 19.18644
 
@@ -112,25 +112,25 @@ def main():
 	# 	val_past_covariates	= testCovariates,
 	# 	verbose			= True
 	# )
-	# modelNBEATS.save("/Users/emily/Documents/Work/Dissertation/Code/nbeats.pt")
+	# modelNBEATS.save("Code/nbeats.pt")
 	
 	# modelNBEATSNoCovariates.fit(
 	# 	series			= trainTargets,
 	# 	val_series		= testTargets,
 	# 	verbose			= True
 	# )
-	# modelNBEATSNoCovariates.save("/Users/emily/Documents/Work/Dissertation/Code/nbeats_no_covariates.pt")
+	# modelNBEATSNoCovariates.save("Code/nbeats_no_covariates.pt")
 
 	# modelRandomForest.fit(
 	# 	series			= trainTargets,
 	# 	past_covariates		= trainCovariates
 	# )
-	# modelRandomForest.save("/Users/emily/Documents/Work/Dissertation/Code/randomforest.pt")
+	# modelRandomForest.save("Code/randomforest.pt")
 
 	# modelRandomForestNoCovariates.fit(
 	# 	series			= trainTargets
 	# )
-	# modelRandomForestNoCovariates.save("/Users/emily/Documents/Work/Dissertation/Code/randomforest_no_covariates.pt")
+	# modelRandomForestNoCovariates.save("Code/randomforest_no_covariates.pt")
 
 	# split final month from test set for predictions
 	print("Done.\nPreparing test set for prediction...", end=' ')
@@ -146,26 +146,26 @@ def main():
 	# predict
 	print("Done.\nMaking predictions...", end=' ')
 	forecasts = {}
-	forecasts["N-BEATS"] = modelNBEATS.load("/Users/emily/Documents/Work/Dissertation/Code/nbeats.pt").predict(
+	forecasts["N-BEATS"] = modelNBEATS.load("Code/nbeats.pt").predict(
 		series		= testTargetsPast,
 		past_covariates	= testCovariatesPast,
 		n		= 1,			# just predict one month into the future
 		n_jobs		= -1,			# enable parallelisation
 	)
 
-	forecasts["N-BEATS (no covariates)"] = modelNBEATSNoCovariates.load("/Users/emily/Documents/Work/Dissertation/Code/nbeats_no_covariates.pt").predict(
+	forecasts["N-BEATS (no covariates)"] = modelNBEATSNoCovariates.load("Code/nbeats_no_covariates.pt").predict(
 		series		= testTargetsPast,
 		n		= 1,			# just predict one month into the future
 		n_jobs		= -1,			# enable parallelisation
 	)
 
-	forecasts["Random forest"] = modelRandomForest.load("/Users/emily/Documents/Work/Dissertation/Code/randomforest.pt").predict(
+	forecasts["Random forest"] = modelRandomForest.load("Code/randomforest.pt").predict(
 		series		= testTargetsPast,
 		past_covariates	= testCovariatesPast,
 		n		= 1			# just predict one month into the future
 	)
 
-	forecasts["Random forest (no covariates)"] = modelRandomForestNoCovariates.load("/Users/emily/Documents/Work/Dissertation/Code/randomforest_no_covariates.pt").predict(
+	forecasts["Random forest (no covariates)"] = modelRandomForestNoCovariates.load("Code/randomforest_no_covariates.pt").predict(
 		series		= testTargetsPast,
 		n		= 1			# just predict one month into the future
 	)
@@ -194,7 +194,7 @@ def main():
 	})
 	predictionDF = pandas.concat([metricsDF, predictionDF])
 	predictionDF.set_index("LSOA", inplace=True)
-	predictionDF.to_csv("/Users/emily/Documents/Work/Dissertation/Data/predictions.csv")
+	predictionDF.to_csv("Data/predictions.csv")
 	print("Done.")
 
 
