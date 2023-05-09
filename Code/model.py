@@ -70,7 +70,7 @@ def main():
 	testTargets = list(map(lambda l: crimes[l+"-target"], splitTrainTest[1]))
 	testCovariates = list(map(lambda l: crimes[l+"-covariates"], splitTrainTest[1]))
 
-	print("Done.\nDefining models...", end=' ')
+	print("Done.\nTraining models...", end=' ')
 	# define and fit N-BEATS model
 	# def fitNBEATS():
 		modelNBEATS = NBEATSModel(
@@ -136,9 +136,6 @@ def main():
 		modelRandomForestNoCovariates.save("Code/randomforest_no_covariates.pt")
 
 
-	# fit...
-	print("Done.\nTraining models...", end=' ')
-	
 	# print("Hyperparameter tuning...", end='')
 	# analysis = tune.run(
 	# 	tune.with_parameters(
