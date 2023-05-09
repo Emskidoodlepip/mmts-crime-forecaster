@@ -30,7 +30,7 @@ CRIMES_SD = 19.18644
 def destandardise(a):
 	return (a * CRIMES_SD) + CRIMES_MEAN
 
-# turn a sequence of 1x1x1 time series into an array, optionally destandardising its data
+# turn a sequence of 1x1x1 time series into a monodimensional array, optionally destandardising its data
 def flattenTSSeq(a, destand = False):
 	if destand:
 		return list(map(lambda x: destandardise(x.first_value()), a ))
