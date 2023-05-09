@@ -11,15 +11,22 @@ from sklearn.model_selection import train_test_split
 import torch
 import torchvision
 
+# from pytorch_lightning.callbacks import EarlyStopping
+# from ray import tune
+# from ray.tune import CLIReporter
+# from ray.tune.integration.pytorch_lightning import TuneReportCallback
+# from ray.tune.schedulers import ASHAScheduler
+# from torchmetrics import MeanAbsoluteError, MeanAbsolutePercentageError, MetricCollection
 
 
-DATA_PATH = "Data/Out/"
+
+DATA_PATH = "Data/Tensor/"
 CRIMES_MEAN = 12.50395
 CRIMES_SD = 19.18644
 
 
 
-# reverse standardisation process for more intelligible forecasts in real terms
+# reverse standardisation process for final crime data for more intelligible forecasts in real terms
 def destandardise(a):
 	return (a * CRIMES_SD) + CRIMES_MEAN
 
@@ -64,18 +71,26 @@ def main():
 	testCovariates = list(map(lambda l: crimes[l+"-covariates"], splitTrainTest[1]))
 
 	print("Done.\nDefining models...", end=' ')
-	# define N-BEATS model
-	modelNBEATS = NBEATSModel(
-		save_checkpoints	= True,		# for resumption in case of interruption
-		input_chunk_length	= 60,		# 5-year lookback time
-		output_chunk_length	= 1,		# only predict one month into the future
-		generic_architecture	= False,	# use interpretable model
-		num_blocks		= 3,		# use 3 blocks per trend/seasonality stack
-		pl_trainer_kwargs	= {		# allow multi-gpu acceleration in training
-			"accelerator":		"gpu",
-			"devices":		-1
-		}
-	)
+	# define and fit N-BEATS model
+	# def fitNBEATS():
+		modelNBEATS = NBEATSModel(
+			save_checkpoints	= True,		# for resumption in case of interruption
+			input_chunk_length	= 60,		# 5-year lookback time
+			output_chunk_length	= 1,		# only predict one month into the future
+			generic_architecture	= False,	# use interpretable model
+			num_blocks		= 3,		# use 3 blocks per trend/seasonality stack
+			pl_trainer_kwargs	= {		# allow multi-gpu acceleration in training
+				"accelerator":		"gpu",
+				"devices":		-1
+			}
+		)
+		modelNBEATS.fit(
+			series			= trainTargets,
+			past_covariates		= trainCovariates,
+			val_series		= testTargets,
+			val_past_covariates	= testCovariates,
+			verbose			= True
+		)
 	
 	# define N-BEATS model without covariates
 	modelNBEATSNoCovariates = NBEATSModel(
@@ -105,32 +120,81 @@ def main():
 
 	# fit...
 	print("Done.\nTraining models...", end=' ')
-	# modelNBEATS.fit(
-	# 	series			= trainTargets,
-	# 	past_covariates		= trainCovariates,
-	# 	val_series		= testTargets,
-	# 	val_past_covariates	= testCovariates,
-	# 	verbose			= True
-	# )
-	# modelNBEATS.save("Code/nbeats.pt")
 	
-	# modelNBEATSNoCovariates.fit(
-	# 	series			= trainTargets,
-	# 	val_series		= testTargets,
-	# 	verbose			= True
-	# )
-	# modelNBEATSNoCovariates.save("Code/nbeats_no_covariates.pt")
+	modelNBEATSNoCovariates.fit(
+		series			= trainTargets,
+		val_series		= testTargets,
+		verbose			= True
+	)
+	modelNBEATSNoCovariates.save("Code/nbeats_no_covariates.pt")
 
-	# modelRandomForest.fit(
-	# 	series			= trainTargets,
-	# 	past_covariates		= trainCovariates
-	# )
-	# modelRandomForest.save("Code/randomforest.pt")
+	modelRandomForest.fit(
+		series			= trainTargets,
+		past_covariates		= trainCovariates
+	)
+	modelRandomForest.save("Code/randomforest.pt")
 
-	# modelRandomForestNoCovariates.fit(
-	# 	series			= trainTargets
+	modelRandomForestNoCovariates.fit(
+		series			= trainTargets
+	)
+	modelRandomForestNoCovariates.save("Code/randomforest_no_covariates.pt")
+
+	# print("Hyperparameter tuning...", end='')
+	# analysis = tune.run(
+	# 	tune.with_parameters(
+	# 		fitNBEATS,
+	# 		callbacks = [
+	# 			EarlyStopping(
+	# 				monitor = "val_MeanAbsolutePercentageError",
+	# 				patience = 5,
+	# 				min_delta = 0.05,
+	# 				mode = "min"
+	# 			),
+	# 			TuneReportCallback(
+	# 				{
+	# 					"loss": "val_Loss",
+	# 					"MAPE": "val_MeanAbsolutePercentageError",
+	# 				},
+	# 				on = "validation_end"
+	# 			)
+	# 		],
+	# 		train = trainTargets,
+	# 		val = testTargets
+	# 	),
+	# 	resources_per_trial = {
+	# 		"cpu": 6,
+	# 		"gpu": 9
+	# 	},
+	# 	metric = "MAPE",
+	# 	mode = "min",
+	# 	config = {
+	# 		"batch_size": tune.choice([16, 32, 64, 128]),
+	# 		"num_blocks": tune.choice([1, 2, 3, 4, 5]),
+	# 		"num_stacks": tune.choice([32, 64, 128]),
+	# 		"dropout": tune.uniform(0, 0.2)
+	# 	},
+	# 	num_samples = 10,
+	# 	scheduler = ASHAScheduler(
+	# 		max_t = 1000,
+	# 		grace_period = 3,
+	# 		reduction_factor = 2
+	# 	),
+	# 	progress_reporter = CLIReporter(
+	#		parameter_columns = [
+	# 			"batch_size",
+	# 			"num_blocks",
+	# 			"num_stacks",
+	# 			"dropout"
+	# 		],
+	# 		metric_columns = [
+	# 			"loss",
+	# 			"MAPE",
+	# 			"training_iteration"
+	# 		]
+	# 	),
+	# 	name = "tuner"
 	# )
-	# modelRandomForestNoCovariates.save("Code/randomforest_no_covariates.pt")
+	# print(analysis)
 
 	# split final month from test set for predictions
 	print("Done.\nPreparing test set for prediction...", end=' ')
