@@ -90,7 +90,7 @@ def main():
 			val_past_covariates	= testCovariates,
 			verbose			= True
 		)
-		modelNBEATS.save("Code/nbeats.pt")
+		modelNBEATS.save("Models/nbeats.pt")
 	
 	# define N-BEATS model without covariates
 	# def fitNBEATSNoCovariates():
@@ -109,7 +109,7 @@ def main():
 			val_series		= testTargets,
 			verbose			= True
 		)
-		modelNBEATSNoCovariates.save("Code/nbeats_no_covariates.pt")
+		modelNBEATSNoCovariates.save("Models/nbeats_no_covariates.pt")
 
 
 	# define random forest model
@@ -122,7 +122,7 @@ def main():
 			series			= trainTargets,
 			past_covariates		= trainCovariates
 		)
-		modelRandomForest.save("Code/randomforest.pt")
+		modelRandomForest.save("Models/randomforest.pt")
 
 
 	# define random forest model without covariates
@@ -133,7 +133,7 @@ def main():
 		).fit(
 			series			= trainTargets
 		)
-		modelRandomForestNoCovariates.save("Code/randomforest_no_covariates.pt")
+		modelRandomForestNoCovariates.save("Models/randomforest_no_covariates.pt")
 
 
 	# print("Hyperparameter tuning...", end='')
@@ -207,26 +207,26 @@ def main():
 	# predict
 	print("Done.\nMaking predictions...", end=' ')
 	forecasts = {}
-	forecasts["N-BEATS"] = modelNBEATS.load("Code/nbeats.pt").predict(
+	forecasts["N-BEATS"] = modelNBEATS.load("Models/nbeats.pt").predict(
 		series		= testTargetsPast,
 		past_covariates	= testCovariatesPast,
 		n		= 1,			# just predict one month into the future
 		n_jobs		= -1,			# enable parallelisation
 	)
 
-	forecasts["N-BEATS (no covariates)"] = modelNBEATSNoCovariates.load("Code/nbeats_no_covariates.pt").predict(
+	forecasts["N-BEATS (no covariates)"] = modelNBEATSNoCovariates.load("Models/nbeats_no_covariates.pt").predict(
 		series		= testTargetsPast,
 		n		= 1,			# just predict one month into the future
 		n_jobs		= -1,			# enable parallelisation
 	)
 
-	forecasts["Random forest"] = modelRandomForest.load("Code/randomforest.pt").predict(
+	forecasts["Random forest"] = modelRandomForest.load("Models/randomforest.pt").predict(
 		series		= testTargetsPast,
 		past_covariates	= testCovariatesPast,
 		n		= 1			# just predict one month into the future
 	)
 
-	forecasts["Random forest (no covariates)"] = modelRandomForestNoCovariates.load("Code/randomforest_no_covariates.pt").predict(
+	forecasts["Random forest (no covariates)"] = modelRandomForestNoCovariates.load("Models/randomforest_no_covariates.pt").predict(
 		series		= testTargetsPast,
 		n		= 1			# just predict one month into the future
 	)
@@ -255,7 +255,7 @@ def main():
 	})
 	predictionDF = pandas.concat([metricsDF, predictionDF])
 	predictionDF.set_index("LSOA", inplace=True)
-	predictionDF.to_csv("Data/predictions.csv")
+	predictionDF.to_csv("predictions.csv")
 	print("Done.")
 
 
