@@ -37,11 +37,11 @@ def flattenTSSeq(a, destand = False):
 	else:
 		return list(map(lambda x: x.first_value(), a))
 
-# calculate RMSE and MAE values for two flat arrays
+# calculate RMSE and MBE values for two flat arrays
 def getMetrics(actual, predicted):
 	return [
 		numpy.sqrt(  	numpy.mean(numpy.square(	numpy.subtract(predicted, actual) )) ),	# RMSE
-				numpy.mean(numpy.absolute(	numpy.subtract(predicted, actual) )),	# MAE
+				numpy.mean(			numpy.subtract(predicted, actual) ),	# MAE
 	]
 
 
@@ -73,67 +73,67 @@ def main():
 	print("Done.\nTraining models...", end=' ')
 	# define and fit N-BEATS model
 	# def fitNBEATS():
-		modelNBEATS = NBEATSModel(
-			save_checkpoints	= True,		# for resumption in case of interruption
-			input_chunk_length	= 60,		# 5-year lookback time
-			output_chunk_length	= 1,		# only predict one month into the future
-			generic_architecture	= False,	# use interpretable model
-			num_blocks		= 3,		# use 3 blocks per trend/seasonality stack
-			pl_trainer_kwargs	= {		# allow multi-gpu acceleration in training
-				"accelerator":		"gpu",
-				"devices":		-1
-			}
-		).fit(
-			series			= trainTargets,
-			past_covariates		= trainCovariates,
-			val_series		= testTargets,
-			val_past_covariates	= testCovariates,
-			verbose			= True
-		)
-		modelNBEATS.save("Models/nbeats.pt")
+	modelNBEATS = NBEATSModel(
+		save_checkpoints	= True,		# for resumption in case of interruption
+		input_chunk_length	= 60,		# 5-year lookback time
+		output_chunk_length	= 1,		# only predict one month into the future
+		generic_architecture	= False,	# use interpretable model
+		num_blocks		= 3,		# use 3 blocks per trend/seasonality stack
+		pl_trainer_kwargs	= {		# allow multi-gpu acceleration in training
+			"accelerator":		"gpu",
+			"devices":		-1
+		}
+	#	).fit(
+	#		series			= trainTargets,
+	#		past_covariates		= trainCovariates,
+	#		val_series		= testTargets,
+	#		val_past_covariates	= testCovariates,
+	#		verbose			= True
+	)
+	#	modelNBEATS.save("Models/nbeats.pt")
 	
 	# define N-BEATS model without covariates
 	# def fitNBEATSNoCovariates():
-		modelNBEATSNoCovariates = NBEATSModel(
-			save_checkpoints	= True,		# for resumption in case of interruption
-			input_chunk_length	= 60,		# 5-year lookback time
-			output_chunk_length	= 1,		# only predict one month into the future
-			generic_architecture	= False,	# use interpretable model
-			num_blocks		= 3,		# use 3 blocks per trend/seasonality stack
-			pl_trainer_kwargs	= {		# allow multi-gpu acceleration in training
-				"accelerator":		"gpu",
-				"devices":		-1
-			}
-		).fit(
-			series			= trainTargets,
-			val_series		= testTargets,
-			verbose			= True
-		)
-		modelNBEATSNoCovariates.save("Models/nbeats_no_covariates.pt")
+	modelNBEATSNoCovariates = NBEATSModel(
+		save_checkpoints	= True,		# for resumption in case of interruption
+		input_chunk_length	= 60,		# 5-year lookback time
+		output_chunk_length	= 1,		# only predict one month into the future
+		generic_architecture	= False,	# use interpretable model
+		num_blocks		= 3,		# use 3 blocks per trend/seasonality stack
+		pl_trainer_kwargs	= {		# allow multi-gpu acceleration in training
+			"accelerator":		"gpu",
+			"devices":		-1
+		}
+	#	).fit(
+	#		series			= trainTargets,
+	#		val_series		= testTargets,
+	#		verbose			= True
+	)
+	#	modelNBEATSNoCovariates.save("Models/nbeats_no_covariates.pt")
 
 
 	# define random forest model
 	# def fitRandomForest():
-		modelRandomForest = RandomForest(
-			output_chunk_length	= 1,		# only predict one month into the future
-			lags			= 1,		# use static lags
-			lags_past_covariates	= 1
-		).fit(
-			series			= trainTargets,
-			past_covariates		= trainCovariates
-		)
-		modelRandomForest.save("Models/randomforest.pt")
+	modelRandomForest = RandomForest(
+		output_chunk_length	= 1,		# only predict one month into the future
+		lags			= 1,		# use static lags
+		lags_past_covariates	= 1
+	#	).fit(
+	#		series			= trainTargets,
+	#		past_covariates		= trainCovariates
+	)
+	#	modelRandomForest.save("Models/randomforest.pt")
 
 
 	# define random forest model without covariates
 	# def fitRandomForestNoCovariates():
-		modelRandomForestNoCovariates = RandomForest(
-			output_chunk_length	= 1,		# only predict one month into the future
-			lags			= 1		# use static lags
-		).fit(
-			series			= trainTargets
-		)
-		modelRandomForestNoCovariates.save("Models/randomforest_no_covariates.pt")
+	modelRandomForestNoCovariates = RandomForest(
+		output_chunk_length	= 1,		# only predict one month into the future
+		lags			= 1		# use static lags
+	#	).fit(
+	#		series			= trainTargets
+	)
+	#	modelRandomForestNoCovariates.save("Models/randomforest_no_covariates.pt")
 
 
 	# print("Hyperparameter tuning...", end='')
@@ -246,7 +246,7 @@ def main():
 		"Predicted (N-BEATS, with covariates)": 	forecasts["N-BEATS"]
 	})
 	metricsDF = pandas.DataFrame({
-		"LSOA":						["RMSE", "MAE"],
+		"LSOA":						["RMSE", "MBE"],
 		"Actual":					[0] * 2,
 		"Predicted (random forest, crime-intrinsic)":	getMetrics(testTargetsFuture, forecasts["Random forest (no covariates)"]),
 		"Predicted (random forest, with covariates)":	getMetrics(testTargetsFuture, forecasts["Random forest"]),
