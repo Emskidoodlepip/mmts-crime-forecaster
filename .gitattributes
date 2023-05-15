@@ -2,3 +2,5 @@ Models/nbeats.pt filter=lfs diff=lfs merge=lfs -text
 Models/nbeats_no_covariates.pt filter=lfs diff=lfs merge=lfs -text
 Models/randomforest.pt filter=lfs diff=lfs merge=lfs -text
 Models/randomforest_no_covariates.pt filter=lfs diff=lfs merge=lfs -text
+Data/Boundaries/LSOA-2021-EW-BFE.geojson filter=lfs diff=lfs merge=lfs -text
+Data/Boundaries/Postcode[[:space:]]Lookup[[:space:]]2023-03.csv filter=lfs diff=lfs merge=lfs -text
