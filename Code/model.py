@@ -5,8 +5,6 @@ import pandas
 import numpy
 from darts import TimeSeries
 from darts.models import NBEATSModel, RandomForest
-from darts.metrics import rmse
-from datetime import datetime
 from sklearn.model_selection import train_test_split
 import torch
 import torchvision
